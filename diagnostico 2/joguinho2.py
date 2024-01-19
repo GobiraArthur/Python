@@ -4,9 +4,9 @@ print ("Jogo de advinhação")
 print ("Vamos jogar!! Pense em um número entre 1 e 100")
 acertei = False
 tentativas = 1
-maior = 100
+maior = 101
 menor = 1
-aleatorio = random.randint(1, 100)
+aleatorio = random.randint(1, 101)
 lista = []
 
 while acertei == False:
@@ -28,4 +28,3 @@ if acertei == True:
 if tentativas > 8:
     x = int(input("Que pena, eu perdi! Qual era o numero?"))
     print ("Você trapacecou ")
-    

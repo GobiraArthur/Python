@@ -1,6 +1,6 @@
 import random
 
-aleatorio = random.randint(1, 100)
+aleatorio = random.randint(1, 101)
 tentativas = 0
 palpite = 0
 print("Jogo de advinhação")
