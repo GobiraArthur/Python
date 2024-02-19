@@ -1,0 +1,1001 @@
+,Nome,CPF,Idade,Email,Nota Enem,CRA2,CRA4,CRA6,Abandonou,Semestre Abandonou
+0,Gabriel Melo,260.741.398-22,25,lorena39@example.com,678,9.18,,,True,3.0
+1,Sra. Isabelly Sales,746.893.052-00,24,joaquim21@example.com,750,8.36,8.39,7.72,False,
+2,Anthony Jesus,746.829.105-58,27,lopessabrina@example.com,645,9.78,7.0,6.45,False,
+3,Leandro da Conceição,096.321.487-03,18,vitor-gabriel91@example.net,722,9.92,6.87,9.66,False,
+4,Dr. Benício Teixeira,790.354.182-04,27,urezende@example.net,793,5.57,8.9,6.49,False,
+5,Vicente Mendes,947.208.651-94,20,rrodrigues@example.org,676,7.57,,,True,3.0
+6,Sra. Júlia Fogaça,169.705.823-02,27,julia44@example.org,742,6.67,8.65,7.88,False,
+7,Davi Novaes,801.243.965-42,28,cardosoana-laura@example.net,773,7.95,8.34,8.16,False,
+8,João Miguel Dias,839.064.751-66,22,pietrorodrigues@example.org,748,,,,True,2.0
+9,Maria Vitória Jesus,301.865.274-62,26,ndas-neves@example.com,780,7.69,9.35,5.34,False,
+10,Davi Lucca Pires,870.954.321-04,24,brunamartins@example.com,798,5.41,5.06,8.26,False,
+11,Ana Luiza Peixoto,208.975.364-10,24,lnascimento@example.com,727,7.07,8.05,9.21,False,
+12,Beatriz Porto,647.931.208-22,21,lucca67@example.org,786,5.83,,,True,4.0
+13,Luiz Henrique da Cunha,230.147.895-50,25,stella18@example.com,652,7.9,,,True,3.0
+14,Srta. Ana Luiza das Neves,789.345.126-28,18,nogueiraenzo-gabriel@example.org,646,9.98,6.4,6.0,False,
+15,Júlia Rezende,745.682.019-85,21,enzomoreira@example.org,781,9.78,7.11,8.32,False,
+16,Bruna Moreira,804.526.931-60,26,luanamartins@example.org,792,,,,True,2.0
+17,Sra. Olivia Silveira,782.406.359-38,25,guilherme92@example.net,743,7.05,8.07,9.49,False,
+18,Enzo Araújo,698.451.302-24,18,karagao@example.org,720,6.73,9.37,9.67,False,
+19,Sr. Benício Cardoso,951.480.326-42,19,das-neveseloah@example.net,668,9.04,8.29,9.31,False,
+20,Bruna Moreira,098.514.637-01,19,santosnathan@example.net,789,5.48,5.63,8.21,False,
+21,Dra. Sofia Oliveira,749.068.352-10,24,oferreira@example.org,735,8.15,6.78,7.39,False,
+22,Sr. Daniel da Mota,802.761.459-76,23,qgomes@example.org,757,5.79,,,True,4.0
+23,Ana Laura Correia,650.784.319-93,25,ffernandes@example.net,683,,,,True,2.0
+24,Ana Clara Santos,923.864.057-29,20,mmartins@example.net,718,5.63,6.76,8.46,False,
+25,Eloah Ribeiro,549.106.728-85,20,maria-eduarda17@example.com,714,8.69,8.63,,True,5.0
+26,Ana Luiza Cunha,527.903.186-03,21,psouza@example.org,800,7.22,6.81,6.72,False,
+27,Julia Nascimento,125.843.790-23,21,julianapires@example.net,699,6.68,8.77,,True,5.0
+28,Eloah Azevedo,729.084.316-96,21,stella52@example.com,672,6.55,7.66,5.99,False,
+29,Ian Pereira,459.782.610-67,25,nascimentoana-beatriz@example.com,666,7.1,9.64,5.56,False,
+30,Cecília Barros,692.478.510-76,23,pedro-henriqueda-mata@example.org,774,5.54,7.88,9.5,False,
+31,Maria Clara Rezende,894.351.602-98,21,vda-paz@example.net,760,6.52,7.03,7.87,False,
+32,Thales Gomes,320.795.184-88,25,tda-cunha@example.net,743,9.65,,,True,4.0
+33,Dra. Luna Cardoso,615.709.324-25,21,beatrizda-cruz@example.net,790,8.59,5.57,8.87,False,
+34,Clarice Silveira,296.143.857-82,23,vicentepereira@example.net,691,,,,True,2.0
+35,Leandro Porto,869.542.317-46,20,yuri30@example.net,731,7.54,8.43,5.73,False,
+36,Sr. João Guilherme da Rocha,168.493.570-93,20,novaesvitor-gabriel@example.net,729,7.85,7.39,6.06,False,
+37,Amanda Peixoto,916.358.742-46,22,sabrinafogaca@example.org,742,6.73,9.8,9.54,False,
+38,Caroline Lopes,627.431.095-99,24,ferreiraelisa@example.org,753,9.1,9.81,6.81,False,
+39,Gustavo Henrique da Luz,845.632.109-51,24,camilaviana@example.net,653,,,,True,2.0
+40,Olivia das Neves,579.243.081-05,26,pedro-henriquesantos@example.com,684,7.05,6.13,9.93,False,
+41,Helena Costa,321.856.940-06,27,manuelajesus@example.net,782,9.61,7.23,7.41,False,
+42,Caio Pereira,570.234.968-74,25,julia26@example.org,711,8.17,7.94,5.9,False,
+43,Stella Novaes,230.658.174-62,24,luiz-felipe39@example.com,654,8.25,9.15,8.74,False,
+44,Sr. Davi Lucca da Luz,431.079.285-50,19,maysarodrigues@example.org,771,,,,True,2.0
+45,Mariana Cardoso,263.408.719-50,28,biancacampos@example.com,797,5.11,9.28,8.3,False,
+46,Letícia Cavalcanti,395.062.784-74,25,frodrigues@example.org,797,9.17,6.11,9.21,False,
+47,Alice Moraes,130.984.627-87,26,aragaopietro@example.org,774,5.48,7.73,,True,6.0
+48,Enzo Rocha,450.132.796-07,24,kamillymoreira@example.org,647,9.33,7.57,9.11,False,
+49,Luna Santos,054.819.726-11,21,saleshenrique@example.net,743,6.92,6.22,5.74,False,
+50,Igor Lopes,602.385.749-38,27,lorena51@example.com,666,7.17,,,True,3.0
+51,Dr. Vitor Azevedo,065.381.724-07,22,kevin42@example.net,681,8.36,7.49,6.49,False,
+52,Dr. Lorenzo Pires,620.714.893-22,26,ana-carolinasales@example.net,666,6.02,5.55,6.32,False,
+53,Fernando Cardoso,740.139.852-41,23,samuelpires@example.org,720,8.16,9.33,6.9,False,
+54,Cecília Oliveira,526.094.781-94,23,ferreiraana-laura@example.net,695,8.3,5.73,7.09,False,
+55,Amanda Mendes,921.387.405-79,25,duartebryan@example.com,745,5.89,6.65,6.32,False,
+56,Lorena Duarte,876.945.021-85,26,vianaemanuel@example.com,719,6.78,,,True,3.0
+57,Kevin Novaes,475.268.130-71,25,maria-vitoria50@example.com,722,9.36,8.33,7.89,False,
+58,Arthur Carvalho,486.219.075-85,19,xramos@example.org,700,9.19,7.98,5.58,False,
+59,Natália Lima,752.486.013-71,28,edas-neves@example.com,763,9.86,7.79,7.51,False,
+60,Emanuelly Costa,586.241.379-00,19,joao-pedro50@example.com,787,7.64,8.35,6.36,False,
+61,Anthony Rezende,069.528.471-11,26,bianca21@example.org,764,7.07,5.4,,True,6.0
+62,Cauê Almeida,341.026.759-06,20,nunespietro@example.net,713,5.31,,,True,3.0
+63,Alice Lima,412.670.985-11,23,joao-felipe16@example.com,740,7.99,8.51,8.24,False,
+64,Eloah Souza,351.420.687-26,25,sabrina92@example.org,734,8.41,9.15,,True,6.0
+65,Calebe Campos,273.190.456-99,19,dsilveira@example.net,698,9.15,5.92,6.64,False,
+66,Giovanna Barbosa,064.289.751-49,27,calves@example.org,789,6.29,5.14,9.45,False,
+67,Anthony Sales,789.365.204-74,20,ana-carolina66@example.net,709,7.73,5.42,,True,5.0
+68,Sr. Lucas Silveira,784.361.925-91,27,isisramos@example.com,797,7.34,6.42,6.93,False,
+69,Joana Araújo,925.834.167-82,19,alice23@example.com,730,5.36,8.59,9.53,False,
+70,Melissa Santos,907.385.164-57,25,maria-luiza35@example.net,748,7.3,5.36,7.88,False,
+71,Rafael Martins,901.246.537-07,22,teixeiramarcela@example.com,718,6.16,5.37,9.09,False,
+72,Raquel Lopes,832.047.195-88,19,stella96@example.org,789,9.52,7.24,6.12,False,
+73,Augusto Santos,405.738.612-26,23,zcaldeira@example.net,693,8.41,5.05,7.92,False,
+74,Sr. Paulo Porto,593.126.708-59,20,xgoncalves@example.com,693,6.16,8.98,10.0,False,
+75,Caio Cunha,271.039.468-50,22,brenda22@example.com,653,,,,True,1.0
+76,Igor Rezende,975.186.324-46,23,amandalima@example.net,763,,,,True,2.0
+77,Ana Luiza Teixeira,609.854.371-20,25,costasophia@example.org,732,7.6,9.06,9.67,False,
+78,Yuri Ribeiro,670.321.859-59,28,joana85@example.net,726,5.32,,,True,4.0
+79,Miguel Nascimento,854.013.976-66,20,kamilly67@example.org,736,5.67,5.82,5.27,False,
+80,Gustavo da Mata,629.074.835-10,25,marianecaldeira@example.org,752,7.18,,,True,3.0
+81,Isabelly Rodrigues,149.372.658-73,24,ada-rosa@example.com,690,8.36,6.56,9.09,False,
+82,Gustavo Peixoto,759.012.364-16,28,mnovaes@example.net,681,6.63,7.57,6.68,False,
+83,Cauã Teixeira,140.268.375-80,21,da-mataluiza@example.com,718,5.25,7.18,,True,5.0
+84,Luiz Felipe Gomes,741.308.526-71,21,abarros@example.com,657,5.24,9.55,9.0,False,
+85,Dr. Calebe Viana,569.703.284-65,19,msouza@example.com,758,6.77,6.8,5.5,False,
+86,Pedro Henrique da Mata,597.482.130-05,19,brunalima@example.org,789,,,,True,2.0
+87,Ana Luiza Castro,271.649.308-13,18,augustoda-rocha@example.net,757,9.46,5.88,7.76,False,
+88,Maria Vitória Correia,543.729.801-32,27,santosmarcos-vinicius@example.com,685,8.94,5.51,,True,6.0
+89,Guilherme da Conceição,596.823.174-28,19,alvestheo@example.net,652,9.07,6.87,,True,5.0
+90,Juliana Correia,351.894.206-98,19,marianemendes@example.org,761,9.71,7.29,7.91,False,
+91,Isis Lopes,765.243.910-80,23,maria-alice85@example.org,724,9.6,7.72,9.99,False,
+92,Daniel Oliveira,027.631.985-03,26,peixotoluiz-felipe@example.net,792,8.83,8.5,9.65,False,
+93,Sr. Guilherme Nunes,479.108.653-84,19,fernandesjoao-guilherme@example.net,704,7.15,9.54,9.65,False,
+94,Emanuel Santos,407.286.391-22,25,diaspedro-miguel@example.net,783,9.31,8.48,6.61,False,
+95,Rebeca Carvalho,821.543.690-06,20,luiz-otavio16@example.net,728,8.0,6.9,6.39,False,
+96,Sra. Sarah Cunha,215.697.083-12,27,marcos-vinicius14@example.com,640,5.83,7.54,5.14,False,
+97,Ana Beatriz Pereira,160.528.734-26,26,davi-luizmelo@example.net,753,6.36,5.79,6.0,False,
+98,Júlia Araújo,234.056.879-00,27,rezendemarcos-vinicius@example.net,767,9.12,9.11,,True,6.0
+99,Noah Pires,921.086.735-12,20,mda-mata@example.net,726,8.01,9.26,,True,6.0
+100,Dr. Matheus das Neves,830.579.241-23,26,theorocha@example.org,768,7.67,7.71,,True,6.0
+101,Nicolas da Rosa,853.697.014-66,25,fcosta@example.net,717,6.13,8.75,,True,5.0
+102,Vitor Gabriel Sales,539.284.061-24,18,ununes@example.net,781,7.88,5.59,5.48,False,
+103,Vicente Rodrigues,106.524.983-70,25,rcostela@example.org,754,7.93,9.18,6.5,False,
+104,Yago Rodrigues,965.178.302-86,25,dvieira@example.org,722,6.12,,,True,4.0
+105,Pedro Lucas Nunes,254.903.671-99,28,cda-conceicao@example.net,781,6.95,8.59,5.88,False,
+106,Sr. Luiz Otávio Fogaça,468.279.031-50,23,cardosocecilia@example.org,761,8.76,8.64,8.44,False,
+107,Julia Fernandes,182.906.375-86,23,da-cruzmanuela@example.net,654,7.07,5.26,7.92,False,
+108,Maria Eduarda Almeida,185.726.349-91,20,araujoluiza@example.net,736,,,,True,2.0
+109,Nicolas Lopes,923.170.564-43,24,fariasyasmin@example.net,696,6.89,5.83,6.21,False,
+110,Enrico Ribeiro,487.360.251-35,25,salmeida@example.org,685,8.76,5.22,7.79,False,
+111,Caroline Melo,135.062.749-61,18,asales@example.org,798,9.54,7.95,,True,6.0
+112,Raul da Rosa,584.930.267-00,19,isabelcunha@example.org,666,6.17,7.01,5.07,False,
+113,Sr. Davi Luiz Cunha,816.457.902-58,22,jalmeida@example.net,705,7.82,9.66,,True,5.0
+114,Luiz Gustavo Moura,285.943.710-04,23,barbosaalice@example.net,788,8.51,,,True,3.0
+115,Maria Julia Lima,801.973.645-00,27,araujoalicia@example.com,682,,,,True,1.0
+116,Ana Clara Farias,143.759.806-48,28,luiz-gustavomoreira@example.org,732,5.56,9.2,7.67,False,
+117,Henrique Monteiro,129.038.574-23,27,mda-mata@example.org,654,,,,True,1.0
+118,Nicolas Melo,786.514.930-10,26,zda-paz@example.net,767,8.17,9.28,7.91,False,
+119,Olivia Cunha,125.096.438-51,20,duartejoao-felipe@example.net,664,8.29,7.8,5.65,False,
+120,Juan Azevedo,508.261.943-89,24,samueldas-neves@example.net,696,7.82,9.93,9.81,False,
+121,Benício Gomes,056.381.942-15,22,lais65@example.com,745,6.48,6.43,7.77,False,
+122,Maitê Azevedo,896.240.731-04,20,zpereira@example.org,643,8.26,7.2,6.07,False,
+123,Ana Luiza da Cruz,379.105.246-25,23,pedro-lucas25@example.com,734,7.8,9.89,9.08,False,
+124,Dr. Igor Correia,143.059.286-98,21,fariasaugusto@example.com,745,7.54,8.17,8.19,False,
+125,Davi Lucca da Costa,359.608.124-60,20,luiz-fernando04@example.org,728,9.88,7.62,9.23,False,
+126,João Lucas Novaes,690.243.785-83,28,heitorlopes@example.org,748,8.53,5.56,9.88,False,
+127,Sophie Farias,092.564.837-00,28,yasmin73@example.net,771,,,,True,1.0
+128,Gabriel Costela,306.841.927-13,18,zcardoso@example.com,750,7.29,7.11,8.9,False,
+129,Dr. Calebe Fernandes,651.097.384-75,22,enzo-gabrieldas-neves@example.net,750,9.28,6.01,9.5,False,
+130,Vinicius Duarte,084.295.716-20,21,carolinesilva@example.com,671,6.14,8.53,9.15,False,
+131,Vitor Hugo da Paz,540.712.863-26,28,araujootavio@example.com,678,7.78,5.82,9.26,False,
+132,Dr. Thomas Farias,581.204.639-51,25,luana03@example.net,787,,,,True,1.0
+133,Dr. Marcos Vinicius Campos,902.756.143-52,18,sophiada-rocha@example.com,645,8.76,6.12,9.92,False,
+134,Sra. Agatha Ramos,860.139.275-02,21,caldeiravitor-gabriel@example.com,749,5.54,,,True,3.0
+135,Ana Cardoso,079.651.348-10,26,luigiteixeira@example.com,740,8.9,,,True,3.0
+136,Emanuelly da Rosa,987.405.623-10,24,amonteiro@example.org,758,5.89,8.58,8.35,False,
+137,Gabriela Azevedo,437.908.156-75,25,joao-guilherme77@example.com,759,9.33,8.71,8.2,False,
+138,Manuela Lima,597.136.408-10,24,rafael79@example.com,740,9.01,9.47,,True,6.0
+139,Felipe Duarte,532.176.804-80,23,sfreitas@example.com,765,6.07,6.44,8.1,False,
+140,Dr. Luiz Otávio Porto,405.138.679-10,19,fernandesmaria-alice@example.net,693,5.43,9.07,5.39,False,
+141,Vinicius Gomes,279.405.136-99,24,hda-paz@example.net,754,7.08,9.77,,True,5.0
+142,Sr. Diogo Santos,802.439.517-79,24,cnunes@example.org,786,5.74,7.38,6.69,False,
+143,Emanuel Silveira,201.769.435-52,23,leticia18@example.com,672,7.19,,,True,3.0
+144,Caroline Peixoto,529.431.076-70,23,isadorapeixoto@example.net,646,6.16,9.28,5.16,False,
+145,Bruno da Cruz,516.027.894-01,27,correiaevelyn@example.com,786,6.56,7.65,,True,6.0
+146,Valentina Barbosa,835.260.719-77,22,luiz-otaviolopes@example.net,694,9.28,8.8,8.88,False,
+147,Joana Campos,642.351.087-35,18,nathanlopes@example.com,657,7.35,8.98,7.04,False,
+148,Alexia Gomes,948.567.310-84,19,matheus98@example.org,685,9.08,,,True,4.0
+149,Maria Cecília Ferreira,518.402.973-79,20,pereiraluiz-gustavo@example.com,794,7.33,7.7,7.42,False,
+150,Srta. Maria Vitória Pereira,829.403.617-03,25,luiz-felipecampos@example.net,790,8.6,,,True,4.0
+151,Fernanda Castro,432.198.706-78,26,ocaldeira@example.net,779,9.74,6.83,6.28,False,
+152,Stella Gonçalves,459.180.376-75,26,emanuel67@example.com,753,7.68,,,True,4.0
+153,Dra. Catarina da Conceição,650.893.471-66,22,ncarvalho@example.org,758,9.2,,,True,3.0
+154,Natália Cardoso,578.204.196-01,26,lgomes@example.net,677,,,,True,2.0
+155,Sr. Eduardo Correia,132.470.598-14,24,rezendevitor-hugo@example.net,720,6.64,9.46,9.28,False,
+156,Dr. Pedro Lucas da Luz,415.027.369-34,24,joao-miguelpeixoto@example.com,684,7.11,8.21,7.16,False,
+157,Ana Beatriz Viana,140.329.758-41,22,luiz-otaviodias@example.org,777,7.33,9.01,8.6,False,
+158,Maria Clara das Neves,694.185.037-00,27,pgoncalves@example.org,670,7.9,6.32,5.51,False,
+159,Joaquim Barros,418.397.560-39,18,maria-julia07@example.org,716,7.08,6.82,7.39,False,
+160,Bianca Fogaça,743.201.685-26,19,joao-lucasgomes@example.net,665,9.81,8.64,7.08,False,
+161,Pietro Fogaça,542.018.673-07,19,correialucca@example.com,751,7.03,9.22,5.15,False,
+162,Raul Lopes,846.907.153-00,24,pedro-lucaspereira@example.net,773,5.45,5.92,8.95,False,
+163,Heloísa da Paz,473.289.651-00,23,gpeixoto@example.net,732,,,,True,1.0
+164,Fernanda Correia,574.309.261-34,19,ucardoso@example.com,758,,,,True,1.0
+165,Ana Lívia Oliveira,516.794.820-76,23,lais31@example.com,779,5.37,9.1,8.11,False,
+166,Sophia das Neves,594.071.268-11,23,clara76@example.net,740,9.34,7.46,6.21,False,
+167,Lívia Silva,315.842.970-50,22,ana-carolina07@example.com,669,5.54,6.51,5.74,False,
+168,Amanda das Neves,560.491.328-60,18,mariane68@example.com,701,7.91,9.29,9.35,False,
+169,Júlia Moreira,591.320.467-07,19,elopes@example.org,782,5.49,,,True,3.0
+170,Elisa Lima,148.056.239-42,27,rodrigosouza@example.net,660,7.67,8.03,8.6,False,
+171,Luiz Felipe Araújo,625.074.183-62,19,mirellalima@example.net,667,5.57,6.81,9.29,False,
+172,Srta. Rafaela Duarte,461.278.093-04,23,hfreitas@example.net,702,5.1,9.36,8.09,False,
+173,Davi Lucca Jesus,189.246.307-50,19,fsilveira@example.net,734,5.17,,,True,4.0
+174,Rebeca da Rosa,240.689.573-47,21,ana-beatriz04@example.net,702,5.78,5.04,8.81,False,
+175,Sr. Kaique Lima,940.261.853-89,25,ana-liviacosta@example.org,711,5.36,9.41,7.49,False,
+176,Murilo Moreira,738.250.164-71,26,pfreitas@example.com,692,6.29,9.82,9.13,False,
+177,Renan Dias,502.346.781-35,27,ymartins@example.org,759,9.26,5.06,6.56,False,
+178,Murilo Carvalho,910.762.538-30,20,xsantos@example.com,741,6.96,7.06,9.59,False,
+179,Sophia Rezende,354.012.689-98,28,valentina66@example.com,702,9.5,5.81,5.29,False,
+180,Maria Sophia da Costa,293.840.516-24,21,freitasmariane@example.org,733,7.06,8.88,6.72,False,
+181,Srta. Bianca Dias,508.926.374-47,19,mouracamila@example.com,673,5.08,7.49,7.85,False,
+182,Dra. Emanuella Barros,876.102.539-95,26,mrocha@example.com,767,5.6,8.5,,True,5.0
+183,Marcelo das Neves,950.483.172-97,22,bdas-neves@example.org,666,8.67,5.08,8.04,False,
+184,Enrico Sales,614.938.570-10,28,rezendevitor-hugo@example.org,761,9.85,8.67,6.94,False,
+185,Sr. Davi Lucca Castro,420.831.796-50,23,rrodrigues@example.net,681,7.63,5.99,9.93,False,
+186,Olivia da Cunha,659.173.042-70,27,lnovaes@example.net,750,6.35,7.85,6.11,False,
+187,Anthony Almeida,396.204.718-22,20,ana-laurasales@example.com,650,7.2,7.4,,True,6.0
+188,Lívia Duarte,596.840.321-70,25,xmelo@example.org,735,,,,True,1.0
+189,Arthur Correia,914.823.605-51,20,agathacastro@example.net,642,8.09,8.96,9.73,False,
+190,Pedro Henrique Porto,697.435.081-39,21,oliviaaraujo@example.com,668,6.6,,,True,4.0
+191,Luana da Mata,952.831.674-37,25,henriquearaujo@example.net,720,5.96,5.96,9.42,False,
+192,Dr. Luiz Henrique Costela,529.164.083-98,25,ana-sophiada-conceicao@example.net,776,7.72,7.15,6.94,False,
+193,Isis Moreira,947.680.231-69,18,hdias@example.com,717,6.92,9.22,9.19,False,
+194,Diego Oliveira,987.256.413-28,28,theo64@example.org,781,5.88,5.38,9.76,False,
+195,Paulo Pereira,925.708.134-60,21,qcardoso@example.net,785,9.91,7.36,9.38,False,
+196,Emanuelly Farias,687.941.230-04,28,freitaspietra@example.net,686,8.72,9.75,5.41,False,
+197,Kaique Martins,492.167.538-46,18,epeixoto@example.net,754,7.72,6.46,7.08,False,
+198,Dr. Thales Melo,546.023.918-42,18,igor50@example.net,746,5.61,,,True,4.0
+199,Sra. Ana Vitória Gomes,705.831.496-93,23,clarice78@example.org,778,7.74,8.41,7.35,False,
+200,Maria Alice Costa,580.719.346-66,28,rsantos@example.org,682,,,,True,1.0
+201,Isabel Porto,470.235.168-08,27,melokevin@example.com,679,7.53,9.2,7.8,False,
+202,Cauê Costela,534.207.681-17,20,osilva@example.net,711,5.04,9.29,9.58,False,
+203,Bernardo das Neves,460.315.298-15,19,sabrina87@example.net,775,,,,True,1.0
+204,Lara Teixeira,831.795.206-12,20,vpires@example.org,785,5.92,8.53,9.94,False,
+205,Sra. Maria Rezende,938.507.624-83,28,aragaomaria-fernanda@example.org,700,9.46,8.13,9.36,False,
+206,Murilo Silveira,680.742.935-56,18,luiz-fernando48@example.com,680,7.61,9.29,8.68,False,
+207,Emilly Souza,193.452.680-06,27,martinsdaniel@example.net,722,5.65,8.8,6.91,False,
+208,João Pedro Castro,940.386.257-29,23,bruna94@example.net,649,8.37,5.19,8.36,False,
+209,Sra. Alice Cavalcanti,685.214.073-35,22,nda-rosa@example.org,699,,,,True,1.0
+210,Alana Nascimento,746.925.031-06,23,pintojoaquim@example.com,730,8.2,5.36,6.57,False,
+211,Cecília Vieira,290.674.358-56,22,anacaldeira@example.org,748,5.87,6.53,5.85,False,
+212,Stella da Rocha,304.876.215-90,22,joao-pedro28@example.com,704,9.14,9.65,7.5,False,
+213,Sra. Luna Moreira,578.190.236-86,19,luanada-mota@example.net,773,5.27,8.79,5.46,False,
+214,Theo da Cruz,785.432.910-97,19,lais87@example.net,746,6.13,6.59,9.85,False,
+215,Stephany Mendes,418.256.903-24,18,lorenarezende@example.org,711,5.28,7.21,8.16,False,
+216,Nicolas Martins,384.027.659-47,22,ana-juliagoncalves@example.com,777,7.07,7.01,7.08,False,
+217,Ana Júlia Gomes,286.371.054-08,22,sarah91@example.net,735,5.82,9.34,7.86,False,
+218,Enzo Rocha,296.854.103-05,23,da-luzleonardo@example.net,697,,,,True,1.0
+219,Joaquim Cardoso,250.176.384-07,28,bernardo37@example.com,697,9.07,6.01,9.33,False,
+220,João Guilherme da Mota,265.701.384-80,22,guilherme38@example.net,651,6.8,7.35,,True,5.0
+221,Fernanda da Conceição,134.670.258-62,25,bernardo57@example.com,741,8.12,6.82,7.72,False,
+222,Maria Alice Pinto,310.289.746-04,22,nicolasaragao@example.com,777,6.75,8.38,6.3,False,
+223,Dr. Rafael Cunha,291.740.653-43,19,caueda-mata@example.net,684,5.84,9.72,5.98,False,
+224,Sra. Luiza Melo,273.940.568-56,19,umonteiro@example.org,744,9.5,7.62,7.78,False,
+225,Ana Laura Rocha,793.054.681-01,22,sophia55@example.net,649,7.34,7.14,,True,5.0
+226,Letícia das Neves,517.409.382-32,21,ribeiroandre@example.org,684,5.46,,,True,4.0
+227,Carolina Correia,385.690.471-93,20,luiz-felipe01@example.com,733,,,,True,2.0
+228,Sra. Lavínia Jesus,019.786.532-12,27,raul86@example.net,758,5.24,8.25,8.17,False,
+229,Alícia da Conceição,193.258.074-32,20,lais42@example.org,703,5.13,8.14,9.99,False,
+230,Ana Lívia Peixoto,783.241.095-79,27,pietro10@example.org,789,9.01,8.42,,True,5.0
+231,Carolina Melo,730.962.581-12,19,emoraes@example.net,655,8.15,8.96,9.41,False,
+232,Bárbara Caldeira,317.694.852-28,21,marina05@example.com,733,5.27,5.95,7.27,False,
+233,Lorenzo Rocha,036.172.498-50,18,pintoana-sophia@example.org,722,,,,True,2.0
+234,Dr. Heitor Rocha,893.154.726-91,19,kcardoso@example.org,658,9.21,8.93,9.77,False,
+235,Luna Fogaça,574.830.192-04,18,barrosjoao-vitor@example.org,657,8.08,8.65,,True,5.0
+236,Joana Rezende,203.198.675-95,22,nunesbryan@example.net,796,9.08,,,True,3.0
+237,Raul Freitas,528.469.130-05,22,brenda24@example.org,761,,,,True,2.0
+238,Nathan Gonçalves,965.401.273-16,25,rafaelapinto@example.org,663,8.51,6.39,7.11,False,
+239,Dr. Luiz Henrique Dias,542.831.067-71,19,kevincavalcanti@example.org,800,5.12,6.91,9.88,False,
+240,Rafael Pinto,507.124.398-97,28,fariasana-sophia@example.com,653,5.47,6.08,6.89,False,
+241,Lorenzo Duarte,632.541.087-44,20,liviacarvalho@example.com,653,7.92,9.13,,True,6.0
+242,Raul Nogueira,130.749.265-70,26,da-cunhathomas@example.org,655,9.56,5.6,8.38,False,
+243,Joaquim da Mota,324.051.897-04,22,novaesenrico@example.net,723,9.89,9.94,5.62,False,
+244,Lucas Gabriel da Cruz,849.260.371-22,19,ana-beatriz78@example.com,743,9.16,6.31,5.46,False,
+245,Bernardo Caldeira,814.057.962-94,25,melissa72@example.net,677,9.35,,,True,4.0
+246,Calebe Castro,859.412.736-73,20,peixotokamilly@example.net,645,,,,True,1.0
+247,Raul Carvalho,296.501.734-80,27,da-luznoah@example.com,772,9.76,,,True,3.0
+248,Sr. Gustavo Henrique da Paz,512.743.890-97,20,bruna89@example.org,709,6.07,9.29,7.89,False,
+249,Dra. Rafaela Aragão,849.273.615-19,22,knogueira@example.org,775,9.04,9.94,7.41,False,
+250,Maria Luiza Lima,185.732.049-23,26,santosluigi@example.org,662,9.7,7.38,9.1,False,
+251,Enrico Oliveira,286.731.459-37,19,moraesbarbara@example.com,701,5.35,7.54,5.46,False,
+252,Nathan Duarte,693.472.015-61,18,igomes@example.com,677,8.28,6.42,8.1,False,
+253,Ana Pereira,798.130.642-69,27,vieiraluiz-felipe@example.org,778,9.36,6.78,6.49,False,
+254,Bárbara Almeida,987.526.134-37,24,da-cunhaluiz-gustavo@example.org,702,9.71,8.9,5.91,False,
+255,Isaac Mendes,278.901.364-04,26,rodriguesbryan@example.net,668,5.02,6.11,8.98,False,
+256,Rodrigo Lima,548.702.931-88,22,danielamoura@example.org,779,5.64,9.12,7.11,False,
+257,Sophia Alves,357.642.081-90,25,ribeiroemanuel@example.com,767,9.26,5.84,5.15,False,
+258,Fernando da Cunha,673.215.498-28,26,miguel11@example.org,755,7.89,6.38,8.55,False,
+259,Maria Alice Lopes,143.672.509-70,28,jesusvitor-gabriel@example.net,748,9.06,7.4,,True,6.0
+260,Joaquim da Rocha,902.536.714-34,21,bcosta@example.org,758,9.76,9.61,8.31,False,
+261,Srta. Ana Luiza Porto,938.026.517-40,26,luiz-felipenogueira@example.org,689,8.86,6.9,6.3,False,
+262,Sr. Rafael da Costa,092.547.631-52,28,ana-julia70@example.com,667,6.08,5.22,5.28,False,
+263,Arthur Pinto,469.823.015-24,18,caldeiramarcela@example.org,785,7.43,7.52,,True,6.0
+264,Lucca Cardoso,026.495.371-16,28,da-pazfrancisco@example.com,765,6.45,6.52,7.01,False,
+265,Srta. Valentina Fogaça,329.164.780-78,26,maria-julia41@example.net,660,5.25,5.59,5.2,False,
+266,Lorenzo Freitas,572.018.394-97,19,vieirarafaela@example.org,725,7.15,7.6,9.91,False,
+267,Maria Julia da Luz,013.967.245-16,20,hcarvalho@example.org,799,9.61,5.14,6.89,False,
+268,Srta. Marina da Rosa,716.358.920-40,23,vitor-hugo39@example.org,774,6.1,5.74,5.34,False,
+269,Lorena Ferreira,198.630.572-40,27,fernandogomes@example.com,761,5.59,,,True,3.0
+270,Maria Cecília da Costa,016.587.294-20,24,rda-cruz@example.org,664,9.12,5.84,6.05,False,
+271,Dr. Daniel Nascimento,409.721.635-06,21,lucas-gabriellopes@example.org,706,6.18,5.91,7.85,False,
+272,Manuela Costela,702.619.854-85,23,caua91@example.net,692,9.2,5.78,8.0,False,
+273,Dra. Pietra Nunes,085.362.749-56,19,moreiramurilo@example.com,714,5.68,8.48,6.92,False,
+274,Murilo Porto,956.081.327-77,19,monteirobrenda@example.net,775,6.41,5.07,8.31,False,
+275,Maria Sophia Teixeira,519.642.378-82,28,emanuelly73@example.com,766,5.45,6.17,7.83,False,
+276,Enzo Gabriel Oliveira,685.942.310-24,19,imendes@example.org,768,7.65,9.34,5.2,False,
+277,Catarina Mendes,682.547.913-09,24,lucca65@example.com,791,7.33,8.04,5.28,False,
+278,Natália da Costa,416.325.078-62,24,xcorreia@example.com,761,6.24,8.04,,True,5.0
+279,Heitor Viana,278.394.065-56,25,da-luzgabrielly@example.net,681,8.08,8.47,5.01,False,
+280,Sr. Eduardo Melo,649.328.105-98,19,qbarbosa@example.org,656,6.12,8.92,5.09,False,
+281,Alexia Alves,053.796.428-29,22,thiagoaragao@example.org,794,9.54,6.98,9.65,False,
+282,Melissa Souza,209.186.375-03,24,ramosraul@example.org,728,5.84,7.75,5.92,False,
+283,Brenda Sales,289.751.460-49,25,beatriz96@example.org,661,5.15,5.2,9.02,False,
+284,Luiz Felipe Araújo,047.326.518-44,27,npinto@example.com,704,7.48,8.72,8.13,False,
+285,Ana Lívia da Conceição,840.132.765-26,26,oliveiramaria-clara@example.com,707,5.42,5.41,,True,6.0
+286,Melissa Ramos,015.269.473-07,20,pedro-lucas59@example.org,747,5.97,9.17,,True,6.0
+287,Dra. Ana Luiza da Luz,572.064.983-29,24,ipeixoto@example.net,790,9.87,6.81,7.13,False,
+288,Isadora Porto,127.859.034-04,18,nunesisabella@example.net,755,7.53,9.02,9.48,False,
+289,Luana da Rosa,690.487.352-38,22,vbarbosa@example.org,792,7.02,8.7,6.37,False,
+290,Pedro Lucas da Cunha,417.590.263-52,26,natalia11@example.com,780,8.02,,,True,3.0
+291,Emanuella Ferreira,032.698.175-68,18,correiagabrielly@example.org,667,5.33,8.77,9.44,False,
+292,Camila da Paz,263.549.180-15,25,da-rosafelipe@example.org,721,6.52,7.75,7.85,False,
+293,Dr. Luiz Felipe Pinto,167.803.592-03,24,pietra07@example.net,740,9.85,,,True,3.0
+294,Letícia Nascimento,385.471.260-07,27,tsilva@example.com,640,5.55,5.23,,True,5.0
+295,Maria Pinto,021.837.694-40,27,maria-julia37@example.net,763,8.53,6.96,8.01,False,
+296,Ana Clara da Cunha,675.138.409-20,20,lorenzosouza@example.net,768,,,,True,2.0
+297,Lorenzo Almeida,410.795.628-85,28,thales76@example.net,779,6.08,9.19,,True,6.0
+298,Maria Araújo,398.254.071-23,26,fjesus@example.net,713,5.25,5.04,6.53,False,
+299,Eduarda Silveira,781.369.452-09,23,raquel64@example.net,709,7.15,7.51,,True,6.0
+300,Daniela da Mota,579.062.341-70,19,cauavieira@example.com,746,,,,True,1.0
+301,Matheus Castro,714.263.905-99,23,raquelcaldeira@example.net,772,6.71,8.7,5.46,False,
+302,Lorena Ribeiro,056.739.214-70,25,aragaosarah@example.org,752,7.84,8.16,,True,5.0
+303,Enrico Oliveira,386.201.745-17,27,olivia71@example.com,790,,,,True,2.0
+304,Yuri Costela,061.973.452-34,20,xalves@example.net,678,6.72,5.24,7.72,False,
+305,Letícia Caldeira,874.601.329-69,27,ncorreia@example.net,785,7.3,6.64,9.63,False,
+306,Emilly Teixeira,430.268.179-96,19,valentinada-mota@example.org,768,7.13,8.0,,True,5.0
+307,Eloah da Mata,130.798.246-87,26,afreitas@example.net,743,5.96,9.04,8.58,False,
+308,Maria Fernanda Cunha,760.492.153-16,24,raquelvieira@example.org,799,6.24,6.01,8.05,False,
+309,Enrico Campos,485.237.019-23,28,fernandesheloisa@example.net,761,5.61,9.29,9.62,False,
+310,Francisco Cavalcanti,543.710.928-88,23,pintorodrigo@example.com,785,8.29,6.47,9.37,False,
+311,Sra. Gabriela Pereira,154.286.973-00,26,barbara62@example.net,776,8.6,6.46,5.01,False,
+312,Nicole Barros,360.574.821-07,20,danielaaragao@example.com,694,6.53,5.55,8.49,False,
+313,Sabrina Barbosa,245.861.307-17,23,isaac65@example.org,695,8.33,7.3,7.14,False,
+314,Dr. Paulo Peixoto,023.416.598-70,24,bda-rocha@example.net,752,9.87,,,True,4.0
+315,Stella Barros,132.940.578-14,20,felipe74@example.org,781,5.52,5.31,,True,5.0
+316,Emanuel Nascimento,071.924.358-05,21,maria-vitoria74@example.net,796,8.65,9.75,9.45,False,
+317,Brenda Ferreira,106.739.458-39,22,nunesmilena@example.com,664,6.85,9.76,5.11,False,
+318,Srta. Isabella Monteiro,048.327.169-13,23,alvesdaniel@example.com,695,6.21,,,True,3.0
+319,Lucas Gabriel Correia,493.678.052-92,19,correiasofia@example.org,657,7.91,,,True,4.0
+320,Rodrigo Gonçalves,301.854.269-05,28,kferreira@example.net,713,5.88,,,True,4.0
+321,Gabriel da Cunha,815.927.340-14,26,dramos@example.org,758,5.93,6.01,9.92,False,
+322,Thales Lima,741.630.892-50,24,lucasfernandes@example.com,768,7.74,6.68,5.11,False,
+323,Bianca Peixoto,619.345.270-25,20,stephany05@example.com,700,5.78,7.89,8.43,False,
+324,Kevin Porto,671.038.492-69,26,alanarodrigues@example.com,690,7.89,9.37,8.06,False,
+325,Heitor Pinto,362.095.814-98,20,jcostela@example.org,732,7.45,,,True,4.0
+326,Dr. Yago Costa,694.725.018-85,26,ana-carolina34@example.org,685,9.4,7.85,,True,6.0
+327,Theo Almeida,415.697.803-66,23,lucas-gabrielgoncalves@example.net,749,5.74,7.94,9.97,False,
+328,Arthur Monteiro,385.621.974-91,24,heitor41@example.net,683,5.92,6.56,7.71,False,
+329,Larissa Carvalho,083.261.594-33,22,silveiraluana@example.net,787,9.17,6.23,7.87,False,
+330,Ana Luiza Almeida,469.570.318-10,27,mjesus@example.net,776,7.84,9.73,7.47,False,
+331,Sarah Araújo,853.704.961-10,18,goncalvesjoao-felipe@example.net,783,7.22,,,True,3.0
+332,Ana Beatriz Rocha,578.320.641-53,27,luiz-felipefernandes@example.net,767,9.83,,,True,4.0
+333,Enrico Fogaça,601.283.947-22,19,eduardobarbosa@example.com,698,6.06,9.55,5.64,False,
+334,Dr. Fernando Costa,082.791.653-12,26,gabrielnovaes@example.org,666,9.25,5.85,9.93,False,
+335,Lucas Duarte,064.329.785-56,23,wda-conceicao@example.net,675,8.0,,,True,3.0
+336,Kaique Azevedo,538.670.129-03,23,isabel45@example.org,676,,,,True,2.0
+337,Maria Rocha,076.241.985-76,20,goncalvesgabrielly@example.com,734,8.33,5.65,6.81,False,
+338,Diogo da Luz,983.510.276-77,24,antoniogomes@example.org,677,8.08,9.27,,True,6.0
+339,Rafael Lopes,713.405.692-99,27,stellarocha@example.net,792,7.16,8.12,9.83,False,
+340,Catarina Almeida,521.906.837-77,26,luiz-henrique89@example.net,766,5.45,7.64,6.97,False,
+341,Luiza Carvalho,943.856.702-00,22,barbosagustavo@example.com,788,8.96,9.22,,True,6.0
+342,Raul Azevedo,528.360.914-60,25,silveiralarissa@example.com,642,8.54,5.94,,True,5.0
+343,João Gabriel Carvalho,316.974.852-19,26,camila78@example.net,713,5.84,8.39,7.27,False,
+344,Dra. Luiza Barros,149.063.857-10,20,gomesgustavo-henrique@example.net,762,8.91,5.09,7.75,False,
+345,Leandro Peixoto,538.742.619-64,21,cunhaeloah@example.net,693,9.19,7.41,8.18,False,
+346,Danilo Correia,180.536.492-89,23,teixeirapedro-lucas@example.net,732,8.51,6.3,9.74,False,
+347,Cauê Araújo,357.640.912-25,22,zda-cruz@example.org,778,,,,True,2.0
+348,Samuel Silveira,842.659.013-60,27,murilobarros@example.org,729,7.47,5.17,5.25,False,
+349,Bruna Freitas,976.812.034-78,21,calebe64@example.net,794,7.93,6.59,9.81,False,
+350,André Correia,645.907.213-25,23,pietracostela@example.com,679,7.09,6.24,9.47,False,
+351,Henrique Nunes,389.650.427-47,27,cardosoana-livia@example.net,645,6.92,8.36,6.26,False,
+352,Cauã Monteiro,176.502.348-35,21,da-rochacarolina@example.net,700,7.96,7.21,9.32,False,
+353,Gustavo Ferreira,781.450.629-85,18,evelyncosta@example.com,687,9.43,,,True,4.0
+354,Emanuel Barbosa,852.309.146-70,28,livia75@example.com,798,6.16,8.37,9.69,False,
+355,Dr. Pedro Henrique Castro,693.245.178-64,22,matheuspinto@example.com,776,6.06,7.65,,True,5.0
+356,Gabrielly Pinto,159.406.827-58,21,scardoso@example.com,751,9.18,7.33,,True,5.0
+357,Vitor Rocha,610.583.492-60,23,hsales@example.com,739,7.8,6.5,,True,5.0
+358,Daniel Peixoto,856.129.437-09,18,sofia30@example.com,781,8.23,7.37,9.12,False,
+359,Calebe Aragão,326.970.418-69,23,pietrocunha@example.com,800,9.64,6.32,,True,6.0
+360,Miguel Pereira,504.813.972-05,22,yuri32@example.org,775,6.91,8.92,8.03,False,
+361,Isabel Cardoso,586.023.179-21,26,tfogaca@example.com,705,8.69,8.17,8.05,False,
+362,Fernando Oliveira,931.785.064-20,26,da-motamilena@example.net,738,7.56,5.79,,True,5.0
+363,Bárbara da Cruz,074.586.392-29,24,julianafarias@example.org,700,7.54,9.38,9.53,False,
+364,André das Neves,169.478.502-58,18,caiocosta@example.net,799,6.17,9.04,9.24,False,
+365,Olivia Jesus,720.698.514-94,19,amandaramos@example.org,797,8.76,9.31,,True,6.0
+366,Erick Barros,361.482.790-96,23,aragaoleticia@example.com,748,8.08,7.0,,True,6.0
+367,Alana Mendes,263.507.849-10,23,rcaldeira@example.net,659,8.02,9.98,7.23,False,
+368,Manuela Barbosa,093.846.175-39,21,ovieira@example.com,652,7.37,5.73,9.0,False,
+369,Dra. Camila da Costa,064.579.382-56,26,ynascimento@example.com,688,5.02,8.9,6.94,False,
+370,Agatha Lima,374.912.068-40,23,joana01@example.com,717,8.87,6.87,6.54,False,
+371,Srta. Maria Cavalcanti,921.685.340-98,21,cardosoesther@example.net,788,5.02,5.89,6.93,False,
+372,Bruno Lopes,723.659.401-61,25,kevin06@example.org,682,9.57,9.16,7.06,False,
+373,Julia Peixoto,039.721.856-77,18,yasmincardoso@example.com,745,6.62,6.32,9.99,False,
+374,Luiz Gustavo Monteiro,940.625.813-70,27,alicia84@example.net,783,7.34,7.2,5.62,False,
+375,Vitória Melo,619.345.780-10,26,mnogueira@example.com,695,9.09,5.15,5.33,False,
+376,Pedro Miguel Moraes,175.362.908-02,26,ana-julia92@example.net,698,9.88,9.9,6.81,False,
+377,Breno Lopes,506.921.784-49,22,joao-gabriel71@example.org,688,,,,True,2.0
+378,Manuela Gonçalves,375.094.162-99,23,cardosovitor-hugo@example.com,668,8.43,5.64,5.89,False,
+379,Maria Vitória Cavalcanti,126.097.345-06,23,joao-felipefarias@example.net,794,6.6,7.81,9.77,False,
+380,Marcos Vinicius Gomes,194.736.085-00,24,nathanfarias@example.com,657,5.11,6.41,9.34,False,
+381,Guilherme Duarte,617.904.352-34,27,afogaca@example.org,643,9.97,6.05,,True,5.0
+382,Maitê Lopes,642.517.930-99,27,nataliada-mota@example.com,780,9.34,9.03,6.6,False,
+383,Giovanna Costela,132.068.549-89,27,alvesjoao-felipe@example.com,799,,,,True,2.0
+384,Laura Rocha,819.276.045-67,19,vitoria05@example.com,748,6.32,,,True,3.0
+385,Luana Pires,146.793.508-57,22,maria-luiza01@example.com,792,7.28,8.14,8.12,False,
+386,Dr. Augusto Novaes,412.369.587-64,27,jda-paz@example.org,778,9.09,5.25,7.34,False,
+387,Luiza Martins,328.716.509-77,26,lucas-gabrieldas-neves@example.org,690,9.58,6.99,5.97,False,
+388,Mirella das Neves,520.974.681-01,24,maria-clara13@example.net,720,8.66,,,True,4.0
+389,Emanuel Silveira,529.473.061-80,19,inunes@example.org,709,8.88,,,True,3.0
+390,Rafael Costa,908.235.146-33,24,barbosathiago@example.net,800,9.94,7.17,5.35,False,
+391,Calebe Duarte,874.965.213-37,21,barroslevi@example.com,665,6.57,9.7,,True,5.0
+392,Rebeca Melo,194.682.307-40,25,nathan84@example.net,654,9.27,7.73,6.06,False,
+393,Benício da Luz,042.569.831-98,19,luiz-felipesilva@example.org,700,9.61,6.9,5.13,False,
+394,Sabrina Costa,715.439.806-00,18,vda-mota@example.com,645,5.53,9.02,,True,5.0
+395,Clara Araújo,271.986.340-87,20,jesuspaulo@example.com,695,8.47,9.46,5.24,False,
+396,Ana Sophia Jesus,927.613.450-61,25,novaesolivia@example.net,688,,,,True,2.0
+397,Samuel Alves,963.218.074-78,26,leviferreira@example.org,677,8.61,,,True,3.0
+398,Marina Santos,401.539.876-93,22,manuelavieira@example.com,688,6.02,9.11,6.94,False,
+399,Renan Nunes,508.614.729-85,27,brendada-costa@example.org,762,5.09,7.86,8.31,False,
+400,Calebe Novaes,358.709.126-95,25,isisnovaes@example.org,722,5.95,,,True,3.0
+401,Matheus Vieira,406.973.581-00,28,lara32@example.net,760,,,,True,2.0
+402,Ian Castro,492.173.068-78,18,beatriz85@example.net,742,5.1,7.53,5.82,False,
+403,André Aragão,639.271.405-70,28,hgoncalves@example.net,652,7.07,7.78,8.1,False,
+404,Carolina Costela,097.582.314-05,25,cavalcantieduardo@example.com,731,6.88,7.52,5.98,False,
+405,Cauã Sales,584.097.632-65,25,xdias@example.com,786,7.38,8.64,9.64,False,
+406,Maria Eduarda Cardoso,489.750.631-00,22,helenaoliveira@example.org,702,7.64,6.58,9.62,False,
+407,Maria Alice Peixoto,230.564.978-92,21,ecunha@example.com,744,10.0,5.13,,True,6.0
+408,Helena Fogaça,506.239.178-40,20,da-motakaique@example.net,736,7.85,7.61,5.49,False,
+409,Isabelly da Mota,456.903.718-66,20,freitaslivia@example.com,648,8.33,8.93,6.36,False,
+410,Gustavo Henrique da Conceição,918.324.570-79,28,moreiraana-laura@example.org,775,8.17,5.27,5.1,False,
+411,Sra. Sophie Freitas,517.982.360-95,19,santosmaysa@example.org,734,6.76,9.07,6.17,False,
+412,Isabel Fernandes,380.926.574-83,19,ypinto@example.net,701,6.01,6.45,7.94,False,
+413,Emanuel Fernandes,428.601.975-67,23,wda-rosa@example.org,649,8.59,7.32,8.78,False,
+414,Yuri da Rocha,469.301.825-24,25,isabelcaldeira@example.org,656,7.83,7.02,8.05,False,
+415,Catarina Oliveira,973.850.461-93,23,iancunha@example.net,733,9.3,6.01,8.9,False,
+416,Srta. Nicole Aragão,293.784.650-56,27,giovannamoura@example.com,780,5.11,9.03,5.67,False,
+417,João Vitor Azevedo,876.350.241-08,25,cardosoclara@example.net,798,,,,True,1.0
+418,Nicolas Cavalcanti,046.189.527-76,20,camposaugusto@example.com,689,,,,True,1.0
+419,Letícia da Rocha,871.354.069-66,25,larissa45@example.org,799,5.33,9.61,7.38,False,
+420,Levi Martins,360.159.872-86,21,evelyn51@example.com,789,8.9,,,True,3.0
+421,Ana Beatriz Ribeiro,936.728.154-46,25,heitorcosta@example.net,687,9.4,9.67,,True,5.0
+422,Luiz Otávio Pinto,780.965.231-12,28,rodrigocarvalho@example.com,640,,,,True,2.0
+423,Sr. João Miguel das Neves,281.063.754-71,20,noahpinto@example.net,678,8.03,7.22,7.99,False,
+424,Lucas da Conceição,524.610.987-94,22,cecilianovaes@example.net,761,6.42,,,True,3.0
+425,Júlia Cavalcanti,378.692.054-00,24,marcelacaldeira@example.com,790,8.24,8.71,9.02,False,
+426,Vitória Gomes,861.059.427-02,26,fernandooliveira@example.org,736,7.72,9.68,5.62,False,
+427,Mariana Viana,716.285.943-73,25,igor68@example.com,752,8.58,6.54,7.99,False,
+428,Guilherme da Rosa,457.138.296-00,27,davi-lucasmoraes@example.com,728,7.71,5.21,6.44,False,
+429,Samuel Rezende,673.948.521-64,20,lucca93@example.com,752,7.9,6.24,,True,6.0
+430,Evelyn Freitas,305.486.192-98,27,ana-luizarodrigues@example.org,673,7.36,5.39,7.9,False,
+431,Yasmin Souza,650.327.148-44,28,lucas02@example.net,665,7.56,5.26,7.73,False,
+432,Valentina Barros,049.527.618-94,20,jvieira@example.net,727,8.18,,,True,4.0
+433,Catarina Rezende,065.928.137-68,27,nunesbryan@example.com,766,7.56,9.69,9.9,False,
+434,Stephany Oliveira,507.631.489-20,28,lopesrebeca@example.net,717,7.66,,,True,4.0
+435,Ana Laura Fernandes,472.095.613-07,20,helenapires@example.org,700,8.67,9.6,9.22,False,
+436,Calebe Pinto,841.305.279-32,25,da-matapaulo@example.org,692,6.46,7.87,9.39,False,
+437,Valentina Souza,954.762.831-37,22,peixotomirella@example.com,660,9.65,7.5,6.5,False,
+438,Lara da Mata,327.981.546-00,22,gabriellygomes@example.org,703,8.75,6.72,,True,6.0
+439,Luiz Gustavo da Rosa,843.015.269-51,19,rda-luz@example.org,670,6.9,6.39,9.03,False,
+440,Lavínia Viana,501.987.643-75,19,jribeiro@example.net,772,9.97,5.78,7.74,False,
+441,Emanuel Cunha,589.470.162-76,22,luizapires@example.org,788,6.34,9.6,6.56,False,
+442,Heloísa Campos,063.847.915-01,25,silvalavinia@example.org,763,6.62,9.05,9.82,False,
+443,Dr. Noah Jesus,015.942.386-42,20,alvescaio@example.com,656,5.13,9.81,8.5,False,
+444,Mariana Alves,597.126.480-01,24,eviana@example.com,742,6.59,5.36,5.52,False,
+445,Mariana Costela,356.241.908-24,21,felipejesus@example.com,749,8.37,9.58,7.12,False,
+446,João Guilherme Martins,976.425.108-02,26,cda-mata@example.net,668,,,,True,1.0
+447,Larissa Lopes,306.789.415-48,22,bdas-neves@example.com,777,5.61,9.48,6.64,False,
+448,Cauã Mendes,859.237.014-05,27,nogueiraana-beatriz@example.net,734,5.36,8.59,5.86,False,
+449,Vicente Rocha,237.895.640-10,23,rochacamila@example.org,781,8.16,7.03,,True,6.0
+450,Dr. Pietro Castro,612.893.470-69,27,leonardo88@example.com,667,5.96,9.21,,True,6.0
+451,Erick Costela,120.685.947-49,28,fnogueira@example.com,650,5.96,9.86,6.59,False,
+452,Dr. Thales Carvalho,896.120.574-94,20,sarah84@example.org,762,8.15,7.74,,True,6.0
+453,Isabel da Conceição,246.897.015-20,25,joao-pedromoreira@example.org,652,5.88,8.15,,True,5.0
+454,Maria Luiza Mendes,395.418.270-04,21,rmoraes@example.com,746,8.28,7.26,9.35,False,
+455,Enzo Caldeira,370.512.684-90,23,glima@example.org,707,5.28,6.92,5.49,False,
+456,Raquel Rodrigues,496.835.107-01,19,moraesraul@example.com,694,6.92,,,True,3.0
+457,Ana Barbosa,429.156.783-91,21,castroeloah@example.org,787,6.51,9.2,6.44,False,
+458,Alice Ribeiro,927.146.035-99,18,maria-cecilia02@example.net,657,8.16,6.08,8.67,False,
+459,Arthur Nascimento,792.568.403-83,25,silvaenzo@example.org,728,6.81,9.41,5.69,False,
+460,Srta. Fernanda Oliveira,472.198.360-31,21,aragaoluiz-felipe@example.org,675,5.17,8.55,7.7,False,
+461,Sr. Luiz Henrique Pires,041.859.236-51,24,nda-cunha@example.org,766,6.02,,,True,4.0
+462,Dr. Gustavo Costela,732.410.965-99,21,alexia12@example.com,773,7.14,6.89,7.5,False,
+463,Augusto da Conceição,912.768.304-40,23,goncalvesana-carolina@example.org,662,9.37,5.31,6.39,False,
+464,Valentina da Mata,463.957.802-47,26,ana-juliajesus@example.org,727,5.87,7.34,9.41,False,
+465,João Felipe Rodrigues,469.532.178-55,23,ceciliacaldeira@example.net,725,5.5,9.56,7.19,False,
+466,Nicole Moura,956.423.807-29,28,da-cunhaheitor@example.net,704,5.85,5.07,6.54,False,
+467,Breno Peixoto,582.436.109-60,21,zda-rosa@example.com,727,5.02,5.16,8.03,False,
+468,Sophie da Luz,695.238.174-00,24,aragaosofia@example.org,775,7.92,6.54,9.83,False,
+469,Davi Lucas Ribeiro,603.457.829-92,24,souzaluiz-otavio@example.net,721,7.65,7.97,6.38,False,
+470,Nicole das Neves,917.483.560-20,20,tda-conceicao@example.org,794,6.2,8.69,5.14,False,
+471,Luiz Otávio Gonçalves,285.471.360-53,26,davida-mota@example.org,702,7.46,9.58,7.04,False,
+472,Isis Silveira,623.495.780-38,23,tcardoso@example.org,705,5.76,6.69,8.72,False,
+473,Ana Júlia Barros,438.697.015-01,27,raraujo@example.org,729,6.23,,,True,3.0
+474,Marcelo Teixeira,937.146.820-31,26,da-conceicaolavinia@example.org,786,6.87,5.78,7.56,False,
+475,Julia Peixoto,869.247.153-46,27,beniciofogaca@example.org,773,7.79,9.67,9.16,False,
+476,Camila Martins,813.067.924-87,28,trodrigues@example.org,673,6.21,6.5,9.21,False,
+477,Samuel da Rocha,275.896.034-65,28,davirezende@example.net,755,7.01,7.52,8.37,False,
+478,Valentina Correia,236.491.587-28,22,cda-paz@example.com,773,,,,True,1.0
+479,Manuela Moreira,908.743.256-92,25,mcostela@example.com,784,9.71,,,True,3.0
+480,Felipe Viana,750.263.841-53,18,melissalima@example.net,684,5.38,8.69,9.67,False,
+481,Melissa Barbosa,095.267.814-49,27,calebe50@example.org,666,7.84,8.32,8.17,False,
+482,Evelyn Vieira,357.841.629-00,24,nmendes@example.net,669,6.62,6.93,7.44,False,
+483,Pedro Oliveira,461.982.530-15,20,clara01@example.net,735,6.81,9.16,8.89,False,
+484,Stephany Pires,678.094.251-02,22,das-nevesgabriel@example.com,642,8.63,9.45,8.66,False,
+485,Natália Caldeira,342.189.570-88,28,mviana@example.org,762,7.69,9.42,7.51,False,
+486,Sra. Pietra Cardoso,250.741.869-94,24,danielamelo@example.net,788,5.71,5.46,7.79,False,
+487,Danilo Rezende,259.368.074-10,20,wcostela@example.com,653,8.81,8.49,8.51,False,
+488,Mariana Moreira,391.827.640-69,21,cardosoana-julia@example.org,739,5.02,7.49,7.81,False,
+489,Maria Vitória Pereira,692.731.504-70,23,ana-beatriz73@example.org,664,9.59,6.07,9.63,False,
+490,Enzo Gabriel Rocha,697.503.128-21,21,liviaaraujo@example.net,654,8.12,6.06,5.51,False,
+491,Alícia Martins,519.648.307-10,19,fariasmaria-cecilia@example.com,774,7.2,8.62,6.28,False,
+492,Brenda Vieira,509.367.824-47,27,mendesalicia@example.net,758,5.45,9.85,6.16,False,
+493,Clara Monteiro,170.854.236-17,21,isaacnunes@example.org,671,,,,True,1.0
+494,Mariane Oliveira,186.459.320-24,23,barbara60@example.net,675,5.22,5.93,7.48,False,
+495,João Guilherme Fogaça,352.476.918-73,25,milena13@example.com,773,7.55,7.79,9.04,False,
+496,Samuel Cavalcanti,492.065.731-52,24,silveiracaio@example.com,736,,,,True,1.0
+497,Sr. Diogo da Conceição,089.415.276-94,18,da-cruzrenan@example.com,738,7.29,6.69,9.14,False,
+498,Igor Castro,427.863.105-71,28,cramos@example.net,645,7.23,8.08,5.42,False,
+499,Dr. Rodrigo Cardoso,073.526.198-95,23,correiamaria-eduarda@example.org,719,6.3,7.01,9.97,False,
+500,Srta. Sofia Caldeira,284.507.391-79,26,pereiramirella@example.com,672,5.97,7.77,9.26,False,
+501,Carolina Souza,427.683.591-73,19,milena71@example.org,763,9.37,8.07,,True,5.0
+502,Emanuelly Gonçalves,239.154.086-89,19,ana43@example.org,645,8.93,7.92,6.56,False,
+503,Sra. Caroline Moura,816.403.279-40,24,joanalima@example.com,743,,,,True,1.0
+504,Sophia Costa,182.570.346-90,27,carolineda-costa@example.org,776,6.81,,,True,3.0
+505,João Felipe Moura,470.128.965-58,25,gomesisis@example.net,736,,,,True,2.0
+506,Vitor Gabriel da Conceição,517.824.693-46,23,larissacarvalho@example.com,742,,,,True,1.0
+507,Samuel Caldeira,152.097.836-77,28,souzaenrico@example.com,688,8.86,5.84,7.47,False,
+508,Eduardo da Rocha,817.430.926-87,26,heitormelo@example.net,697,9.77,9.74,5.93,False,
+509,Clara Alves,594.280.631-42,27,ccorreia@example.net,743,5.34,5.52,5.71,False,
+510,Sr. João Felipe da Conceição,258.673.014-35,24,pireseloah@example.net,653,8.67,9.24,6.91,False,
+511,Lorenzo Dias,023.451.986-05,19,da-costakamilly@example.com,719,7.71,7.95,9.39,False,
+512,Benício da Mata,854.720.136-07,21,piresjoao-felipe@example.org,670,9.53,9.94,6.32,False,
+513,Luiz Miguel Sales,980.625.341-89,20,cardosoemanuelly@example.net,774,8.24,9.23,6.86,False,
+514,Nicole Cavalcanti,210.745.683-62,20,iduarte@example.com,675,,,,True,1.0
+515,Ian Dias,390.682.175-77,27,antonio82@example.com,714,8.41,6.75,5.06,False,
+516,Davi Lucca Castro,701.846.935-00,27,clarice15@example.com,707,9.47,9.06,6.48,False,
+517,Srta. Maria Araújo,781.945.320-60,27,joaquim51@example.com,727,7.55,8.58,7.04,False,
+518,João Guilherme Rodrigues,402.681.953-15,28,yuri73@example.com,679,8.75,6.84,7.89,False,
+519,Lucca Cardoso,714.523.890-04,20,juliaribeiro@example.net,682,7.11,5.01,9.19,False,
+520,Luana Moraes,719.682.340-04,22,sdias@example.org,758,7.52,6.28,6.73,False,
+521,Marcela da Conceição,921.483.065-70,21,nda-costa@example.com,790,7.73,8.81,5.16,False,
+522,Raul Costela,835.674.029-00,26,pauloalmeida@example.net,677,5.63,8.78,7.4,False,
+523,Sra. Ana Luiza Cardoso,942.763.581-91,28,livialopes@example.net,679,6.63,9.46,5.15,False,
+524,Ana Julia Carvalho,567.014.829-02,20,maria96@example.net,705,7.12,9.0,6.58,False,
+525,Thiago Gonçalves,742.195.836-37,19,costelaluiz-fernando@example.org,733,,,,True,1.0
+526,Srta. Bianca Lopes,678.590.124-30,20,carolinecastro@example.com,751,5.26,5.14,6.29,False,
+527,Emilly Vieira,425.698.730-47,28,diasbryan@example.net,727,5.88,9.34,7.64,False,
+528,Ana Júlia Teixeira,723.805.946-00,25,gdas-neves@example.net,658,5.27,6.47,6.54,False,
+529,Luiz Miguel da Paz,184.369.725-46,19,vicentenunes@example.com,642,5.01,6.88,7.32,False,
+530,Gabriel Pires,905.476.812-67,26,caua17@example.com,683,6.57,9.92,8.14,False,
+531,Nina Correia,163.098.427-22,26,maria-vitoria97@example.com,693,6.82,9.57,8.49,False,
+532,Kaique da Cunha,936.782.450-56,26,azevedolavinia@example.com,749,5.6,9.85,,True,5.0
+533,Samuel Cardoso,518.349.267-00,28,qoliveira@example.com,738,,,,True,1.0
+534,Sr. Kevin Alves,461.537.890-48,26,pda-rocha@example.org,640,6.83,7.1,7.52,False,
+535,Dr. Alexandre Viana,942.517.386-91,21,santosana-luiza@example.org,663,5.96,7.4,5.48,False,
+536,Helena Barros,210.793.486-03,26,oliveiraraul@example.org,649,7.29,9.5,8.96,False,
+537,Emilly Gomes,713.965.042-06,25,silvadavi-luiz@example.net,715,6.48,6.35,6.21,False,
+538,Ana Clara Mendes,037.984.265-38,27,limamiguel@example.net,743,8.94,7.25,5.27,False,
+539,Camila Gonçalves,456.781.230-17,21,tgomes@example.net,716,,,,True,1.0
+540,Sofia Monteiro,015.267.438-17,20,gabriela96@example.com,711,5.03,7.1,6.66,False,
+541,Eduarda Nunes,940.312.586-15,22,da-rochaclarice@example.net,779,,,,True,1.0
+542,Vitória Correia,890.154.372-97,24,yda-conceicao@example.org,686,7.88,9.55,9.63,False,
+543,Kevin Almeida,085.147.926-01,28,raquel39@example.net,712,6.5,,,True,4.0
+544,Maria Clara Pinto,280.345.169-70,23,nicolefreitas@example.org,723,,,,True,2.0
+545,Amanda Cunha,236.075.918-30,18,sarah22@example.org,767,7.83,6.61,6.24,False,
+546,Giovanna Silva,275.134.986-28,27,nogueiraluiz-fernando@example.net,759,6.98,6.74,,True,6.0
+547,João Pedro Barros,981.407.326-13,23,almeidalucas@example.net,729,9.95,5.94,8.96,False,
+548,Alana Costela,345.609.172-99,28,isabellada-cruz@example.org,649,6.85,6.07,9.8,False,
+549,Giovanna Castro,284.509.136-24,19,eloah18@example.net,667,8.19,5.03,7.04,False,
+550,Sra. Joana da Costa,351.840.296-05,24,sda-cunha@example.net,794,9.09,8.38,5.57,False,
+551,Igor Jesus,285.079.463-56,27,nicolascastro@example.org,685,8.67,6.01,,True,6.0
+552,Sophie Moura,723.196.548-28,19,msantos@example.com,694,5.04,9.82,8.47,False,
+553,João Miguel Almeida,307.915.624-25,23,gustavo-henrique66@example.org,655,8.03,5.43,6.02,False,
+554,Mirella Moraes,347.912.680-40,26,leandro98@example.com,726,,,,True,1.0
+555,Maysa da Mata,821.375.496-46,23,camiladias@example.com,753,8.81,5.05,10.0,False,
+556,Júlia Porto,647.825.109-85,21,souzaemilly@example.org,728,7.37,8.46,,True,5.0
+557,Evelyn Caldeira,407.398.126-96,22,fariasalexia@example.com,742,7.11,5.83,6.93,False,
+558,João Guilherme Rezende,597.620.813-40,20,danilosouza@example.net,681,9.57,6.13,5.93,False,
+559,Eduarda da Paz,029.785.163-21,28,rmartins@example.net,663,7.83,7.45,5.57,False,
+560,Marcelo Gomes,831.429.705-41,24,fariasdaniela@example.com,723,8.05,8.24,7.87,False,
+561,Mariane Aragão,410.832.596-60,21,melocaroline@example.net,763,9.75,,,True,4.0
+562,Gabrielly Correia,512.638.490-24,26,alvesleticia@example.net,777,5.77,7.44,5.31,False,
+563,Daniela Lopes,528.901.467-58,25,fernandesamanda@example.org,670,5.39,,,True,4.0
+564,Evelyn Vieira,190.476.823-78,25,maria-juliasilveira@example.org,788,6.77,9.67,,True,5.0
+565,Samuel das Neves,412.569.370-61,24,vitorazevedo@example.org,708,,,,True,2.0
+566,Valentina Lima,921.683.475-73,27,aragaosophie@example.org,757,7.07,,,True,4.0
+567,Enzo Gabriel Gonçalves,913.628.054-24,20,juliapinto@example.org,793,6.87,9.7,5.04,False,
+568,Nathan da Rocha,976.518.430-10,24,duartetheo@example.org,741,8.26,8.44,6.33,False,
+569,Isabel Peixoto,739.251.408-32,25,cbarros@example.net,728,9.6,7.41,8.82,False,
+570,Maria Cecília Peixoto,601.734.259-25,19,vianaemilly@example.com,738,,,,True,1.0
+571,Caio Mendes,720.196.548-49,25,wnogueira@example.org,665,5.5,5.57,5.26,False,
+572,Henrique da Mota,374.250.619-61,18,antonio15@example.net,759,6.64,6.9,5.5,False,
+573,Enrico Monteiro,381.260.479-50,22,pda-cunha@example.com,746,7.78,7.87,7.32,False,
+574,Emilly Melo,948.130.256-33,23,mendesmaite@example.com,745,7.06,7.11,6.51,False,
+575,Davi Lucca Araújo,312.057.846-08,19,pedrovieira@example.com,723,8.08,5.07,8.54,False,
+576,Luigi da Paz,017.245.963-06,23,araujojulia@example.org,773,9.88,8.57,8.4,False,
+577,Vitor Gabriel Santos,549.086.713-20,28,camposjoaquim@example.com,726,8.07,5.12,8.86,False,
+578,Ana Carolina Aragão,025.734.698-83,22,csouza@example.org,773,5.3,5.41,,True,5.0
+579,Maria Vitória Peixoto,184.359.270-32,19,santosthiago@example.org,723,9.58,9.46,7.56,False,
+580,Pedro Miguel Gonçalves,146.279.308-87,21,duartestella@example.org,645,9.22,5.26,7.52,False,
+581,Sophia Oliveira,583.460.917-10,23,barbarada-costa@example.net,756,6.96,9.18,9.55,False,
+582,Antônio da Conceição,938.716.024-69,26,goncalvesleticia@example.org,745,7.23,8.33,9.21,False,
+583,Luiz Fernando Santos,973.861.420-13,19,gsilveira@example.net,729,5.57,5.47,8.25,False,
+584,Davi Lucca Oliveira,376.098.254-92,25,pedro27@example.net,773,9.54,9.1,,True,5.0
+585,Ana Julia Cunha,904.168.732-78,25,maria-fernanda90@example.org,751,6.22,6.76,9.49,False,
+586,Alícia Gomes,976.240.815-20,25,nunesmiguel@example.com,648,9.66,6.13,5.3,False,
+587,Stella da Cruz,293.706.184-22,25,umendes@example.net,793,7.12,9.07,8.45,False,
+588,Isabelly Teixeira,826.495.031-06,20,luiz-henriquelima@example.net,698,9.14,5.46,7.79,False,
+589,Maria Sophia Fogaça,952.104.768-20,18,rezendepedro-lucas@example.com,720,8.14,,,True,4.0
+590,Manuela Lopes,572.809.134-23,20,ana-luiza14@example.net,655,9.68,6.86,,True,6.0
+591,Dr. João Miguel Sales,815.427.960-67,21,bmoura@example.org,693,6.64,6.23,7.54,False,
+592,Dr. Luiz Fernando Costela,397.651.204-43,24,trocha@example.net,737,6.58,8.55,,True,6.0
+593,Isabella Martins,316.798.254-37,26,hda-mota@example.net,762,6.78,9.01,6.85,False,
+594,Leonardo das Neves,352.986.407-29,25,luanaporto@example.org,667,9.58,9.07,7.21,False,
+595,Sra. Laura Lopes,092.431.856-24,28,vitoria20@example.com,723,8.65,8.4,,True,6.0
+596,Yago Dias,342.056.819-33,18,ana-carolinada-conceicao@example.org,741,5.31,5.02,9.02,False,
+597,Ryan Lopes,683.154.209-33,27,melissaporto@example.net,776,,,,True,2.0
+598,Caroline Nogueira,287.903.415-97,22,yago86@example.net,796,6.23,6.01,8.49,False,
+599,Sarah Alves,518.230.476-53,25,ana-carolinanovaes@example.net,709,8.81,9.0,9.54,False,
+600,Caroline Ferreira,857.190.623-86,26,kevinporto@example.org,700,6.29,8.79,5.98,False,
+601,Murilo Aragão,851.473.290-05,27,scarvalho@example.org,793,7.56,8.1,5.01,False,
+602,Larissa da Paz,017.468.392-87,20,emanuelly32@example.com,786,7.85,7.93,9.9,False,
+603,Luiz Gustavo da Conceição,219.635.470-80,21,ncunha@example.org,703,7.61,8.46,,True,6.0
+604,Rafaela Sales,283.470.516-07,25,gcostela@example.org,713,8.62,7.74,8.72,False,
+605,Pedro Miguel Moraes,032.678.541-80,22,matheus98@example.com,680,5.37,5.48,5.15,False,
+606,Carlos Eduardo Mendes,630.472.981-22,27,ana-juliacosta@example.org,747,9.8,5.1,8.78,False,
+607,Enzo Cardoso,310.492.768-50,21,augusto36@example.org,772,7.29,6.45,8.67,False,
+608,Diego Ramos,540.319.768-01,19,luiz-henrique49@example.com,724,,,,True,2.0
+609,Luiz Miguel Dias,836.907.514-20,21,vieiraerick@example.org,674,9.43,6.68,6.74,False,
+610,Marcelo Cavalcanti,198.746.523-73,18,moliveira@example.net,649,8.94,5.17,7.61,False,
+611,Sra. Gabriela Cunha,946.205.731-16,22,larissa47@example.net,658,6.46,9.79,5.03,False,
+612,Sr. Fernando Mendes,827.934.156-00,22,estherfreitas@example.com,659,5.67,,,True,3.0
+613,Leandro Silva,605.237.841-71,25,luigi76@example.org,781,7.88,9.04,6.64,False,
+614,Dra. Isadora da Conceição,942.607.538-00,26,amanda51@example.com,793,9.67,7.78,9.83,False,
+615,Lucas Gabriel Mendes,073.862.154-44,22,nina26@example.com,642,8.86,7.16,8.06,False,
+616,Enzo Alves,524.610.893-70,28,joao-vitorsilva@example.org,732,7.02,8.79,,True,5.0
+617,Lucas Gabriel Freitas,418.935.072-97,26,matheuspereira@example.com,727,,,,True,2.0
+618,Evelyn Jesus,051.832.694-24,26,manuelacosta@example.net,716,9.51,6.27,7.01,False,
+619,Lorena Azevedo,890.547.231-14,26,daviazevedo@example.org,744,7.44,,,True,3.0
+620,João Guilherme Barros,975.634.281-19,20,unovaes@example.org,761,6.93,9.33,6.52,False,
+621,Miguel Santos,309.641.287-13,27,ucostela@example.org,761,,,,True,2.0
+622,Letícia Costa,798.315.042-32,26,souzahelena@example.org,686,6.08,5.69,9.98,False,
+623,Enzo Gabriel Barros,450.817.629-11,23,ryan02@example.net,744,6.79,8.87,9.21,False,
+624,Leonardo Caldeira,482.901.356-70,22,isadora13@example.org,681,,,,True,1.0
+625,Lorena Alves,987.460.251-11,21,hfogaca@example.com,786,8.13,5.02,7.91,False,
+626,Alexandre Carvalho,501.397.824-60,18,das-nevespedro@example.net,725,6.41,9.08,,True,5.0
+627,Dr. João Vitor Castro,263.758.940-00,19,fcosta@example.net,759,7.67,8.81,9.89,False,
+628,Miguel da Mota,245.910.637-80,28,eduardoramos@example.org,692,,,,True,2.0
+629,Mariane Teixeira,103.679.582-95,28,novaesyago@example.org,701,7.42,5.27,7.25,False,
+630,Luiz Henrique Duarte,618.904.753-00,21,salesjoao-lucas@example.org,721,8.87,6.69,9.22,False,
+631,Kevin da Paz,173.068.295-21,18,pedro-miguelnunes@example.org,647,6.53,9.21,5.81,False,
+632,Mariana Sales,870.416.539-00,18,bduarte@example.com,702,8.72,7.86,8.59,False,
+633,Dr. Fernando Lima,134.750.869-48,21,julia12@example.org,778,7.78,10.0,8.47,False,
+634,Davi Luiz Aragão,802.739.154-79,25,rcardoso@example.net,646,6.25,7.87,5.5,False,
+635,Matheus Almeida,950.461.283-06,23,luna43@example.net,783,6.53,6.29,6.7,False,
+636,Davi Lucas Ferreira,645.270.381-17,28,nascimentonatalia@example.net,718,,,,True,1.0
+637,Ian Nunes,386.720.145-53,18,isadora25@example.net,727,7.19,9.24,6.37,False,
+638,Camila Gomes,641.087.953-93,23,ucostela@example.com,770,5.91,9.47,8.0,False,
+639,Bárbara Correia,674.138.902-40,25,fogacaisaac@example.org,656,8.52,8.74,9.6,False,
+640,Benjamin Ribeiro,259.830.146-33,28,catarinada-luz@example.com,669,6.14,6.49,5.67,False,
+641,Ana Luiza da Rosa,420.368.157-07,24,sabrina42@example.net,739,,,,True,1.0
+642,Nina Azevedo,402.651.738-17,18,pedro08@example.net,792,8.99,7.12,,True,6.0
+643,Ana Júlia Cardoso,846.017.952-49,18,evelyn54@example.net,655,7.69,,,True,3.0
+644,Esther Silva,413.607.852-80,26,oliviaduarte@example.net,762,7.29,,,True,3.0
+645,Luiza Carvalho,287.965.401-76,22,goncalvesgabrielly@example.org,679,6.7,6.49,7.65,False,
+646,Eloah Martins,465.780.293-38,19,maitenovaes@example.net,677,9.42,8.7,5.73,False,
+647,Pietro Dias,013.748.259-05,25,monteiroaugusto@example.com,752,5.05,8.17,6.38,False,
+648,Sr. Lucas Gabriel Dias,549.136.708-75,21,isabel63@example.org,786,7.2,,,True,4.0
+649,Amanda Ferreira,249.106.583-51,25,lucas-gabriel52@example.org,699,9.49,8.62,5.32,False,
+650,Dr. Noah Melo,298.540.176-30,26,thalesmonteiro@example.org,796,7.44,6.41,8.7,False,
+651,Sra. Lorena da Costa,781.394.056-39,28,ibarbosa@example.com,744,8.91,8.17,7.96,False,
+652,Giovanna Teixeira,986.071.235-21,21,tbarbosa@example.net,655,5.37,9.22,5.42,False,
+653,Nina Gonçalves,174.863.509-39,24,nogueiravitor-hugo@example.org,767,7.37,7.67,9.08,False,
+654,Benício Nascimento,372.965.048-38,28,barbosajuan@example.com,768,5.39,7.13,9.45,False,
+655,Rodrigo Nogueira,678.103.259-30,18,ana-clarabarbosa@example.net,656,9.28,9.57,5.49,False,
+656,Gustavo Henrique Barros,061.472.395-70,22,mjesus@example.org,761,8.1,8.2,9.86,False,
+657,Emanuel Souza,850.123.967-40,20,giovannadias@example.com,722,5.96,7.05,,True,5.0
+658,Luiz Henrique Santos,391.720.864-40,27,otavio01@example.net,754,8.97,5.6,8.57,False,
+659,Emanuelly da Conceição,590.628.134-70,26,bruna10@example.com,795,,,,True,2.0
+660,João Gabriel Cavalcanti,395.217.684-28,22,rlima@example.org,645,6.12,,,True,3.0
+661,Diogo da Cruz,563.827.049-38,26,carvalholuna@example.net,717,7.83,7.53,5.96,False,
+662,Daniela Lopes,792.654.310-16,18,ferreirarafaela@example.com,679,8.12,,,True,4.0
+663,Laura Santos,086.172.943-96,18,joaquim90@example.com,800,5.59,9.97,6.7,False,
+664,Gabriel Azevedo,735.429.061-07,19,naraujo@example.com,651,8.12,,,True,3.0
+665,Sr. Guilherme Silva,295.408.173-23,28,bgomes@example.org,713,5.35,6.75,5.8,False,
+666,Manuela Caldeira,160.537.492-06,22,santosantonio@example.com,660,7.01,9.46,6.12,False,
+667,Maria Luiza da Cruz,279.154.036-99,23,helena37@example.com,673,7.44,9.13,7.62,False,
+668,Dr. Rafael Peixoto,028.196.437-87,20,esthermonteiro@example.com,788,9.72,6.05,9.24,False,
+669,Sabrina Pereira,647.102.839-31,24,stephany68@example.com,658,5.24,5.3,6.52,False,
+670,Alexandre Ferreira,912.706.384-40,18,rezendevitor-gabriel@example.org,692,6.94,5.13,5.16,False,
+671,Lucca Carvalho,967.058.231-86,27,paulo88@example.org,644,6.35,8.2,9.13,False,
+672,João Guilherme Carvalho,821.495.067-85,21,giovanna03@example.com,700,7.31,8.24,8.92,False,
+673,Emanuel Mendes,027.168.349-03,27,vieiracaroline@example.net,729,6.21,7.44,8.1,False,
+674,Srta. Sarah Barros,690.135.247-61,28,carolina80@example.com,761,8.64,8.0,,True,6.0
+675,Ana Luiza Campos,390.826.451-06,21,lauranunes@example.net,663,7.15,7.14,5.8,False,
+676,Yago Duarte,154.738.692-46,27,msouza@example.com,651,7.27,5.28,7.07,False,
+677,Lorena Melo,916.370.582-68,22,wsilva@example.org,769,5.22,7.84,8.2,False,
+678,Anthony Moura,641.097.385-39,20,emilly64@example.org,689,6.85,7.67,,True,6.0
+679,Sophia Costela,370.194.258-79,24,mourabruna@example.com,777,8.85,5.08,6.98,False,
+680,Luiza da Cruz,063.784.915-93,24,correiaalexia@example.net,676,5.93,6.93,7.85,False,
+681,Thomas da Paz,130.469.872-69,25,brendaoliveira@example.com,784,7.71,5.99,9.26,False,
+682,Luiz Miguel da Mota,940.621.538-15,20,henrique13@example.com,738,8.24,8.92,8.16,False,
+683,Dr. Ian Moraes,016.724.395-07,19,fernando92@example.com,774,5.39,7.8,6.65,False,
+684,Alexandre Lopes,124.879.306-40,23,milena64@example.org,705,5.53,6.84,9.33,False,
+685,Isis Viana,193.625.084-51,21,novaessamuel@example.net,697,,,,True,1.0
+686,Sra. Letícia Rodrigues,746.253.901-25,27,halmeida@example.net,781,9.51,8.11,9.99,False,
+687,Juliana Jesus,036.175.492-25,19,yalmeida@example.com,774,6.89,,,True,3.0
+688,Dr. Enrico Ramos,150.893.762-12,24,rodriguesjuliana@example.com,681,5.63,7.36,9.55,False,
+689,Sarah da Cruz,953.801.762-59,21,ana-vitoria44@example.org,757,8.91,8.94,6.7,False,
+690,Ana Lívia Lima,468.391.072-13,18,nathan65@example.net,737,,,,True,1.0
+691,Vicente Caldeira,849.023.751-41,19,joao-felipe13@example.net,665,5.04,8.57,5.93,False,
+692,Benício Rodrigues,364.250.897-92,26,fda-cunha@example.net,778,,,,True,2.0
+693,Dr. Luigi Rezende,160.748.359-93,21,antoniosilveira@example.com,782,9.86,8.3,5.08,False,
+694,João Vitor Gonçalves,804.217.935-97,25,orodrigues@example.net,685,,,,True,1.0
+695,Ryan Azevedo,349.162.508-42,22,fogacaclarice@example.org,715,6.57,6.96,5.67,False,
+696,Diego Aragão,957.234.168-55,28,enunes@example.net,749,9.27,6.78,9.43,False,
+697,João Pedro Nogueira,617.082.945-11,26,da-cunhaluiz-miguel@example.org,686,9.87,5.31,7.76,False,
+698,Lara Ramos,387.492.065-83,22,nicolas52@example.net,782,8.83,6.38,5.01,False,
+699,Gabriela da Rosa,519.426.378-37,20,qrezende@example.org,725,,,,True,2.0
+700,Catarina Nogueira,214.896.503-42,26,dmonteiro@example.net,642,5.37,5.26,5.12,False,
+701,Gabrielly Barros,725.931.604-70,23,danilo02@example.net,799,9.46,9.26,7.63,False,
+702,Dra. Emanuelly Pinto,925.864.073-00,28,levicaldeira@example.org,773,5.41,8.17,5.68,False,
+703,Juan Pinto,591.762.408-94,18,renanfernandes@example.com,744,9.3,,,True,4.0
+704,Dr. Lucca Ferreira,107.392.546-34,24,umoura@example.com,685,7.75,5.44,5.8,False,
+705,Cauê Costa,075.628.913-03,18,pereiramurilo@example.net,713,,,,True,1.0
+706,Rodrigo Dias,973.465.801-84,20,kjesus@example.net,772,7.51,7.19,7.51,False,
+707,Dr. Vinicius Sales,893.627.054-00,28,qcunha@example.org,652,7.36,6.69,5.1,False,
+708,Srta. Sarah Duarte,985.247.310-79,18,sfernandes@example.net,722,8.58,8.63,8.9,False,
+709,Augusto Souza,296.578.340-74,28,marcelo53@example.org,666,8.7,8.18,8.22,False,
+710,Srta. Maitê Rocha,315.028.479-14,23,guilhermefogaca@example.org,684,7.87,9.84,5.63,False,
+711,Erick Viana,069.782.341-50,25,bbarros@example.net,650,9.25,9.62,8.91,False,
+712,Srta. Gabrielly da Rocha,431.276.095-07,25,thiago16@example.net,792,5.76,6.56,9.79,False,
+713,Sra. Larissa Duarte,592.301.864-06,22,falves@example.com,688,,,,True,1.0
+714,Stella Carvalho,062.531.794-70,20,maria-juliaribeiro@example.com,695,9.13,8.12,9.05,False,
+715,Vitor Gabriel Peixoto,357.841.962-19,22,diasemanuel@example.com,715,,,,True,2.0
+716,Clara Rocha,490.257.638-47,26,vnovaes@example.net,773,6.42,9.72,8.79,False,
+717,Otávio Nogueira,235.498.067-10,25,freitasyasmin@example.org,694,6.84,6.74,7.49,False,
+718,Ana Lívia Moraes,978.362.104-13,22,ylima@example.org,749,6.93,7.69,9.7,False,
+719,Sr. Danilo Dias,340.692.587-10,24,limabeatriz@example.net,787,6.16,8.33,5.1,False,
+720,Pedro Henrique Fogaça,147.390.825-60,23,caldeiradiego@example.org,677,7.83,5.97,7.87,False,
+721,Vinicius da Costa,920.531.846-98,19,gabriel64@example.net,790,8.85,8.69,6.2,False,
+722,Gustavo Henrique Gomes,680.327.149-87,19,lara87@example.com,666,6.8,,,True,4.0
+723,Laura Cavalcanti,190.758.326-21,23,caldeiradavi-lucca@example.com,734,9.62,5.87,6.4,False,
+724,Danilo Pereira,134.596.208-89,26,joao-guilherme01@example.org,682,6.13,,,True,4.0
+725,Sra. Ana Luiza Ramos,349.287.051-14,28,caldeirajoao@example.org,719,7.78,9.86,5.97,False,
+726,Joana Cardoso,713.049.826-96,25,mourakevin@example.com,791,,,,True,1.0
+727,Beatriz Castro,945.126.078-11,18,maria-sophia27@example.com,773,6.91,5.93,,True,6.0
+728,Júlia Rezende,582.034.761-71,20,ana-luiza28@example.com,779,8.71,6.94,9.32,False,
+729,Júlia Duarte,643.718.295-46,27,ana-beatriz13@example.net,799,5.35,9.52,7.35,False,
+730,Rafael das Neves,718.453.296-19,28,da-costaluiz-gustavo@example.org,783,9.46,6.0,,True,6.0
+731,Vitor Gabriel Lopes,758.423.190-04,28,sabrina82@example.net,744,,,,True,2.0
+732,Theo Freitas,089.452.316-33,27,nina17@example.com,650,9.34,5.69,8.42,False,
+733,Vicente da Rosa,312.849.706-04,23,larissaoliveira@example.com,730,9.77,7.29,7.25,False,
+734,Lucas Gabriel Aragão,378.561.902-21,26,emanuelmoraes@example.com,674,6.87,7.71,9.09,False,
+735,Leandro da Costa,493.670.815-10,21,bernardo22@example.org,747,8.94,7.31,7.1,False,
+736,Pedro Lucas Barros,439.651.782-37,27,sda-conceicao@example.net,743,5.52,8.54,7.71,False,
+737,Lara Sales,480.693.712-69,26,unogueira@example.org,673,9.72,8.67,6.96,False,
+738,Maria Vitória Martins,396.541.827-00,18,joao-miguel02@example.com,640,6.14,5.31,6.94,False,
+739,Leandro Pires,804.361.975-10,18,silvabenicio@example.org,674,7.08,6.89,6.64,False,
+740,Rafaela Pereira,479.825.061-94,20,limanicole@example.com,659,8.5,7.1,9.3,False,
+741,Dr. Bruno Melo,375.618.942-28,26,enzo-gabrielcaldeira@example.org,793,9.05,9.56,8.79,False,
+742,Sophie Cardoso,081.436.792-50,25,rebeca36@example.net,672,7.24,5.63,,True,5.0
+743,Sr. Luiz Gustavo Nascimento,023.947.816-96,21,araujojoaquim@example.com,690,6.44,5.11,9.32,False,
+744,Olivia Fernandes,039.254.681-70,22,qfarias@example.com,705,7.53,7.84,8.74,False,
+745,Maysa Duarte,297.058.163-95,28,limajulia@example.net,650,7.75,8.24,5.93,False,
+746,Helena Cavalcanti,574.218.963-09,21,nicole83@example.org,674,6.07,7.35,5.02,False,
+747,Dr. Enzo da Mata,074.269.538-74,22,santoscamila@example.com,791,7.58,,,True,4.0
+748,Kamilly Araújo,564.018.937-10,26,luigisilveira@example.com,734,9.93,,,True,4.0
+749,Samuel Silva,830.426.719-50,18,diegoteixeira@example.net,679,,,,True,2.0
+750,Isis Jesus,563.497.218-37,19,fsilva@example.com,799,6.19,6.0,5.86,False,
+751,Bernardo Cardoso,204.876.351-08,27,camposluiz-gustavo@example.org,799,9.73,8.07,8.46,False,
+752,Kevin Fernandes,936.102.587-21,22,pereiraanthony@example.com,762,8.43,7.07,,True,6.0
+753,Augusto Almeida,612.805.379-30,28,marceloda-luz@example.net,735,6.75,6.53,7.37,False,
+754,Sra. Maria Vitória Moreira,479.825.061-94,20,marcos-viniciuscaldeira@example.net,743,6.49,7.47,5.49,False,
+755,Paulo Barbosa,798.143.602-87,18,lorenzofreitas@example.com,796,5.23,8.43,9.74,False,
+756,Isaac Correia,852.439.617-28,25,vianaeloah@example.net,798,8.2,6.47,9.07,False,
+757,Gustavo Henrique Lima,509.436.782-00,26,costelarafael@example.net,728,5.09,7.79,6.49,False,
+758,Laís Dias,706.219.538-30,18,rvieira@example.net,722,,,,True,2.0
+759,Kamilly das Neves,951.842.763-19,24,nicolasbarbosa@example.org,707,9.99,7.75,5.31,False,
+760,Isadora Nogueira,753.429.108-97,26,qnunes@example.com,788,,,,True,2.0
+761,Henrique Viana,935.862.014-51,18,oliveiraguilherme@example.com,683,5.39,6.85,9.12,False,
+762,Lívia da Conceição,751.698.430-20,21,sarahnunes@example.org,706,9.45,9.16,6.13,False,
+763,Isis Nogueira,679.042.185-85,21,gustavo65@example.org,683,6.38,7.15,8.8,False,
+764,Enzo Silva,065.741.893-57,27,zda-luz@example.org,668,8.9,7.9,5.65,False,
+765,Carolina Carvalho,643.217.958-00,19,xfogaca@example.org,647,,,,True,2.0
+766,Maria Alice Viana,764.813.095-57,21,ana07@example.com,718,5.06,,,True,4.0
+767,Stella Dias,615.487.230-53,28,da-pazdavi-lucca@example.net,653,8.67,,,True,4.0
+768,Joana Lopes,465.103.982-06,19,odias@example.com,695,8.3,8.44,5.02,False,
+769,Emanuelly Costela,861.230.457-17,25,pintootavio@example.com,784,,,,True,1.0
+770,Fernanda da Mata,176.324.095-99,27,maria-vitoria30@example.org,700,6.99,6.25,7.37,False,
+771,Alexia Barbosa,750.382.491-32,24,goliveira@example.org,711,7.9,9.27,6.89,False,
+772,Rafaela Almeida,250.348.716-53,21,nascimentoana-vitoria@example.net,793,8.21,8.03,5.5,False,
+773,Srta. Fernanda Fernandes,836.240.519-89,26,sdas-neves@example.org,707,9.33,5.58,6.66,False,
+774,Luana Freitas,291.075.436-70,21,alexiapereira@example.net,671,6.86,8.8,5.47,False,
+775,Ana Lívia Araújo,863.742.091-50,22,joao-felipe25@example.org,798,8.81,6.86,9.42,False,
+776,Dr. Alexandre Porto,647.930.812-31,24,ian44@example.org,716,8.76,6.91,,True,5.0
+777,Maria Fernanda Azevedo,683.072.514-35,21,rsilveira@example.net,691,6.5,9.18,8.35,False,
+778,Helena Fernandes,370.956.482-47,19,rezendemaria-sophia@example.com,661,6.08,9.35,,True,5.0
+779,Otávio Lopes,078.293.514-14,28,zporto@example.com,644,8.83,6.86,9.95,False,
+780,Vitória Ferreira,651.749.028-02,26,freitaserick@example.com,789,6.62,6.06,6.35,False,
+781,Alexia Rezende,435.971.826-82,24,fogacajoao-gabriel@example.net,737,9.64,9.54,,True,5.0
+782,Luana Nunes,510.789.263-95,18,silvagiovanna@example.net,684,8.44,,,True,4.0
+783,Sarah Araújo,854.136.907-20,23,pietro16@example.net,758,7.32,6.82,6.35,False,
+784,Dra. Helena Monteiro,083.162.795-68,22,leandrosilveira@example.com,774,8.56,8.95,8.24,False,
+785,Laís Ramos,147.802.395-32,28,davi-lucca72@example.com,705,7.88,5.42,,True,6.0
+786,Maysa Rodrigues,928.461.370-13,18,benjamin06@example.com,717,8.81,8.63,8.02,False,
+787,Dr. Caio da Paz,341.587.906-20,28,yuriduarte@example.org,697,8.46,8.14,9.53,False,
+788,Dr. Marcos Vinicius Aragão,194.567.823-28,25,garaujo@example.com,734,5.4,8.55,5.6,False,
+789,Juan Pires,517.820.349-60,23,nicolas56@example.org,644,7.7,7.09,7.65,False,
+790,Lorenzo da Cunha,573.624.091-25,22,maria-luizacostela@example.org,781,6.28,6.98,5.75,False,
+791,Matheus Ramos,923.145.807-88,22,alana53@example.org,663,,,,True,1.0
+792,Isaac Cavalcanti,053.469.712-70,22,melojoao-gabriel@example.com,667,,,,True,2.0
+793,Catarina Ramos,291.034.568-89,26,isabella41@example.net,725,6.86,8.98,5.79,False,
+794,Cauê Castro,521.468.079-11,28,qribeiro@example.net,759,6.1,8.18,7.17,False,
+795,Cecília Souza,407.526.931-07,18,yagomartins@example.com,685,5.89,6.34,8.11,False,
+796,Bianca Martins,401.738.569-93,26,sophie49@example.com,701,6.61,7.19,7.62,False,
+797,Vitor Gabriel Moura,041.728.359-88,19,bda-costa@example.net,717,7.0,6.53,6.42,False,
+798,Vinicius da Paz,275.419.308-14,26,danielapires@example.net,705,6.79,6.01,9.24,False,
+799,Nathan Cunha,271.803.645-17,18,bruno60@example.org,697,5.18,9.74,8.67,False,
+800,Dra. Melissa Pinto,684.931.057-75,23,aaragao@example.net,665,6.31,6.63,8.15,False,
+801,Nina Silva,293.756.084-92,21,maria-sophiacardoso@example.org,763,9.71,5.41,5.25,False,
+802,Sra. Alícia Gomes,183.729.406-22,22,cda-costa@example.org,667,7.48,7.9,,True,6.0
+803,Ian Ribeiro,671.239.584-46,21,emanuellynunes@example.net,696,8.85,9.9,9.39,False,
+804,Dra. Manuela da Mata,518.247.603-53,26,qvieira@example.com,683,6.61,8.31,5.76,False,
+805,Evelyn Ribeiro,924.751.603-06,20,isabellynascimento@example.com,642,5.43,10.0,7.11,False,
+806,Luiz Gustavo Martins,056.172.843-71,20,yda-luz@example.org,653,7.41,8.27,6.43,False,
+807,Ana Júlia Fernandes,972.615.408-11,22,marcos-vinicius85@example.net,792,9.18,,,True,3.0
+808,Vinicius Lopes,571.096.843-93,26,luigi35@example.com,700,8.33,7.59,,True,5.0
+809,Dr. Cauã Lopes,529.301.468-42,23,rochaalicia@example.com,643,,,,True,1.0
+810,Ana Carolina Correia,126.950.874-11,26,joana00@example.net,795,8.54,7.84,7.58,False,
+811,Maria Cecília Pinto,259.483.061-51,26,osilva@example.net,773,5.66,8.09,7.27,False,
+812,Dr. Noah Moura,926.078.351-86,21,vitoria11@example.com,687,5.62,8.3,9.06,False,
+813,João Felipe Moura,372.146.985-28,21,heloisa52@example.net,780,7.67,,,True,4.0
+814,João Guilherme Pereira,542.890.637-56,25,da-costalara@example.com,695,5.64,7.16,,True,6.0
+815,Diego Rodrigues,104.629.587-01,28,acorreia@example.com,711,9.84,5.12,5.79,False,
+816,Felipe Viana,809.736.154-00,21,emanuella70@example.org,795,7.94,9.39,7.32,False,
+817,Isabelly Santos,831.240.967-03,25,hlopes@example.com,683,7.58,7.36,7.76,False,
+818,Ana Lívia Costela,124.670.593-16,21,jesuslorena@example.org,795,8.13,9.6,5.79,False,
+819,Sr. João Felipe Sales,341.582.690-24,25,nascimentovitoria@example.org,799,6.8,5.72,6.71,False,
+820,Sr. Heitor Cavalcanti,294.357.168-73,25,emilly61@example.org,645,6.92,8.04,8.16,False,
+821,Arthur Vieira,184.072.935-04,27,salesdanilo@example.org,670,6.85,8.14,9.91,False,
+822,Sophia Ramos,864.213.790-87,25,aragaomatheus@example.org,761,8.53,5.84,8.35,False,
+823,Ian Sales,370.869.421-03,26,jda-rocha@example.net,712,5.93,8.03,9.94,False,
+824,Sophia Cavalcanti,364.897.215-46,27,valentinapereira@example.com,731,,,,True,1.0
+825,Dr. Samuel Caldeira,936.501.724-61,21,ceciliafreitas@example.net,792,7.77,,,True,3.0
+826,Maria Vitória da Luz,823.069.475-38,25,diegoda-conceicao@example.com,673,7.17,7.87,6.66,False,
+827,Augusto da Rosa,527.601.849-94,20,mariane68@example.com,712,6.3,7.23,7.49,False,
+828,Erick Caldeira,048.612.953-51,19,andrecunha@example.net,725,9.86,9.15,7.91,False,
+829,Stephany Silva,085.167.923-40,28,joaquim19@example.net,676,5.72,5.37,8.38,False,
+830,Sophia Fogaça,386.952.071-02,19,pcastro@example.org,732,6.23,7.67,6.51,False,
+831,Sr. Luigi Souza,930.452.617-52,24,vieiralivia@example.org,643,7.65,7.63,8.73,False,
+832,Vitor Jesus,163.790.842-31,22,kramos@example.net,800,8.1,8.01,5.64,False,
+833,Rafaela das Neves,621.984.035-60,19,catarina34@example.net,757,6.71,7.93,5.06,False,
+834,Fernanda da Luz,047.392.168-50,19,marina12@example.org,694,8.02,8.01,5.82,False,
+835,Fernanda Novaes,793.124.068-50,18,manuelaaraujo@example.net,743,7.3,7.85,9.54,False,
+836,Melissa Silva,184.320.679-03,19,benjamin60@example.org,664,7.25,,,True,4.0
+837,Srta. Ana Vitória Costa,146.298.350-24,27,danielda-costa@example.net,761,9.37,6.52,8.67,False,
+838,Valentina Barros,237.146.958-00,24,mariaalmeida@example.net,797,5.08,8.56,6.79,False,
+839,Ana Julia Pinto,897.620.314-31,27,fariasjoaquim@example.net,652,9.96,5.14,8.56,False,
+840,Fernando Silveira,926.704.351-06,20,silveiramaria-vitoria@example.org,753,6.03,9.33,9.92,False,
+841,Miguel Rodrigues,605.142.973-52,20,gustavorocha@example.com,706,8.86,8.55,7.59,False,
+842,Juliana Duarte,540.168.723-08,19,ada-luz@example.org,671,9.54,9.39,8.97,False,
+843,Eduarda Vieira,672.804.591-02,23,pereiraigor@example.net,697,5.76,9.45,,True,6.0
+844,Srta. Ana Julia Rezende,680.347.219-13,20,gda-cunha@example.org,702,9.39,8.69,5.8,False,
+845,Thomas Araújo,095.381.247-23,18,luigiazevedo@example.net,791,,,,True,1.0
+846,Diogo Freitas,715.432.086-90,23,enascimento@example.org,662,6.73,9.47,9.12,False,
+847,Thales da Luz,190.862.534-15,19,nteixeira@example.net,703,9.17,6.04,5.84,False,
+848,Bruna Fogaça,724.819.053-50,18,xcardoso@example.org,797,8.06,5.91,,True,5.0
+849,Luiz Felipe Cardoso,648.790.351-57,24,ocostela@example.net,766,5.81,,,True,3.0
+850,Noah da Cruz,187.906.542-85,28,nicoleazevedo@example.org,729,8.46,8.25,,True,6.0
+851,Samuel Costela,819.504.637-10,20,theo51@example.com,689,9.46,8.39,7.32,False,
+852,Caio Dias,923.406.781-96,21,bazevedo@example.org,772,,,,True,1.0
+853,Noah Freitas,691.703.584-00,25,costelagabrielly@example.net,784,,,,True,1.0
+854,Cecília Farias,059.467.218-01,27,luiz-fernando59@example.net,738,7.45,6.0,9.35,False,
+855,Enzo Ramos,813.257.904-60,21,luna83@example.com,674,6.2,8.13,9.34,False,
+856,Heloísa Lima,142.683.075-08,25,liviaduarte@example.net,679,7.64,9.81,,True,5.0
+857,Dra. Luana Aragão,536.728.140-08,20,leticialima@example.org,711,7.4,7.18,7.14,False,
+858,Maria Ribeiro,538.149.062-33,23,iporto@example.net,728,7.09,7.23,8.44,False,
+859,Luiza Farias,790.851.234-88,23,salesisabella@example.com,706,,,,True,1.0
+860,Kaique da Paz,754.109.826-49,27,almeidaana-clara@example.com,736,9.63,8.2,9.44,False,
+861,Sr. Lucas Gabriel Gomes,527.619.034-80,26,luiz-gustavocostela@example.com,762,5.52,9.06,8.26,False,
+862,Maitê Cunha,176.584.923-37,24,evelyn99@example.com,696,5.85,7.1,5.21,False,
+863,Maria Cavalcanti,305.769.412-80,26,das-nevesmaite@example.net,735,6.61,7.95,6.06,False,
+864,Augusto Jesus,250.761.439-07,23,da-conceicaonatalia@example.net,697,8.28,7.72,5.69,False,
+865,Raquel Pinto,605.714.823-17,23,thalesmendes@example.org,779,9.21,,,True,3.0
+866,Elisa Souza,573.280.164-26,24,emanuelmendes@example.org,765,6.88,7.54,6.16,False,
+867,Yuri Carvalho,637.845.092-74,22,ianda-mota@example.net,734,7.54,5.68,7.7,False,
+868,Vitor Castro,583.614.907-01,27,levisales@example.com,751,,,,True,2.0
+869,Leonardo Castro,251.047.386-71,19,nda-conceicao@example.com,645,8.83,7.74,9.89,False,
+870,Dr. João Guilherme Lima,956.783.041-00,18,ana-beatriz56@example.net,750,7.23,7.48,7.34,False,
+871,Ana da Cruz,246.159.308-60,18,lgoncalves@example.org,679,8.06,7.59,,True,5.0
+872,Sr. Carlos Eduardo Rodrigues,905.784.123-14,20,gnascimento@example.com,697,5.11,9.62,,True,5.0
+873,Luiz Otávio da Luz,860.921.457-58,24,ncorreia@example.net,684,9.99,8.93,9.26,False,
+874,Sofia da Cruz,817.406.935-66,28,joao-felipecaldeira@example.org,792,5.21,9.3,9.0,False,
+875,Maria Aragão,078.326.941-22,26,rcardoso@example.com,655,,,,True,2.0
+876,Diogo Correia,056.182.794-01,18,daniel43@example.net,717,6.34,8.42,6.75,False,
+877,Erick Mendes,902.536.184-60,22,alvesstella@example.com,658,9.37,,,True,4.0
+878,Pedro Henrique Moura,904.357.621-25,20,carolina09@example.com,698,5.82,9.07,6.05,False,
+879,Rodrigo da Mata,389.240.157-88,20,henrique90@example.net,682,7.76,7.0,8.89,False,
+880,João Felipe Caldeira,684.217.903-31,26,bernardomartins@example.com,778,5.39,6.96,7.45,False,
+881,Sofia Nunes,473.690.185-39,19,luana43@example.net,666,,,,True,1.0
+882,Dra. Caroline da Rocha,380.721.954-41,26,gcostela@example.com,664,,,,True,2.0
+883,Dr. Guilherme da Rocha,703.982.654-29,23,da-luzcaroline@example.net,798,,,,True,2.0
+884,Pedro Cardoso,687.054.329-10,24,esantos@example.net,727,,,,True,2.0
+885,Giovanna Cardoso,952.473.068-56,25,igornogueira@example.org,747,9.13,5.45,9.0,False,
+886,Mariana da Cunha,401.328.975-04,19,bruna69@example.com,663,,,,True,1.0
+887,Alexia Moraes,673.105.892-03,18,nicolecaldeira@example.net,661,,,,True,1.0
+888,Igor Araújo,610.847.953-10,26,correiadaniel@example.net,701,7.72,5.9,8.0,False,
+889,Ana Alves,734.105.629-07,22,gustavofogaca@example.com,641,7.3,5.1,9.71,False,
+890,Thales Lopes,193.765.482-64,24,da-luzjoao-lucas@example.net,664,6.33,9.15,7.88,False,
+891,Maria Fernanda Fogaça,437.658.910-10,19,livia82@example.org,646,5.31,6.36,6.97,False,
+892,Sra. Ana Luiza Fogaça,814.295.760-49,25,theo15@example.org,650,9.17,8.4,7.5,False,
+893,Ana Vitória Porto,796.284.310-13,20,das-nevesalana@example.net,690,8.83,9.86,8.96,False,
+894,Gabriel Gomes,498.371.260-78,18,daniela61@example.org,657,6.02,,,True,4.0
+895,João Gabriel da Rocha,978.126.035-12,25,maria51@example.com,727,8.91,8.38,9.41,False,
+896,Maitê da Costa,460.315.798-39,22,ferreiramaria-cecilia@example.com,691,9.46,6.04,9.65,False,
+897,Isis da Mota,352.061.847-80,25,lunada-mota@example.net,709,,,,True,1.0
+898,Srta. Larissa Gomes,410.625.783-17,19,heloisacardoso@example.net,715,7.66,5.93,7.27,False,
+899,Pedro Miguel Ribeiro,421.678.053-90,24,felipeda-mota@example.com,738,7.31,7.42,7.65,False,
+900,Luana Gonçalves,851.096.432-70,26,fernandocaldeira@example.org,648,,,,True,2.0
+901,Yasmin Cardoso,756.398.021-03,25,eloah89@example.com,685,9.48,9.97,,True,6.0
+902,João Vitor Araújo,730.425.981-79,20,yfreitas@example.com,672,6.14,7.38,9.08,False,
+903,Natália Pereira,546.903.178-01,20,eduarda75@example.com,750,7.99,,,True,4.0
+904,Maria Alice Barbosa,264.108.795-20,21,carvalhoenzo@example.org,720,5.16,9.02,,True,6.0
+905,Ana Sophia Azevedo,908.145.637-75,18,joao-felipelopes@example.net,716,5.11,7.53,9.48,False,
+906,Beatriz da Rosa,346.708.129-04,25,gsouza@example.com,665,8.08,7.61,5.47,False,
+907,Gabriela Moura,253.614.807-62,25,alexandreda-cruz@example.org,651,8.51,9.39,7.54,False,
+908,Alícia Dias,687.405.193-84,27,manuelanascimento@example.org,755,8.87,6.56,6.35,False,
+909,Leandro Nunes,827.134.965-19,21,enzocorreia@example.net,795,5.14,8.94,7.98,False,
+910,Sophia Gomes,746.093.258-29,20,oliveirarafael@example.com,702,7.25,6.81,5.32,False,
+911,Maria Eduarda Aragão,230.178.965-95,22,luiz-felipe49@example.net,641,5.27,6.19,9.25,False,
+912,Pietro Ribeiro,194.703.682-31,18,santosgabriela@example.com,691,9.9,6.08,7.61,False,
+913,Enzo Gabriel Fernandes,746.830.925-65,28,gabrielly54@example.com,773,8.47,8.27,9.79,False,
+914,Diogo da Costa,029.648.713-96,28,jesusrafael@example.org,670,5.29,7.7,5.31,False,
+915,Laura Dias,501.437.982-60,21,rebeca67@example.org,641,7.89,9.84,6.58,False,
+916,Cauê Oliveira,846.390.752-00,27,benicio22@example.net,692,5.74,5.24,5.43,False,
+917,Levi Sales,129.657.043-61,23,henrique46@example.com,797,5.36,6.68,8.31,False,
+918,Diego Melo,124.906.578-01,26,tda-cruz@example.com,673,5.66,5.73,9.89,False,
+919,João Gabriel Costa,812.970.453-60,22,mda-rosa@example.com,745,7.98,,,True,3.0
+920,João Felipe Porto,304.689.721-96,20,cgoncalves@example.com,713,,,,True,1.0
+921,Emilly Silva,081.364.279-50,23,thiago65@example.com,707,7.38,5.09,,True,6.0
+922,Otávio Souza,932.865.710-59,21,pedro-henriquemoraes@example.net,678,5.72,6.16,9.8,False,
+923,Giovanna Fernandes,564.837.192-64,19,lavinia18@example.org,753,,,,True,2.0
+924,Vinicius Duarte,158.062.974-11,28,rda-cruz@example.org,676,8.02,5.97,6.52,False,
+925,Catarina Souza,034.127.658-80,28,ana-laura26@example.net,671,8.79,,,True,4.0
+926,Vitória Sales,459.301.762-99,28,henrique18@example.com,757,7.7,5.53,5.92,False,
+927,Cauã Castro,608.531.479-57,19,carvalholucas-gabriel@example.com,748,9.37,5.48,6.46,False,
+928,Lucca Rocha,489.735.206-10,19,fteixeira@example.net,707,7.9,,,True,4.0
+929,Dr. Marcos Vinicius Silveira,568.921.307-12,26,peixotomaria-cecilia@example.net,702,5.24,7.67,,True,5.0
+930,Eduarda Ferreira,237.548.619-64,27,vianavitoria@example.com,793,8.18,8.17,5.01,False,
+931,João Lucas da Rosa,503.467.129-80,24,rodrigoteixeira@example.org,707,5.77,5.41,7.57,False,
+932,Srta. Ana Laura Silveira,724.831.569-91,21,diegorezende@example.org,659,5.41,8.11,9.54,False,
+933,Rebeca da Cunha,695.847.213-64,28,vitor-gabriel35@example.com,714,9.67,7.28,5.41,False,
+934,Kevin Lima,837.420.695-00,22,isabelfreitas@example.org,671,7.74,6.4,6.33,False,
+935,Clara Nascimento,290.567.183-12,28,aferreira@example.org,774,,,,True,1.0
+936,Diogo Lopes,726.135.489-91,18,da-cunhaluiz-fernando@example.org,734,6.89,5.55,,True,5.0
+937,Otávio Porto,861.340.572-07,20,sofia75@example.com,679,7.72,9.34,7.57,False,
+938,Maria Eduarda Moreira,538.192.764-91,18,emendes@example.net,664,6.75,6.49,8.37,False,
+939,Bruno Viana,307.895.142-14,21,nfarias@example.com,788,8.94,7.62,,True,5.0
+940,Maria Clara Duarte,865.491.320-70,18,peixotoyago@example.org,693,5.42,9.1,9.6,False,
+941,Emilly Azevedo,605.983.274-10,19,rodrigomoraes@example.com,647,,,,True,2.0
+942,Bruna Monteiro,960.728.345-74,23,silveiraluigi@example.org,652,6.91,7.45,,True,6.0
+943,Matheus Gonçalves,148.693.075-10,19,taraujo@example.org,717,6.53,,,True,3.0
+944,Ana Lívia Cardoso,472.109.583-04,27,ana-clara35@example.net,793,7.19,8.54,9.14,False,
+945,Leonardo Mendes,307.491.562-52,19,davi-lucca99@example.net,651,6.07,,,True,4.0
+946,Alexia Oliveira,238.074.195-60,27,gustavooliveira@example.net,799,8.92,,,True,4.0
+947,Samuel Santos,576.942.130-43,18,felipe20@example.org,749,6.68,7.13,7.6,False,
+948,Luiz Henrique Novaes,916.734.508-57,28,isabelviana@example.org,671,7.17,6.05,8.93,False,
+949,Bárbara Almeida,847.912.635-37,21,thalesrodrigues@example.com,666,9.98,5.27,9.24,False,
+950,Lucas Gabriel Viana,526.378.491-00,21,kferreira@example.org,711,9.32,9.14,7.7,False,
+951,Renan Mendes,569.342.701-34,22,ffogaca@example.net,703,7.44,,,True,3.0
+952,Emanuelly Fogaça,837.264.091-22,24,joanacastro@example.org,764,8.55,9.75,7.02,False,
+953,Mariana Silveira,708.954.123-14,26,zcarvalho@example.org,691,6.88,9.27,6.23,False,
+954,Nina Gomes,259.138.604-89,19,moraesemanuelly@example.com,794,,,,True,1.0
+955,Sr. Anthony Monteiro,468.921.703-31,25,azevedopedro-henrique@example.net,688,9.91,6.44,8.2,False,
+956,Sr. Matheus Farias,835.204.179-79,28,natalianascimento@example.net,674,6.2,,,True,3.0
+957,Rafael Campos,215.063.847-90,24,icaldeira@example.org,714,5.19,8.89,8.68,False,
+958,João Felipe Ramos,302.569.471-80,27,erick46@example.net,710,5.67,9.23,7.14,False,
+959,Cauê Souza,498.126.530-15,21,vitor-hugo29@example.com,715,6.71,6.83,7.96,False,
+960,Igor Pereira,256.903.748-65,20,araujocaue@example.net,752,8.46,9.63,7.33,False,
+961,Francisco Fernandes,379.048.152-14,21,livia42@example.net,721,7.2,7.39,6.45,False,
+962,Luiz Fernando Pereira,965.301.724-16,23,pintoana-laura@example.net,731,9.25,6.25,5.8,False,
+963,Diogo Pereira,931.608.724-40,27,carlos-eduardo06@example.org,686,7.82,5.36,9.54,False,
+964,Dra. Pietra Barbosa,358.617.240-08,23,tda-costa@example.org,679,5.25,5.03,6.44,False,
+965,Diego Castro,351.420.789-50,22,lorenaramos@example.com,766,9.21,7.38,7.47,False,
+966,Pedro Lucas Fernandes,805.694.237-83,26,emendes@example.net,720,8.53,,,True,4.0
+967,Gabrielly Moraes,234.806.971-78,19,samuel59@example.com,657,6.28,9.01,,True,5.0
+968,Lorenzo Moura,394.078.261-04,23,davi-lucas83@example.org,748,9.81,7.87,5.7,False,
+969,Francisco Pereira,450.916.283-98,28,tpinto@example.org,769,7.49,6.0,9.5,False,
+970,João Cardoso,107.938.526-68,23,vcarvalho@example.org,678,8.82,7.39,8.3,False,
+971,Maitê Carvalho,586.207.419-85,25,silveiraluiz-fernando@example.com,800,9.69,7.99,,True,5.0
+972,Caio Duarte,095.627.813-21,22,marinada-cunha@example.org,640,5.65,5.02,5.12,False,
+973,Caroline Fernandes,768.214.935-37,28,ddas-neves@example.com,778,8.32,6.86,6.4,False,
+974,Sr. Davi Oliveira,415.389.260-24,24,msouza@example.org,645,6.42,6.9,9.19,False,
+975,Kaique Barbosa,286.590.731-77,22,sofiapinto@example.com,735,8.11,,,True,4.0
+976,Ryan da Mota,068.197.524-58,21,da-motaluiz-henrique@example.com,760,8.87,7.96,9.43,False,
+977,Pedro Henrique Moraes,379.860.241-78,21,davi-luccada-conceicao@example.com,722,8.06,9.61,5.99,False,
+978,Larissa Teixeira,670.538.941-93,19,teixeiracaio@example.net,778,5.02,9.21,6.6,False,
+979,Maria Clara Dias,270.156.489-11,20,plima@example.org,683,8.01,8.09,9.11,False,
+980,Sr. Danilo Aragão,693.204.175-80,20,luizaoliveira@example.net,789,,,,True,1.0
+981,Bianca Cardoso,285.314.907-23,19,diaspietro@example.net,760,5.13,9.4,7.58,False,
+982,Carolina da Cunha,815.947.203-04,18,thiagovieira@example.org,707,5.68,5.27,7.38,False,
+983,Sr. Vinicius Lopes,698.203.415-15,19,da-mataemilly@example.net,646,7.38,9.37,9.75,False,
+984,Mirella Alves,936.724.805-92,20,renanda-paz@example.net,780,7.48,6.04,,True,5.0
+985,Francisco Gonçalves,924.180.653-24,22,da-rosaesther@example.com,671,6.9,8.35,7.37,False,
+986,Esther Moura,720.534.691-61,22,ana-luiza63@example.org,663,9.31,9.91,7.56,False,
+987,Laís Gomes,047.129.538-88,18,dsantos@example.net,645,5.24,5.25,,True,6.0
+988,Sra. Juliana Cardoso,247.065.389-47,28,gustavo05@example.com,766,6.9,5.16,9.56,False,
+989,Dr. Yuri Alves,386.592.104-33,28,rezendesarah@example.net,648,5.78,9.32,6.6,False,
+990,Eduardo Peixoto,601.479.853-66,22,davi-lucca73@example.com,785,5.85,7.74,6.31,False,
+991,Lucas Gabriel Jesus,039.174.268-03,22,maria-sophia50@example.net,756,,,,True,2.0
+992,Raul Cunha,375.120.984-05,20,araujothiago@example.com,754,9.79,7.08,,True,6.0
+993,Elisa Campos,632.914.058-89,20,maria-ceciliagomes@example.net,727,5.52,8.61,,True,5.0
+994,Natália da Cruz,624.750.381-44,18,jda-paz@example.com,661,6.69,5.18,9.93,False,
+995,Amanda Barbosa,619.580.473-84,21,pintopietro@example.net,679,8.13,5.52,5.84,False,
+996,Dr. Yago Teixeira,251.693.408-42,19,estheralves@example.org,645,9.31,6.3,9.07,False,
+997,Maria Cecília das Neves,250.469.173-43,26,aporto@example.org,794,6.91,7.77,6.99,False,
+998,Elisa Moreira,492.730.516-34,22,silvabrenda@example.net,666,5.45,6.6,,True,6.0
+999,Dr. Thales da Rosa,563.014.892-33,25,acostela@example.org,726,9.39,7.89,7.23,False,
