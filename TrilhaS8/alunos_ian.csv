@@ -1,0 +1,1001 @@
+CPF,Nome,Idade,Sexo,Email,Nota_ENEM,CRE_2o_Semestre,CRA_4o_Semestre,CRA_6o_Semestre,Abandonou,Semestre_Abandono
+967.450.321-80,Alana Correia,24,Feminino,alana_correia_967@cepedi.com,657,6.263825727574373,7.04968945876233,,Sim,6.0
+058.946.273-38,Isaac da Cruz,18,Masculino,isaac_da_cruz_058@cepedi.com,667,6.3108062691961235,9.235295584550244,,Sim,6.0
+876.934.501-57,Ana Carolina Costa,24,Feminino,ana_carolina_costa_876@cepedi.com,698,5.401032247278399,5.93740986004313,7.349083426126783,Não,
+078.412.356-07,Nicole Moraes,21,Feminino,nicole_moraes_078@cepedi.com,679,8.304316209914049,6.984893176448642,,Sim,6.0
+941.632.078-13,Vitória Moraes,22,Feminino,vitória_moraes_941@cepedi.com,729,8.32319168941961,6.463134729202098,,Sim,6.0
+738.690.254-92,Milena da Cruz,26,Feminino,milena_da_cruz_738@cepedi.com,795,9.675238334671374,,,Sim,4.0
+106.527.983-30,Isadora Campos,21,Feminino,isadora_campos_106@cepedi.com,712,,,,Sim,2.0
+647.935.081-20,Anthony da Cunha,18,Masculino,anthony_da_cunha_647@cepedi.com,661,5.155325564288726,9.647758915915656,,Sim,5.0
+067.123.459-52,Sr. Daniel Nunes,28,Masculino,sr._daniel_nunes_067@cepedi.com,789,8.607182662128055,9.307689996023754,5.082595031676954,Não,
+735.691.402-61,Dra. Marina Porto,18,Feminino,dra._marina_porto_735@cepedi.com,775,,,,Sim,2.0
+085.739.246-83,Bruna da Conceição,19,Feminino,bruna_da_conceição_085@cepedi.com,672,5.763411217970961,6.176826618654946,9.06040473580471,Sim,8.0
+543.620.781-26,Sra. Laura Costela,25,Feminino,sra._laura_costela_543@cepedi.com,768,8.599325618326548,8.040090621728215,6.977793315878611,Sim,8.0
+738.456.192-28,João Felipe Freitas,22,Masculino,joão_felipe_freitas_738@cepedi.com,793,6.256442323024363,6.65588678622482,8.561052117191831,Não,
+108.752.369-95,Eduarda Melo,26,Feminino,eduarda_melo_108@cepedi.com,794,9.944754215719152,8.935239383233432,,Sim,5.0
+596.137.208-12,João Felipe Santos,23,Masculino,joão_felipe_santos_596@cepedi.com,758,9.223932661473832,6.813493293926857,,Sim,6.0
+592.074.318-23,Isis Duarte,20,Feminino,isis_duarte_592@cepedi.com,792,9.920984835044882,5.480458172385757,9.460735338548563,Não,
+609.578.123-02,Alice Costela,21,Feminino,alice_costela_609@cepedi.com,642,8.49637871408087,9.471710754603155,5.3989226546476825,Não,
+359.627.840-65,Davi Luiz da Costa,25,Masculino,davi_luiz_da_costa_359@cepedi.com,658,7.8366867324081415,9.39900354031068,8.295118142906881,Não,
+087.694.153-66,Vitor Souza,24,Masculino,vitor_souza_087@cepedi.com,710,5.310699526527692,6.158563029313897,,Sim,6.0
+498.517.263-46,Alice Nunes,21,Feminino,alice_nunes_498@cepedi.com,754,5.570116641136044,6.456961128156995,7.648870978631788,Não,
+315.927.084-04,Sr. Calebe Pinto,23,Masculino,sr._calebe_pinto_315@cepedi.com,766,6.0217134476975245,5.470078800368761,5.834209813176945,Não,
+685.927.340-29,Raul Moura,19,Masculino,raul_moura_685@cepedi.com,709,8.439892192284159,8.109346346294338,7.058931946943217,Não,
+315.980.267-12,Daniel Araújo,26,Masculino,daniel_araújo_315@cepedi.com,743,8.875886058625415,7.435357312821128,7.914597364421065,Não,
+524.879.106-58,Dra. Sabrina Nascimento,21,Feminino,dra._sabrina_nascimento_524@cepedi.com,721,9.31978824562466,7.4895870103094575,7.569380565599639,Não,
+962.451.870-01,Isabelly Barbosa,19,Feminino,isabelly_barbosa_962@cepedi.com,656,,,,Sim,2.0
+217.843.065-17,Ryan Moreira,22,Masculino,ryan_moreira_217@cepedi.com,707,,,,Sim,2.0
+421.387.056-17,João Guilherme da Conceição,19,Masculino,joão_guilherme_da_conceição_421@cepedi.com,763,6.82385624864628,8.4349846098187,9.719226047735752,Não,
+489.573.201-05,Dr. João Vitor Pinto,26,Masculino,dr._joão_vitor_pinto_489@cepedi.com,712,,,,Sim,2.0
+701.238.549-97,Sr. Diogo Lima,27,Masculino,sr._diogo_lima_701@cepedi.com,750,9.249819841677748,9.044426614600205,5.531335166162512,Não,
+938.647.201-50,Juliana Rodrigues,24,Feminino,juliana_rodrigues_938@cepedi.com,795,6.3965578193426005,,,Sim,3.0
+295.768.310-59,Giovanna Rodrigues,23,Feminino,giovanna_rodrigues_295@cepedi.com,753,,,,Sim,1.0
+280.916.437-13,Diogo da Rosa,22,Masculino,diogo_da_rosa_280@cepedi.com,745,5.0952569219793045,,,Sim,4.0
+341.056.829-89,Erick da Rocha,20,Masculino,erick_da_rocha_341@cepedi.com,667,8.682172296243355,,,Sim,3.0
+679.803.521-30,Samuel Teixeira,20,Masculino,samuel_teixeira_679@cepedi.com,710,,,,Sim,1.0
+061.947.283-96,Maitê Nascimento,22,Feminino,maitê_nascimento_061@cepedi.com,726,9.058551373666361,8.163918561529272,5.787861126735341,Sim,7.0
+612.958.430-05,Camila Sales,27,Feminino,camila_sales_612@cepedi.com,654,9.251436688262093,6.478343675905225,9.677830220076217,Sim,8.0
+360.519.824-42,Arthur das Neves,20,Masculino,arthur_das_neves_360@cepedi.com,684,9.717053246595672,6.8698386068934045,,Sim,6.0
+297.506.348-29,Ryan Caldeira,27,Masculino,ryan_caldeira_297@cepedi.com,755,,,,Sim,1.0
+659.018.234-51,Maria Sophia Almeida,26,Feminino,maria_sophia_almeida_659@cepedi.com,773,6.254785309983314,9.892064284259181,7.069282290557184,Não,
+257.340.186-35,Erick Caldeira,26,Masculino,erick_caldeira_257@cepedi.com,784,9.127281793712369,7.960234925467413,7.055486003957222,Não,
+673.482.091-22,Marcela Duarte,24,Feminino,marcela_duarte_673@cepedi.com,765,7.526435478457882,5.939107962249298,9.388514013227171,Não,
+587.423.096-38,Elisa Alves,18,Feminino,elisa_alves_587@cepedi.com,790,5.241235612526019,8.59211696002491,5.266346412992517,Não,
+164.250.389-42,Diego Barbosa,26,Masculino,diego_barbosa_164@cepedi.com,682,8.106003273279212,,,Sim,4.0
+928.351.047-04,Dr. Joaquim Farias,24,Masculino,dr._joaquim_farias_928@cepedi.com,730,9.040006901189912,,,Sim,4.0
+761.254.908-58,Yuri Pereira,28,Masculino,yuri_pereira_761@cepedi.com,767,5.517721541374884,,,Sim,4.0
+091.537.286-02,Yuri Duarte,19,Masculino,yuri_duarte_091@cepedi.com,648,6.651561155789633,9.41105901479473,7.887958623842941,Não,
+743.610.298-22,Lorena Pires,27,Feminino,lorena_pires_743@cepedi.com,703,7.088281355762268,7.216460727869306,9.971162273874164,Não,
+589.260.371-77,Pedro Novaes,24,Masculino,pedro_novaes_589@cepedi.com,785,8.466205133431451,5.7681363168978885,7.417549768472869,Sim,7.0
+345.726.091-52,Lucca Pereira,18,Masculino,lucca_pereira_345@cepedi.com,642,6.679615040353733,5.313765737555522,6.806224584851455,Não,
+392.058.674-38,Srta. Pietra Cardoso,19,Feminino,srta._pietra_cardoso_392@cepedi.com,742,5.101088437968871,8.912447260894798,5.064364062672674,Não,
+421.709.863-40,Mirella Lopes,20,Feminino,mirella_lopes_421@cepedi.com,706,6.151654222674715,6.372322486649266,7.169894856375283,Não,
+375.168.429-82,Dr. Pedro Miguel Rocha,26,Masculino,dr._pedro_miguel_rocha_375@cepedi.com,672,8.890193464484753,7.457395504824154,8.885001623669877,Não,
+051.642.397-52,Ana Beatriz da Rosa,22,Feminino,ana_beatriz_da_rosa_051@cepedi.com,767,9.577668144624242,8.033430790014432,,Sim,6.0
+501.469.287-76,Ana Julia Teixeira,25,Feminino,ana_julia_teixeira_501@cepedi.com,793,9.787069400129301,8.658869509091922,8.019442020551589,Não,
+892.170.345-41,Bruna Vieira,18,Feminino,bruna_vieira_892@cepedi.com,771,9.545909825825568,8.760847286725285,7.925397371062676,Não,
+398.176.054-93,Kamilly Santos,19,Feminino,kamilly_santos_398@cepedi.com,655,9.345779404887558,8.355337553236305,5.901692615593261,Não,
+810.475.369-00,Ana Sophia da Conceição,25,Feminino,ana_sophia_da_conceição_810@cepedi.com,717,7.847230283211433,8.776664709465859,,Sim,5.0
+390.651.784-57,Dr. Diego Lopes,28,Masculino,dr._diego_lopes_390@cepedi.com,687,7.2970767408073565,,,Sim,4.0
+054.731.982-79,Yasmin Santos,27,Feminino,yasmin_santos_054@cepedi.com,720,5.521401995537206,9.709069861248977,5.002592565720519,Não,
+687.054.219-85,Dr. Danilo da Conceição,21,Masculino,dr._danilo_da_conceição_687@cepedi.com,735,8.049777958698588,8.125438649738927,5.7923574759883705,Sim,8.0
+517.630.482-17,Danilo Farias,27,Masculino,danilo_farias_517@cepedi.com,648,8.790226701225453,9.398827586265924,7.295624958817255,Não,
+856.340.792-92,Natália Monteiro,27,Feminino,natália_monteiro_856@cepedi.com,667,7.985979980449478,8.96120696106143,5.027867569447444,Não,
+380.249.671-03,Helena Ferreira,23,Feminino,helena_ferreira_380@cepedi.com,789,,,,Sim,1.0
+801.463.752-62,Sr. Enrico Moraes,25,Masculino,sr._enrico_moraes_801@cepedi.com,677,9.9040047289494,6.009643781670793,7.351326497866938,Não,
+856.790.321-12,Otávio Campos,24,Masculino,otávio_campos_856@cepedi.com,649,5.544182368678717,,,Sim,4.0
+851.302.674-35,Luna Araújo,24,Feminino,luna_araújo_851@cepedi.com,654,5.486454450612542,7.101859793402141,8.61085395533789,Não,
+512.879.364-82,Benício Cardoso,19,Masculino,benício_cardoso_512@cepedi.com,773,6.510221393046912,6.659314922168611,6.314948643164245,Não,
+086.432.597-56,Olivia Pinto,19,Feminino,olivia_pinto_086@cepedi.com,700,6.473447100525077,8.980209738436447,8.864213170440083,Não,
+461.980.723-04,Leandro Moreira,28,Masculino,leandro_moreira_461@cepedi.com,718,9.152916521541378,9.161469541512421,,Sim,5.0
+610.972.583-86,Vinicius Lima,25,Masculino,vinicius_lima_610@cepedi.com,683,6.933052117077092,8.212349010896617,6.017198810616425,Não,
+369.475.021-52,Maria Sophia Dias,19,Feminino,maria_sophia_dias_369@cepedi.com,769,7.675305493755584,8.495895717156722,,Sim,6.0
+241.670.985-20,Raul Jesus,23,Masculino,raul_jesus_241@cepedi.com,741,6.283966114845519,,,Sim,4.0
+018.246.759-76,Brenda Castro,28,Feminino,brenda_castro_018@cepedi.com,662,7.025815662365953,7.61237627518726,8.146181064963333,Não,
+392.475.068-83,Srta. Carolina Fernandes,18,Feminino,srta._carolina_fernandes_392@cepedi.com,736,6.796645406884553,8.615715062097753,,Sim,6.0
+026.375.814-17,Levi Cardoso,25,Masculino,levi_cardoso_026@cepedi.com,773,,,,Sim,2.0
+231.468.705-17,Thiago Pinto,27,Masculino,thiago_pinto_231@cepedi.com,650,9.756433715747459,9.579528645691735,5.296423297109865,Não,
+380.291.576-30,Sarah da Rosa,27,Feminino,sarah_da_rosa_380@cepedi.com,772,6.998258050096667,8.186917761041943,5.130776953308191,Não,
+378.260.149-13,Pedro Miguel da Cruz,21,Masculino,pedro_miguel_da_cruz_378@cepedi.com,662,6.2434991190744515,,,Sim,3.0
+387.026.914-69,Antônio Aragão,25,Masculino,antônio_aragão_387@cepedi.com,684,,,,Sim,1.0
+148.693.057-39,Maria Julia Oliveira,22,Feminino,maria_julia_oliveira_148@cepedi.com,744,9.384158093065114,5.577809032826765,6.597705450568235,Não,
+470.318.529-60,Eduarda da Luz,28,Feminino,eduarda_da_luz_470@cepedi.com,734,9.417776418215134,7.520766114075689,9.907693909615066,Não,
+473.165.928-00,Maria Sophia Cardoso,22,Feminino,maria_sophia_cardoso_473@cepedi.com,651,,,,Sim,2.0
+371.284.956-73,João Souza,22,Masculino,joão_souza_371@cepedi.com,721,,,,Sim,2.0
+095.631.274-80,Isadora da Costa,18,Feminino,isadora_da_costa_095@cepedi.com,777,8.94584283859064,6.583846406025123,8.313727626265504,Sim,8.0
+213.854.760-44,Vitor Gabriel Vieira,18,Masculino,vitor_gabriel_vieira_213@cepedi.com,675,7.3453046413195695,8.800234886676044,,Sim,6.0
+198.670.253-77,Davi Luiz Moraes,20,Masculino,davi_luiz_moraes_198@cepedi.com,689,8.110881288446974,9.665275279642,7.878946645997438,Sim,8.0
+980.162.734-40,Elisa da Mata,28,Feminino,elisa_da_mata_980@cepedi.com,781,6.9114159456948485,5.724552479406083,8.016313299382887,Não,
+619.354.087-39,Raquel Melo,20,Feminino,raquel_melo_619@cepedi.com,760,8.956876962780937,9.59167712321998,7.276313441154723,Não,
+854.036.712-26,Caio Moura,19,Masculino,caio_moura_854@cepedi.com,661,7.442504296570149,5.316765993735683,8.726733871177288,Não,
+062.497.853-29,Vitor Hugo Moreira,28,Masculino,vitor_hugo_moreira_062@cepedi.com,791,9.030214923338331,6.395040581818919,5.715005197071977,Não,
+639.248.571-64,Rodrigo Pereira,26,Masculino,rodrigo_pereira_639@cepedi.com,723,7.42034254988482,6.545227456048155,7.413122165820051,Não,
+165.073.924-99,Sr. Davi Lucca Alves,22,Masculino,sr._davi_lucca_alves_165@cepedi.com,657,,,,Sim,2.0
+146.397.025-07,Emilly Barbosa,21,Feminino,emilly_barbosa_146@cepedi.com,800,,,,Sim,2.0
+579.160.234-07,Vitor Hugo Araújo,19,Masculino,vitor_hugo_araújo_579@cepedi.com,721,5.901169013008655,6.248363708886908,9.685617379550823,Não,
+031.762.589-68,Antônio Moraes,26,Masculino,antônio_moraes_031@cepedi.com,794,9.188711493603073,5.034922083827616,9.52690535931156,Não,
+815.647.923-82,Dr. Miguel Farias,26,Masculino,dr._miguel_farias_815@cepedi.com,685,6.334926589758609,9.753707149653989,5.98782709779824,Sim,8.0
+675.241.839-09,Dr. Fernando Nunes,22,Masculino,dr._fernando_nunes_675@cepedi.com,657,5.491207874354919,9.48447861229366,7.72719092997548,Sim,7.0
+607.432.195-70,Dr. Vitor Carvalho,19,Masculino,dr._vitor_carvalho_607@cepedi.com,661,8.285494243487328,,,Sim,4.0
+208.653.419-15,Diego Aragão,18,Masculino,diego_aragão_208@cepedi.com,645,7.055496345461067,7.468051450798375,8.709177449983825,Não,
+651.240.987-67,Gustavo Nunes,23,Masculino,gustavo_nunes_651@cepedi.com,648,5.072895930155804,7.848161253292095,6.63739771776648,Não,
+934.276.051-16,Davi Aragão,24,Masculino,davi_aragão_934@cepedi.com,797,5.321678618818509,6.872278831188442,6.530247246371536,Não,
+352.871.904-41,Sr. Emanuel Castro,19,Masculino,sr._emanuel_castro_352@cepedi.com,786,9.732234393856853,,,Sim,3.0
+069.154.328-33,Olivia Nunes,25,Feminino,olivia_nunes_069@cepedi.com,702,5.383677316324383,9.632860155298617,7.470313348943993,Não,
+134.520.869-33,Dra. Ana Júlia Fogaça,28,Feminino,dra._ana_júlia_fogaça_134@cepedi.com,750,8.609010752753155,9.021342898952284,,Sim,6.0
+892.146.305-42,Melissa Correia,19,Feminino,melissa_correia_892@cepedi.com,797,6.763436777397885,9.101741467031044,7.668635357429365,Não,
+283.057.496-65,Rodrigo Caldeira,26,Masculino,rodrigo_caldeira_283@cepedi.com,735,9.334015068949768,7.895691333786621,8.666750597279444,Não,
+378.496.102-96,Joana Nogueira,23,Feminino,joana_nogueira_378@cepedi.com,781,7.325592267646268,8.247202957215727,7.471261339068695,Não,
+703.418.625-17,Maria Sophia Novaes,19,Feminino,maria_sophia_novaes_703@cepedi.com,707,7.340307954726354,7.600278109739575,5.1881691905832215,Não,
+479.205.681-02,Breno Teixeira,20,Masculino,breno_teixeira_479@cepedi.com,649,7.499654423217645,8.88153344860922,9.230311002463344,Não,
+698.530.127-40,Dra. Luana Costela,27,Feminino,dra._luana_costela_698@cepedi.com,797,8.544610754698983,6.340009544676431,6.9773523672506155,Não,
+620.745.318-26,Valentina Moraes,23,Feminino,valentina_moraes_620@cepedi.com,778,8.54185094374282,8.30922727609871,7.527820391781961,Sim,8.0
+975.146.832-91,Dr. Enzo da Rosa,28,Masculino,dr._enzo_da_rosa_975@cepedi.com,680,8.956367262252085,5.003789018008854,6.9267935010750215,Sim,8.0
+628.317.490-69,Lorenzo Novaes,19,Masculino,lorenzo_novaes_628@cepedi.com,795,9.54252603883484,9.279305275549028,6.92902439119009,Não,
+372.509.184-60,Isis da Luz,24,Feminino,isis_da_luz_372@cepedi.com,714,5.44360220101747,5.011964606486456,,Sim,6.0
+026.148.573-35,Ana Clara Azevedo,19,Feminino,ana_clara_azevedo_026@cepedi.com,752,5.581553220764752,9.761937475360096,9.97528157737053,Não,
+970.854.216-49,Marcos Vinicius Carvalho,26,Masculino,marcos_vinicius_carvalho_970@cepedi.com,783,8.91500722502826,5.19011567758865,,Sim,6.0
+391.847.625-19,Agatha Rocha,28,Feminino,agatha_rocha_391@cepedi.com,743,9.2872740786902,5.590407212627974,5.877150569119733,Não,
+263.914.075-25,Emanuelly Dias,18,Feminino,emanuelly_dias_263@cepedi.com,768,8.295444267247657,5.5909438712727235,8.079574399978423,Sim,7.0
+384.907.165-01,Luiz Fernando Rezende,22,Masculino,luiz_fernando_rezende_384@cepedi.com,750,7.247144484863261,8.802224187098133,,Sim,6.0
+986.120.347-87,Alexia Santos,20,Feminino,alexia_santos_986@cepedi.com,671,9.325379754368221,,,Sim,3.0
+903.642.578-65,Enzo Gabriel Cardoso,26,Masculino,enzo_gabriel_cardoso_903@cepedi.com,763,6.337367654548913,,,Sim,3.0
+098.361.742-22,Dr. Pedro Henrique Nascimento,20,Masculino,dr._pedro_henrique_nascimento_098@cepedi.com,662,9.061527625955907,7.919615984840904,7.4428212080788825,Não,
+276.594.180-76,Dra. Isabelly Almeida,23,Feminino,dra._isabelly_almeida_276@cepedi.com,705,9.162837270440281,7.829990688186681,,Sim,5.0
+512.439.867-19,Emanuelly Lima,23,Feminino,emanuelly_lima_512@cepedi.com,730,7.855553762866194,6.587189594646656,6.267394527353683,Não,
+493.520.168-15,Maria Sophia Cunha,21,Feminino,maria_sophia_cunha_493@cepedi.com,652,5.117561769971812,7.174230717655469,7.302210151871368,Não,
+259.841.637-64,Lorenzo Souza,24,Masculino,lorenzo_souza_259@cepedi.com,647,,,,Sim,2.0
+459.106.382-89,Maria Eduarda Moura,23,Feminino,maria_eduarda_moura_459@cepedi.com,655,8.826563596526542,6.326394330975207,,Sim,5.0
+019.875.364-01,Clarice da Costa,28,Feminino,clarice_da_costa_019@cepedi.com,744,6.622261032294,8.816571295597466,,Sim,6.0
+598.067.423-38,Antônio Rezende,25,Masculino,antônio_rezende_598@cepedi.com,641,7.645669235755957,6.10474764963306,5.543926662746431,Não,
+278.493.105-60,Maria Fernanda Farias,27,Feminino,maria_fernanda_farias_278@cepedi.com,790,8.32019775726956,,,Sim,3.0
+231.690.748-22,João Gabriel Lopes,22,Masculino,joão_gabriel_lopes_231@cepedi.com,751,8.29123363329598,9.66420072378795,9.981004825606508,Não,
+196.745.820-02,Sr. Renan Rezende,19,Masculino,sr._renan_rezende_196@cepedi.com,686,6.672064509044558,8.744822437306347,5.38326743667317,Não,
+013.825.946-15,Catarina Ramos,27,Feminino,catarina_ramos_013@cepedi.com,641,8.18396055139674,9.330166699977081,8.29024503151027,Não,
+145.983.670-75,Dr. Yago Nascimento,20,Masculino,dr._yago_nascimento_145@cepedi.com,794,8.860386449163038,8.650276287047866,9.525924372108928,Não,
+106.728.359-59,Raquel Nogueira,21,Feminino,raquel_nogueira_106@cepedi.com,652,8.446610360690846,,,Sim,3.0
+368.275.094-00,Rodrigo Aragão,25,Masculino,rodrigo_aragão_368@cepedi.com,646,6.1138058845767915,6.843433259014081,8.802831314825996,Não,
+561.392.740-52,Vitor Gabriel da Cruz,23,Masculino,vitor_gabriel_da_cruz_561@cepedi.com,784,,,,Sim,2.0
+086.972.534-38,Maitê Farias,27,Feminino,maitê_farias_086@cepedi.com,659,7.054592564877857,7.279953476654109,7.893756023818101,Sim,7.0
+876.192.540-30,Emanuella Campos,28,Feminino,emanuella_campos_876@cepedi.com,673,9.487171762029348,5.27490599347139,5.76320971845263,Não,
+540.789.213-88,Levi Cavalcanti,25,Masculino,levi_cavalcanti_540@cepedi.com,752,6.87191805039232,,,Sim,3.0
+462.589.307-00,Nina Dias,25,Feminino,nina_dias_462@cepedi.com,680,7.003498724040236,6.776661461586901,7.735394950745143,Não,
+140.357.698-00,Lavínia Monteiro,23,Feminino,lavínia_monteiro_140@cepedi.com,737,8.725121322403776,7.935785615289818,6.078565504436688,Não,
+819.754.632-00,Sabrina da Conceição,22,Feminino,sabrina_da_conceição_819@cepedi.com,686,7.529039486221655,9.903834481372117,6.7996824539695755,Não,
+587.049.361-75,Levi Novaes,25,Masculino,levi_novaes_587@cepedi.com,702,7.340030009676541,5.703656813499197,7.295237763126554,Não,
+490.687.531-93,Caio da Luz,21,Masculino,caio_da_luz_490@cepedi.com,772,8.168787078950691,5.2523091001930045,8.915027047977622,Não,
+907.485.261-02,Heitor Araújo,20,Masculino,heitor_araújo_907@cepedi.com,747,8.468224090872365,5.337184623646685,9.472219326489094,Não,
+574.902.683-38,Valentina Farias,22,Feminino,valentina_farias_574@cepedi.com,754,9.590145758370918,7.2346918767204045,9.169848410150516,Não,
+548.627.093-38,Breno Aragão,18,Masculino,breno_aragão_548@cepedi.com,786,5.299636475773169,,,Sim,4.0
+708.296.351-30,Sr. Luiz Otávio da Cruz,20,Masculino,sr._luiz_otávio_da_cruz_708@cepedi.com,766,6.050955807926973,5.584669151528611,8.063013403908016,Não,
+847.139.625-46,Otávio da Mata,20,Masculino,otávio_da_mata_847@cepedi.com,768,9.637822511713207,5.303009110263669,7.256683939748575,Sim,8.0
+164.705.839-20,Gustavo Henrique Cardoso,18,Masculino,gustavo_henrique_cardoso_164@cepedi.com,774,6.4684736116308,6.221698433744992,9.35973673870731,Sim,8.0
+149.725.836-73,Ana Luiza da Cunha,28,Feminino,ana_luiza_da_cunha_149@cepedi.com,791,7.953942179530998,8.853892721865614,9.259658674472327,Não,
+038.729.154-79,João Gabriel Rodrigues,23,Masculino,joão_gabriel_rodrigues_038@cepedi.com,760,5.656394023114889,8.415133133326579,5.341851414549916,Sim,7.0
+349.752.601-07,Matheus Costa,18,Masculino,matheus_costa_349@cepedi.com,743,6.9030210410787225,7.75464235797108,5.375174346560508,Não,
+316.925.704-80,Bárbara Sales,19,Feminino,bárbara_sales_316@cepedi.com,704,5.705491599141647,5.736534284799967,8.490302184738292,Não,
+285.107.346-07,Sarah Fernandes,21,Feminino,sarah_fernandes_285@cepedi.com,681,6.867618732262765,5.915425447901013,9.225279230275389,Não,
+920.564.817-58,Laís Peixoto,18,Feminino,laís_peixoto_920@cepedi.com,702,6.15550618204442,8.138329318960212,8.818637341028559,Não,
+192.706.485-67,Luiz Fernando Duarte,26,Masculino,luiz_fernando_duarte_192@cepedi.com,676,8.10251006674485,,,Sim,4.0
+810.293.765-30,Alexandre Cardoso,24,Masculino,alexandre_cardoso_810@cepedi.com,675,8.35754392236277,8.00911687627935,8.404149405565194,Não,
+915.602.734-61,Luigi Pinto,22,Masculino,luigi_pinto_915@cepedi.com,706,9.65506331015257,9.41273927760595,8.335770574117564,Não,
+785.203.194-32,Dr. Emanuel Dias,21,Masculino,dr._emanuel_dias_785@cepedi.com,788,,,,Sim,1.0
+103.596.274-80,Clara Nogueira,22,Feminino,clara_nogueira_103@cepedi.com,679,6.552565342297756,,,Sim,4.0
+297.065.814-30,Manuela Nogueira,24,Feminino,manuela_nogueira_297@cepedi.com,772,5.0400296568048395,8.8762088474273,,Sim,5.0
+174.586.920-49,Sabrina Dias,20,Feminino,sabrina_dias_174@cepedi.com,753,5.953348648979721,8.521794973915817,7.235000285809075,Não,
+403.986.721-13,Ana Lívia Nascimento,24,Feminino,ana_lívia_nascimento_403@cepedi.com,728,,,,Sim,1.0
+341.620.879-03,Maria Alice Rodrigues,26,Feminino,maria_alice_rodrigues_341@cepedi.com,708,5.852901900673402,8.511787608836205,5.417425469869808,Não,
+514.386.792-46,João Gabriel da Mata,22,Masculino,joão_gabriel_da_mata_514@cepedi.com,728,6.601046596803489,7.322870695181626,8.013728066747639,Não,
+275.310.968-03,Maria Vitória da Rocha,23,Feminino,maria_vitória_da_rocha_275@cepedi.com,650,9.232138545037502,6.429758990990357,,Sim,6.0
+380.956.247-56,Sr. Eduardo Dias,21,Masculino,sr._eduardo_dias_380@cepedi.com,712,6.538729959319737,7.861917908347009,7.964318815263788,Não,
+291.564.387-37,Dr. Luiz Felipe Dias,19,Masculino,dr._luiz_felipe_dias_291@cepedi.com,731,5.673892061439835,9.81816433463282,5.029635649062897,Sim,8.0
+408.137.695-66,Benício Cavalcanti,20,Masculino,benício_cavalcanti_408@cepedi.com,713,9.400507151965074,6.987321601567723,9.001376374742915,Sim,7.0
+351.046.829-51,Julia da Mota,18,Feminino,julia_da_mota_351@cepedi.com,648,5.36640651347362,,,Sim,4.0
+253.871.906-21,Mariane Fernandes,28,Feminino,mariane_fernandes_253@cepedi.com,670,7.00406500474489,9.652910583558068,,Sim,5.0
+768.209.541-58,Emilly Farias,27,Feminino,emilly_farias_768@cepedi.com,697,8.497274146875508,6.223196857530895,7.106192297678618,Não,
+601.872.493-69,Renan Gomes,24,Masculino,renan_gomes_601@cepedi.com,733,5.9491064194005725,,,Sim,3.0
+892.047.351-04,Enzo Gabriel da Mota,28,Masculino,enzo_gabriel_da_mota_892@cepedi.com,675,8.937764794482561,8.485614695544772,6.674718172507466,Não,
+612.094.857-02,Alana Gonçalves,19,Feminino,alana_gonçalves_612@cepedi.com,648,6.995720340067415,6.43993202108046,9.406474708975814,Não,
+054.982.731-50,Dr. Nathan Monteiro,27,Masculino,dr._nathan_monteiro_054@cepedi.com,796,9.446211873556834,7.4950723009757105,8.200886985489825,Não,
+201.389.754-50,Eduardo Monteiro,20,Masculino,eduardo_monteiro_201@cepedi.com,793,9.709317339562915,8.017545240771664,,Sim,6.0
+860.415.927-49,Manuela da Costa,27,Feminino,manuela_da_costa_860@cepedi.com,695,,,,Sim,1.0
+658.210.479-94,Sofia Ribeiro,26,Feminino,sofia_ribeiro_658@cepedi.com,754,9.068246466093324,5.049039673218411,5.083563017302075,Não,
+357.924.680-10,Carolina Silveira,19,Feminino,carolina_silveira_357@cepedi.com,736,6.150380826546309,5.5482977822000725,6.350773915228533,Não,
+736.814.029-22,Carlos Eduardo Moura,24,Masculino,carlos_eduardo_moura_736@cepedi.com,653,8.513894441980867,8.829795709434986,,Sim,6.0
+946.537.180-75,Caio Gomes,22,Masculino,caio_gomes_946@cepedi.com,751,5.863326938339598,5.932636807800487,9.06209489255579,Não,
+062.458.391-06,Enzo Gabriel Cavalcanti,19,Masculino,enzo_gabriel_cavalcanti_062@cepedi.com,697,7.2034581928113095,7.681346588441075,7.157250900652271,Não,
+096.287.541-49,João Guilherme Barros,20,Masculino,joão_guilherme_barros_096@cepedi.com,689,6.026138532134174,7.852753955604586,6.7079500081902905,Sim,8.0
+825.316.497-19,Vitor Hugo Moura,21,Masculino,vitor_hugo_moura_825@cepedi.com,703,5.793576877663492,7.691209812079457,5.734551728113196,Não,
+403.165.279-80,Augusto Caldeira,28,Masculino,augusto_caldeira_403@cepedi.com,692,6.056254836496906,7.985670574947216,7.518851534887642,Não,
+506.824.179-20,Vitor Hugo Cardoso,21,Masculino,vitor_hugo_cardoso_506@cepedi.com,729,,,,Sim,1.0
+492.013.768-04,Davi Lucca Teixeira,28,Masculino,davi_lucca_teixeira_492@cepedi.com,701,7.944051400090482,5.628902345945891,9.566895445233499,Não,
+036.459.812-33,Kevin da Mota,27,Masculino,kevin_da_mota_036@cepedi.com,733,8.082392399722789,8.165513691901506,8.03225571724105,Não,
+459.206.817-30,Juan Cavalcanti,27,Masculino,juan_cavalcanti_459@cepedi.com,765,6.122372675344245,9.623312172249943,,Sim,5.0
+783.165.029-68,Ana Fernandes,19,Feminino,ana_fernandes_783@cepedi.com,790,9.949262070761673,5.130990978244937,5.409167312516521,Não,
+210.498.637-04,Francisco Nascimento,20,Masculino,francisco_nascimento_210@cepedi.com,693,,,,Sim,2.0
+968.273.514-91,Sra. Juliana Cardoso,25,Feminino,sra._juliana_cardoso_968@cepedi.com,642,7.9344963789373475,,,Sim,3.0
+685.479.012-30,Nina da Costa,23,Feminino,nina_da_costa_685@cepedi.com,749,7.039096611305531,8.201168171007513,6.602402661950719,Não,
+205.143.698-33,Augusto Moura,23,Masculino,augusto_moura_205@cepedi.com,656,7.350991415611252,8.16601074479842,8.719064039140017,Sim,8.0
+856.427.931-28,Nathan Nunes,27,Masculino,nathan_nunes_856@cepedi.com,730,8.312512357691237,5.047719299826903,,Sim,5.0
+147.862.903-78,Cecília da Rosa,23,Feminino,cecília_da_rosa_147@cepedi.com,640,6.676551570935775,6.458436846650254,5.812342845128403,Não,
+578.106.234-35,Ana Vitória Gomes,19,Feminino,ana_vitória_gomes_578@cepedi.com,711,5.753441703076557,7.529891203363572,5.838498053675652,Sim,7.0
+072.915.643-52,Calebe Ferreira,21,Masculino,calebe_ferreira_072@cepedi.com,647,5.325616652548674,7.09022906835262,8.981643415595508,Não,
+914.867.230-04,Lucas Souza,19,Masculino,lucas_souza_914@cepedi.com,743,9.780504312527388,8.794947410271888,,Sim,6.0
+970.532.416-61,Maysa Fernandes,21,Feminino,maysa_fernandes_970@cepedi.com,677,9.732066544609232,7.527832106632098,5.230581700113872,Não,
+371.045.268-62,Srta. Ana Julia Moreira,25,Feminino,srta._ana_julia_moreira_371@cepedi.com,702,9.311952645862256,8.7773095554372,6.320062864224251,Sim,7.0
+728.619.350-30,Dra. Maitê da Luz,23,Feminino,dra._maitê_da_luz_728@cepedi.com,788,8.077913711456366,9.255531071960517,9.194558156558351,Sim,7.0
+531.809.674-39,Heitor Azevedo,25,Masculino,heitor_azevedo_531@cepedi.com,711,,,,Sim,1.0
+978.026.135-40,Letícia Porto,28,Feminino,letícia_porto_978@cepedi.com,707,8.176694904285537,,,Sim,3.0
+274.935.106-52,Miguel Fernandes,20,Masculino,miguel_fernandes_274@cepedi.com,653,,,,Sim,2.0
+714.032.689-40,Dr. Carlos Eduardo Monteiro,26,Masculino,dr._carlos_eduardo_monteiro_714@cepedi.com,736,8.759161098536715,8.817048111235852,5.827898663942578,Não,
+917.064.835-20,Nina Moraes,21,Feminino,nina_moraes_917@cepedi.com,791,9.976460796355504,8.542813059423404,5.8482430018782425,Não,
+091.673.425-07,Ian da Cruz,24,Masculino,ian_da_cruz_091@cepedi.com,701,6.450999403865261,,,Sim,4.0
+732.498.106-22,Felipe Carvalho,18,Masculino,felipe_carvalho_732@cepedi.com,658,5.780320015401586,9.698489052087282,8.440035938010936,Não,
+749.162.580-02,Enzo Gabriel Barros,27,Masculino,enzo_gabriel_barros_749@cepedi.com,729,5.648765462702366,8.452950616174057,,Sim,6.0
+508.294.713-32,João Guilherme Fernandes,27,Masculino,joão_guilherme_fernandes_508@cepedi.com,798,5.591856558808157,7.062191066080657,8.72124099230626,Não,
+410.698.275-76,Rodrigo Lopes,28,Masculino,rodrigo_lopes_410@cepedi.com,721,5.564878492447686,9.681347740062776,,Sim,6.0
+125.987.364-19,Lorena Freitas,21,Feminino,lorena_freitas_125@cepedi.com,662,6.547511344368809,8.485337800169516,7.901964202827049,Sim,8.0
+178.245.306-71,Ana Beatriz Monteiro,28,Feminino,ana_beatriz_monteiro_178@cepedi.com,728,8.859519393158827,6.119572049205972,7.504032794762084,Sim,8.0
+108.964.523-60,Heloísa Souza,28,Feminino,heloísa_souza_108@cepedi.com,753,,,,Sim,1.0
+841.507.629-02,Arthur Sales,19,Masculino,arthur_sales_841@cepedi.com,785,8.273178636622994,8.043434835162275,8.678177381696168,Sim,8.0
+235.784.901-05,Yasmin Nascimento,21,Feminino,yasmin_nascimento_235@cepedi.com,742,9.085083069226853,9.066687487960838,8.887051654911218,Não,
+963.072.458-83,Ana Carolina Cardoso,20,Feminino,ana_carolina_cardoso_963@cepedi.com,740,7.180659540665555,6.68296424217769,,Sim,5.0
+019.854.237-23,João Vitor da Costa,20,Masculino,joão_vitor_da_costa_019@cepedi.com,747,6.949089384763319,8.12731766126285,6.09479368214111,Não,
+036.847.952-83,Otávio Caldeira,28,Masculino,otávio_caldeira_036@cepedi.com,791,6.655179339076641,9.720478827664895,7.334221101267955,Sim,8.0
+512.860.943-05,Pedro Miguel Melo,22,Masculino,pedro_miguel_melo_512@cepedi.com,689,6.3889376503369295,8.37896875969725,6.177783569308151,Não,
+731.549.026-43,Joaquim da Rosa,24,Masculino,joaquim_da_rosa_731@cepedi.com,793,6.770590973866144,5.946174704059953,,Sim,5.0
+215.037.694-61,Daniela Viana,26,Feminino,daniela_viana_215@cepedi.com,726,6.283787400187785,7.890942853342057,7.259176234934248,Não,
+691.723.508-30,Ana Clara Carvalho,26,Feminino,ana_clara_carvalho_691@cepedi.com,761,6.433500564295065,6.108201901475641,6.884134814193439,Não,
+150.768.439-84,Davi Lucca da Mata,19,Masculino,davi_lucca_da_mata_150@cepedi.com,683,5.772447952426097,9.154976244310927,8.633489819905103,Não,
+160.938.524-15,Carlos Eduardo da Paz,27,Masculino,carlos_eduardo_da_paz_160@cepedi.com,672,,,,Sim,1.0
+697.140.253-70,Paulo Araújo,22,Masculino,paulo_araújo_697@cepedi.com,705,6.540983425025502,,,Sim,3.0
+569.748.210-85,Luana Barros,18,Feminino,luana_barros_569@cepedi.com,696,6.433821111113708,9.617835814604502,6.774523502110865,Não,
+928.170.564-85,João Miguel Caldeira,18,Masculino,joão_miguel_caldeira_928@cepedi.com,656,5.1700161344393285,7.299870882392478,,Sim,6.0
+238.615.904-33,Valentina Mendes,24,Feminino,valentina_mendes_238@cepedi.com,692,6.900288786777193,9.394346095943327,6.266433242651474,Não,
+175.902.368-02,Stephany Alves,28,Feminino,stephany_alves_175@cepedi.com,718,7.064578068342351,5.216880753543351,7.6460576546907495,Não,
+061.893.245-33,Dra. Julia Freitas,27,Feminino,dra._julia_freitas_061@cepedi.com,797,5.182571296216361,7.811037618460086,5.191367264805146,Não,
+524.679.318-46,Laura Melo,26,Feminino,laura_melo_524@cepedi.com,728,6.563708710338929,8.258746969677908,,Sim,6.0
+169.458.273-64,Yasmin Duarte,18,Feminino,yasmin_duarte_169@cepedi.com,709,5.326312799540959,6.048417674990246,,Sim,6.0
+912.436.857-19,Lucas Caldeira,22,Masculino,lucas_caldeira_912@cepedi.com,650,9.145612863861937,7.496680297585545,9.689031467731779,Sim,7.0
+352.781.946-00,Cecília Almeida,24,Feminino,cecília_almeida_352@cepedi.com,762,8.770267813182652,9.005836658744814,8.931936903745354,Sim,8.0
+517.068.924-11,Davi Lucca Dias,18,Masculino,davi_lucca_dias_517@cepedi.com,679,6.280193659744802,7.482429358506572,,Sim,5.0
+182.394.765-46,Sr. Murilo Azevedo,19,Masculino,sr._murilo_azevedo_182@cepedi.com,642,9.46588553454964,8.815761836218723,8.256087638578627,Não,
+397.580.461-01,Sarah da Mota,24,Feminino,sarah_da_mota_397@cepedi.com,696,,,,Sim,1.0
+786.524.391-09,Beatriz da Cunha,20,Feminino,beatriz_da_cunha_786@cepedi.com,651,9.342118400369957,8.711406594173098,,Sim,5.0
+098.654.712-30,Danilo Barbosa,23,Masculino,danilo_barbosa_098@cepedi.com,649,9.158694213182674,9.29640244476668,7.290474800669684,Sim,8.0
+201.837.569-59,Dr. Thomas Pereira,26,Masculino,dr._thomas_pereira_201@cepedi.com,663,6.661526111014965,8.569278767292843,,Sim,5.0
+809.267.345-47,Dra. Ana Lívia Cardoso,23,Feminino,dra._ana_lívia_cardoso_809@cepedi.com,642,7.000000979859413,5.906959609030575,7.367297271959091,Não,
+987.613.025-03,Natália da Cruz,23,Feminino,natália_da_cruz_987@cepedi.com,788,9.861531553337642,7.200362221680928,5.517637119323196,Não,
+123.489.750-41,Isadora Martins,23,Feminino,isadora_martins_123@cepedi.com,682,6.347105571167858,9.476662263514072,7.5910851307468175,Não,
+265.301.847-08,Beatriz Pereira,21,Feminino,beatriz_pereira_265@cepedi.com,689,,,,Sim,2.0
+790.382.154-79,Calebe Rezende,21,Masculino,calebe_rezende_790@cepedi.com,655,6.0678209468100635,5.236769283210997,8.545677100034917,Não,
+867.190.325-77,Vitor Azevedo,19,Masculino,vitor_azevedo_867@cepedi.com,731,7.7225296887774935,9.390123779252441,5.332306780615181,Não,
+254.769.801-30,Stephany Costa,21,Feminino,stephany_costa_254@cepedi.com,655,,,,Sim,1.0
+840.793.512-32,Luana da Cunha,24,Feminino,luana_da_cunha_840@cepedi.com,677,7.482718178099264,,,Sim,3.0
+569.217.840-02,Calebe das Neves,25,Masculino,calebe_das_neves_569@cepedi.com,685,,,,Sim,1.0
+360.815.749-20,Carlos Eduardo Melo,25,Masculino,carlos_eduardo_melo_360@cepedi.com,672,6.377047498967485,8.878316742492341,9.840339426957133,Não,
+032.486.917-78,Francisco Pereira,26,Masculino,francisco_pereira_032@cepedi.com,738,8.748578884620528,7.544608174520402,6.357891696321867,Sim,7.0
+173.904.825-32,Joana da Conceição,27,Feminino,joana_da_conceição_173@cepedi.com,777,6.740696033801481,,,Sim,3.0
+561.283.407-17,Daniela Viana,26,Feminino,daniela_viana_561@cepedi.com,687,5.352207285136071,9.209373482299366,,Sim,5.0
+429.708.361-22,Vitor Mendes,27,Masculino,vitor_mendes_429@cepedi.com,747,5.551994350365322,9.501072858625573,5.336190846879998,Sim,8.0
+604.852.179-02,Benício Ramos,23,Masculino,benício_ramos_604@cepedi.com,752,5.834199538665683,6.158927098365519,,Sim,6.0
+273.598.406-00,Sofia Novaes,20,Feminino,sofia_novaes_273@cepedi.com,653,7.510733759643037,8.474677159655139,9.194606469166548,Não,
+213.506.947-70,Isadora Rocha,20,Feminino,isadora_rocha_213@cepedi.com,684,6.783866663654274,9.102550323255555,6.969991157265706,Não,
+328.614.970-50,Thiago Teixeira,28,Masculino,thiago_teixeira_328@cepedi.com,797,6.851905747465095,6.9493098341009265,5.1397617995153695,Não,
+401.753.689-10,Dr. Alexandre Silva,18,Masculino,dr._alexandre_silva_401@cepedi.com,667,9.307758517472479,5.016497949759125,9.680597603708236,Não,
+867.459.210-49,Ana Laura Cardoso,25,Feminino,ana_laura_cardoso_867@cepedi.com,704,6.339891735315286,9.209495612242733,,Sim,5.0
+876.012.954-94,Vinicius Barbosa,21,Masculino,vinicius_barbosa_876@cepedi.com,711,5.252051710541758,6.714573493883984,8.462143778105519,Não,
+470.192.358-32,Ryan Silva,27,Masculino,ryan_silva_470@cepedi.com,787,6.82881284746642,8.450114454224103,7.972135457551781,Não,
+057.368.149-00,João Pedro Melo,21,Masculino,joão_pedro_melo_057@cepedi.com,678,7.978188433845485,7.65873468925723,7.467979960717619,Não,
+845.970.213-88,Mariana da Conceição,26,Feminino,mariana_da_conceição_845@cepedi.com,786,5.779263129073795,8.719420798691116,,Sim,6.0
+058.349.276-29,Sra. Caroline Novaes,22,Feminino,sra._caroline_novaes_058@cepedi.com,656,9.950864473720465,7.406417656823734,7.015602395454528,Não,
+492.601.753-99,Alexia Fogaça,23,Feminino,alexia_fogaça_492@cepedi.com,784,5.346264698316942,9.901313796003201,7.484082812965264,Não,
+970.651.832-03,Lucca Santos,22,Masculino,lucca_santos_970@cepedi.com,747,6.028832990937106,8.759572235631122,6.961081410591811,Não,
+468.952.713-09,Dr. Bernardo Alves,27,Masculino,dr._bernardo_alves_468@cepedi.com,790,6.126537801949619,,,Sim,4.0
+579.608.142-01,Kevin Cunha,18,Masculino,kevin_cunha_579@cepedi.com,764,5.621959942924279,7.802685167047276,9.559719701881395,Sim,8.0
+190.467.328-78,Clara Costa,19,Feminino,clara_costa_190@cepedi.com,781,5.029900741281141,9.05764323664543,6.557526370545871,Não,
+680.245.917-58,Eduarda Pereira,26,Feminino,eduarda_pereira_680@cepedi.com,733,5.620389138612892,5.094443829713518,5.189093400741745,Não,
+234.607.159-52,Vinicius Silveira,21,Masculino,vinicius_silveira_234@cepedi.com,793,6.335434843785289,,,Sim,4.0
+931.204.785-04,Paulo Caldeira,25,Masculino,paulo_caldeira_931@cepedi.com,736,9.1819551336471,8.065247651618293,6.32851087791565,Sim,8.0
+032.651.849-51,Isabelly Silva,23,Feminino,isabelly_silva_032@cepedi.com,734,9.836577696342303,7.081606090817001,9.163015327789868,Sim,7.0
+324.895.706-92,Srta. Sarah Ramos,23,Feminino,srta._sarah_ramos_324@cepedi.com,760,6.118901040993592,9.440371010181655,8.587294612354505,Não,
+297.108.463-96,Eduarda Rodrigues,20,Feminino,eduarda_rodrigues_297@cepedi.com,653,6.337877082716295,,,Sim,3.0
+756.390.241-43,Natália Araújo,18,Feminino,natália_araújo_756@cepedi.com,717,7.438626183169459,7.658887523489188,9.720177316396818,Sim,7.0
+173.850.964-84,Eduardo Pereira,26,Masculino,eduardo_pereira_173@cepedi.com,687,6.298861123888203,,,Sim,3.0
+420.831.769-87,Benjamin Gonçalves,25,Masculino,benjamin_gonçalves_420@cepedi.com,721,,,,Sim,1.0
+681.059.347-01,Rafaela Araújo,28,Feminino,rafaela_araújo_681@cepedi.com,748,9.125823452468262,8.784853001545669,5.576557744852197,Não,
+037.214.968-50,Rebeca Nascimento,27,Feminino,rebeca_nascimento_037@cepedi.com,680,5.365057196189862,,,Sim,3.0
+591.367.820-68,Kamilly Correia,24,Feminino,kamilly_correia_591@cepedi.com,727,8.428645680953625,,,Sim,3.0
+819.602.745-11,Vicente Melo,22,Masculino,vicente_melo_819@cepedi.com,755,6.466466032812086,8.707953299651106,8.188869473887001,Não,
+924.715.068-01,Gabriel Vieira,19,Masculino,gabriel_vieira_924@cepedi.com,683,5.1089102563539015,8.37562217845747,8.401886655207228,Não,
+023.847.615-44,Davi Lucca Cardoso,28,Masculino,davi_lucca_cardoso_023@cepedi.com,754,9.324030817040821,6.1064537852825245,,Sim,6.0
+572.683.019-95,Fernanda da Conceição,24,Feminino,fernanda_da_conceição_572@cepedi.com,792,8.74635453733503,,,Sim,3.0
+239.075.861-40,André Silva,20,Masculino,andré_silva_239@cepedi.com,683,9.793599780623783,6.132171529034224,7.8542000501428255,Sim,8.0
+067.981.423-03,Renan Moura,27,Masculino,renan_moura_067@cepedi.com,727,5.2939700927755,6.258407041280265,6.710055316545612,Não,
+983.047.126-87,Dra. Isabel Barbosa,27,Feminino,dra._isabel_barbosa_983@cepedi.com,765,7.314450756776462,9.730710723956587,5.673860550546449,Sim,7.0
+906.231.857-68,Evelyn Campos,26,Feminino,evelyn_campos_906@cepedi.com,771,6.232863680352693,7.750185406841979,8.347610171362545,Sim,7.0
+942.510.783-14,Maria Sophia Barros,22,Feminino,maria_sophia_barros_942@cepedi.com,781,7.8307445254894885,9.953827165112614,5.498704095533444,Não,
+496.170.538-10,Maria Cecília Farias,18,Feminino,maria_cecília_farias_496@cepedi.com,764,8.470408869576984,6.391075566238522,7.424348005802396,Não,
+791.862.503-02,Luiz Fernando da Costa,27,Masculino,luiz_fernando_da_costa_791@cepedi.com,722,9.521078316813666,8.32220797772595,9.603126723355473,Não,
+312.684.590-89,Sr. Luiz Fernando Fernandes,24,Masculino,sr._luiz_fernando_fernandes_312@cepedi.com,790,8.198469106683556,,,Sim,3.0
+086.352.714-08,Maria Luiza Oliveira,20,Feminino,maria_luiza_oliveira_086@cepedi.com,650,7.126262160530426,6.422675768670631,6.886497363877561,Não,
+472.019.653-52,Murilo Costela,24,Masculino,murilo_costela_472@cepedi.com,799,7.621496841609636,7.046381179225807,7.845313153633722,Não,
+417.230.956-99,Dr. Vinicius Ribeiro,24,Masculino,dr._vinicius_ribeiro_417@cepedi.com,659,,,,Sim,2.0
+438.976.152-82,Ian Sales,28,Masculino,ian_sales_438@cepedi.com,703,9.98826251250452,8.927122729198015,6.102979703956575,Sim,7.0
+532.807.619-21,Marina Nascimento,18,Feminino,marina_nascimento_532@cepedi.com,666,9.43909077012706,,,Sim,4.0
+256.714.893-00,Giovanna Aragão,22,Feminino,giovanna_aragão_256@cepedi.com,761,9.55255116862601,6.676335609262042,5.618436761539777,Não,
+408.691.275-94,Pedro Lucas Campos,21,Masculino,pedro_lucas_campos_408@cepedi.com,719,6.48456922626354,9.44583978993193,5.80128200846768,Sim,7.0
+724.350.196-61,Sr. Carlos Eduardo Cardoso,19,Masculino,sr._carlos_eduardo_cardoso_724@cepedi.com,698,8.109858757357024,6.091284287029351,,Sim,5.0
+187.502.946-01,Francisco da Mota,24,Masculino,francisco_da_mota_187@cepedi.com,691,8.850121914355817,9.216473031668002,7.201046012613377,Não,
+582.614.037-26,Kamilly Monteiro,21,Feminino,kamilly_monteiro_582@cepedi.com,770,7.748040845947406,8.012297192109454,8.042709453989328,Não,
+642.915.783-00,Maria Cecília Campos,20,Feminino,maria_cecília_campos_642@cepedi.com,738,8.765380328599965,6.160666692298458,5.47014297986375,Não,
+512.906.873-40,Dr. Enzo Moura,18,Masculino,dr._enzo_moura_512@cepedi.com,690,5.703111906335902,7.944147517108417,9.357796524723266,Não,
+873.529.061-77,Ana Clara da Rocha,24,Feminino,ana_clara_da_rocha_873@cepedi.com,800,6.5701025988537705,8.289746557926927,6.092080985592737,Sim,8.0
+096.518.374-20,Clarice Moura,22,Feminino,clarice_moura_096@cepedi.com,750,5.476244058594243,,,Sim,4.0
+154.627.980-67,Marcela Costa,18,Feminino,marcela_costa_154@cepedi.com,702,7.880572959947489,9.811565716885841,6.5809683519807685,Não,
+329.406.157-99,Melissa Peixoto,26,Feminino,melissa_peixoto_329@cepedi.com,780,8.376950264295177,9.215243546616062,,Sim,6.0
+653.810.974-84,Cauã Fogaça,28,Masculino,cauã_fogaça_653@cepedi.com,758,7.0480421555443815,9.957708766640337,,Sim,5.0
+253.640.178-26,Vitor Gabriel Novaes,20,Masculino,vitor_gabriel_novaes_253@cepedi.com,699,8.196616383849047,5.052599232704151,5.3903532804389425,Não,
+912.586.473-46,André Mendes,24,Masculino,andré_mendes_912@cepedi.com,728,6.979296484139529,8.375363405289962,5.9568916883331635,Não,
+825.930.176-86,Leandro Porto,23,Masculino,leandro_porto_825@cepedi.com,724,9.914384086379858,5.357772325319247,,Sim,5.0
+162.847.035-62,Esther Mendes,19,Feminino,esther_mendes_162@cepedi.com,701,,,,Sim,2.0
+791.034.625-52,Rebeca Ferreira,26,Feminino,rebeca_ferreira_791@cepedi.com,781,,,,Sim,2.0
+987.631.204-96,Enzo Gabriel Cunha,27,Masculino,enzo_gabriel_cunha_987@cepedi.com,773,,,,Sim,1.0
+047.261.859-85,Joaquim Monteiro,20,Masculino,joaquim_monteiro_047@cepedi.com,648,8.956318532037818,,,Sim,3.0
+640.972.815-85,Bárbara Castro,23,Feminino,bárbara_castro_640@cepedi.com,721,7.206493529714587,6.541186285522208,8.125156935335617,Não,
+259.671.043-99,Dr. Emanuel da Mata,23,Masculino,dr._emanuel_da_mata_259@cepedi.com,778,5.5006658379932345,6.141952489295779,7.9445534509809335,Não,
+054.613.297-99,Mirella Rocha,19,Feminino,mirella_rocha_054@cepedi.com,750,6.02884567159445,,,Sim,3.0
+012.756.893-02,Mirella Lima,28,Feminino,mirella_lima_012@cepedi.com,699,7.644519443182929,,,Sim,3.0
+687.314.209-31,Daniela Caldeira,19,Feminino,daniela_caldeira_687@cepedi.com,771,5.710805062401921,7.431187623808865,6.7475493655545815,Não,
+231.760.948-50,Daniel Silveira,22,Masculino,daniel_silveira_231@cepedi.com,711,8.746697476184362,8.914395833599006,8.103528419749626,Não,
+692.840.517-11,Luiz Felipe da Mota,28,Masculino,luiz_felipe_da_mota_692@cepedi.com,679,7.070063061334958,5.310484308226597,9.725598071720817,Sim,7.0
+427.583.619-73,Srta. Eduarda Fogaça,25,Feminino,srta._eduarda_fogaça_427@cepedi.com,752,7.065798941451865,7.861611288710378,6.430056192807381,Não,
+194.723.608-31,Maria Vitória Aragão,19,Feminino,maria_vitória_aragão_194@cepedi.com,764,5.378368436555194,7.610479664206908,6.443184394730046,Não,
+917.380.645-57,Sr. Benjamin Melo,27,Masculino,sr._benjamin_melo_917@cepedi.com,716,5.570291967480637,,,Sim,3.0
+173.405.692-43,Francisco da Paz,22,Masculino,francisco_da_paz_173@cepedi.com,710,8.979638275715708,7.812307131656701,9.194041756269108,Não,
+409.658.173-93,Dra. Lavínia Pereira,22,Feminino,dra._lavínia_pereira_409@cepedi.com,741,9.350246761949073,7.378428884626475,7.488390312588627,Não,
+375.124.960-52,Gustavo Henrique Azevedo,22,Masculino,gustavo_henrique_azevedo_375@cepedi.com,732,5.837371785959256,6.322962177009726,,Sim,6.0
+150.923.768-21,Davi Lucas Jesus,22,Masculino,davi_lucas_jesus_150@cepedi.com,667,8.950465972968331,8.34444800610264,7.974566107781344,Não,
+957.021.836-30,Kevin Cunha,25,Masculino,kevin_cunha_957@cepedi.com,768,8.31872152610823,8.594041065895832,6.563198324389445,Sim,8.0
+517.820.694-02,Milena Aragão,23,Feminino,milena_aragão_517@cepedi.com,760,6.190545528496854,8.8025812701009,9.31556288936112,Não,
+408.136.952-60,Kevin Gonçalves,23,Masculino,kevin_gonçalves_408@cepedi.com,721,9.976219771690994,,,Sim,4.0
+812.367.904-13,Marina Moura,19,Feminino,marina_moura_812@cepedi.com,777,9.045438755678186,9.024862612679527,9.667829766700082,Sim,8.0
+793.465.801-00,Arthur Viana,18,Masculino,arthur_viana_793@cepedi.com,778,7.472456283775437,6.11582281202982,9.78552880532993,Não,
+398.512.647-09,Caroline Duarte,22,Feminino,caroline_duarte_398@cepedi.com,745,9.30122004588966,5.284759843651614,5.229576845263812,Sim,8.0
+812.539.067-77,Rafael Moraes,18,Masculino,rafael_moraes_812@cepedi.com,788,7.181565063519358,9.846419712955559,5.5345806414295176,Sim,8.0
+749.180.563-93,Nathan Azevedo,20,Masculino,nathan_azevedo_749@cepedi.com,714,7.091711366082771,6.770031118604473,8.812567179381219,Não,
+542.687.301-17,Sophie Freitas,21,Feminino,sophie_freitas_542@cepedi.com,743,8.692984166762816,9.96559539209537,6.9369582045919085,Não,
+763.598.421-73,Alana Barros,24,Feminino,alana_barros_763@cepedi.com,654,8.020733035179227,7.949354154947041,6.910882902695306,Não,
+217.693.408-31,Sra. Maria Alice Teixeira,26,Feminino,sra._maria_alice_teixeira_217@cepedi.com,713,7.79840919721216,5.222468669062923,5.507473776029393,Não,
+029.736.518-59,Caroline Peixoto,20,Feminino,caroline_peixoto_029@cepedi.com,715,8.103339312200003,7.798594325965326,9.1808831698816,Não,
+453.816.729-00,Sr. Henrique Rezende,20,Masculino,sr._henrique_rezende_453@cepedi.com,682,9.48254481175925,8.354205469983013,7.337515306064207,Não,
+892.057.136-86,Ana Júlia Almeida,19,Feminino,ana_júlia_almeida_892@cepedi.com,786,7.685591864117905,6.849600557835997,5.379252137244724,Não,
+896.043.127-31,Thomas Cavalcanti,26,Masculino,thomas_cavalcanti_896@cepedi.com,692,9.59508548597735,5.890257295936592,6.318812077359561,Não,
+470.362.985-29,Erick Pires,22,Masculino,erick_pires_470@cepedi.com,800,5.895466815542669,9.68736977901683,9.85768181703655,Não,
+284.075.916-02,Nicolas Martins,26,Masculino,nicolas_martins_284@cepedi.com,770,8.803225082954532,7.130550183498443,7.774445495278682,Sim,8.0
+715.906.832-77,Srta. Bianca Viana,22,Feminino,srta._bianca_viana_715@cepedi.com,704,5.109936580616752,9.909843413606021,8.670825824191903,Não,
+987.613.542-28,Rafaela da Rocha,25,Feminino,rafaela_da_rocha_987@cepedi.com,775,8.513922990971558,9.874972432481854,,Sim,5.0
+295.107.843-97,Ana Laura Cardoso,28,Feminino,ana_laura_cardoso_295@cepedi.com,752,9.395466733798411,6.9834222879651415,,Sim,6.0
+236.971.480-87,Sarah da Paz,23,Feminino,sarah_da_paz_236@cepedi.com,644,9.372206111796828,,,Sim,3.0
+563.742.018-17,Ana Lívia da Conceição,19,Feminino,ana_lívia_da_conceição_563@cepedi.com,749,8.709518299814729,6.759734895185239,5.237169421785131,Sim,7.0
+398.564.701-10,Raul da Rocha,24,Masculino,raul_da_rocha_398@cepedi.com,709,,,,Sim,1.0
+479.235.081-60,Daniel da Luz,21,Masculino,daniel_da_luz_479@cepedi.com,723,8.700781544131775,6.612240270750596,9.246694191579163,Sim,7.0
+413.970.682-13,Dr. Arthur Costa,24,Masculino,dr._arthur_costa_413@cepedi.com,733,8.672949272471186,7.151562781305335,8.035775505704315,Não,
+635.980.472-74,Anthony Fernandes,20,Masculino,anthony_fernandes_635@cepedi.com,713,8.104461915773687,9.004347125502774,8.476106868656723,Não,
+516.279.438-46,Lucas Gabriel Freitas,27,Masculino,lucas_gabriel_freitas_516@cepedi.com,717,9.749139318722314,7.681784020687915,5.916788938144059,Não,
+185.746.923-28,Giovanna Ribeiro,20,Feminino,giovanna_ribeiro_185@cepedi.com,656,7.5056857560976145,7.2410724175762,6.085734499617756,Sim,8.0
+304.795.268-00,Dr. Vitor Hugo da Cruz,24,Masculino,dr._vitor_hugo_da_cruz_304@cepedi.com,718,6.089107101190448,8.74554586936744,9.0235418830834,Não,
+560.812.937-77,João Gabriel Farias,27,Masculino,joão_gabriel_farias_560@cepedi.com,691,,,,Sim,1.0
+846.725.013-53,Eduarda Ferreira,22,Feminino,eduarda_ferreira_846@cepedi.com,716,5.15565786496181,8.10232793244155,8.786546193211286,Não,
+547.902.361-61,Dr. Leandro Dias,26,Masculino,dr._leandro_dias_547@cepedi.com,698,,,,Sim,2.0
+342.956.178-73,Maria Fernanda Moraes,22,Feminino,maria_fernanda_moraes_342@cepedi.com,679,7.090479658798547,6.026069658147257,7.110764900189796,Não,
+254.861.390-98,Lavínia da Mota,24,Feminino,lavínia_da_mota_254@cepedi.com,740,9.297337356301181,9.024969007756937,8.57664742869191,Não,
+413.798.265-19,Murilo da Luz,22,Masculino,murilo_da_luz_413@cepedi.com,786,9.444689175665413,5.589948442046298,6.700494797998592,Não,
+901.265.734-25,Cauã Souza,24,Masculino,cauã_souza_901@cepedi.com,770,5.889884368477496,6.0428463387902855,6.355558170750249,Não,
+049.831.672-69,Sr. Caio Dias,25,Masculino,sr._caio_dias_049@cepedi.com,708,7.884631307439035,,,Sim,3.0
+390.278.651-59,João Guilherme Oliveira,22,Masculino,joão_guilherme_oliveira_390@cepedi.com,711,9.656656418253487,9.807552927898964,,Sim,6.0
+209.857.613-77,Henrique Cardoso,27,Masculino,henrique_cardoso_209@cepedi.com,693,,,,Sim,2.0
+156.273.849-64,Kaique Carvalho,24,Masculino,kaique_carvalho_156@cepedi.com,764,9.394751305984162,,,Sim,3.0
+604.732.981-04,Rafael Cardoso,26,Masculino,rafael_cardoso_604@cepedi.com,755,7.2058753892729985,6.288948704855681,7.837917164307736,Não,
+821.367.954-73,Sr. Marcelo Martins,27,Masculino,sr._marcelo_martins_821@cepedi.com,673,6.257248561398514,9.939381293119645,6.645077551283732,Não,
+872.569.104-01,João Mendes,22,Masculino,joão_mendes_872@cepedi.com,728,8.584592961917282,5.260109519948623,,Sim,6.0
+697.402.831-87,Mirella Souza,27,Feminino,mirella_souza_697@cepedi.com,776,,,,Sim,1.0
+425.978.160-01,Igor Lima,21,Masculino,igor_lima_425@cepedi.com,759,5.647131013306158,8.23231028754227,7.710756083090393,Não,
+791.260.358-12,Sr. Isaac Teixeira,24,Masculino,sr._isaac_teixeira_791@cepedi.com,756,,,,Sim,2.0
+879.324.065-10,Emanuella Pereira,26,Feminino,emanuella_pereira_879@cepedi.com,691,7.318215770522491,,,Sim,3.0
+674.209.385-47,Maitê Barbosa,26,Feminino,maitê_barbosa_674@cepedi.com,791,6.561124073266034,5.504496117183014,,Sim,6.0
+678.429.035-65,Nicolas Moura,20,Masculino,nicolas_moura_678@cepedi.com,692,9.25351753269475,8.703140539316598,,Sim,6.0
+392.875.106-95,Sra. Sabrina Ribeiro,22,Feminino,sra._sabrina_ribeiro_392@cepedi.com,677,5.1801042603828416,5.441646998757826,7.441755476412418,Não,
+683.902.471-78,Sra. Isabel Araújo,26,Feminino,sra._isabel_araújo_683@cepedi.com,743,,,,Sim,2.0
+640.851.723-44,Luiz Miguel Fernandes,20,Masculino,luiz_miguel_fernandes_640@cepedi.com,745,5.799173744635769,8.566572995055186,8.899005804632267,Não,
+437.201.685-90,Isaac Castro,21,Masculino,isaac_castro_437@cepedi.com,681,,,,Sim,2.0
+853.704.961-10,Thales Araújo,26,Masculino,thales_araújo_853@cepedi.com,655,8.146683113518778,5.529158488898302,7.864623098618652,Sim,7.0
+650.814.279-85,Maria Eduarda Rezende,27,Feminino,maria_eduarda_rezende_650@cepedi.com,699,7.091571219356793,5.418659156908761,7.509788545245524,Não,
+406.257.381-44,Laís Fogaça,26,Feminino,laís_fogaça_406@cepedi.com,709,,,,Sim,2.0
+504.612.379-70,Ana Sophia Castro,20,Feminino,ana_sophia_castro_504@cepedi.com,671,6.830194692222182,,,Sim,4.0
+534.908.761-48,Juan Ribeiro,22,Masculino,juan_ribeiro_534@cepedi.com,699,5.83546842978857,6.375975557366605,7.835434902521065,Não,
+325.187.460-80,Dr. Pedro Henrique Dias,21,Masculino,dr._pedro_henrique_dias_325@cepedi.com,747,8.153421370787415,8.561847638640243,5.006156804696539,Sim,8.0
+409.258.371-05,Mariane Monteiro,25,Feminino,mariane_monteiro_409@cepedi.com,722,6.282769393361921,9.278207017300204,8.173201063877642,Sim,8.0
+780.351.964-48,André Rocha,26,Masculino,andré_rocha_780@cepedi.com,658,5.185422638865375,5.1508571748575855,8.411961975387113,Não,
+358.170.649-01,Clara Cardoso,21,Feminino,clara_cardoso_358@cepedi.com,641,9.690318566381391,,,Sim,3.0
+476.025.138-35,Julia Moreira,24,Feminino,julia_moreira_476@cepedi.com,725,7.527527527345695,7.532052965984663,5.968007148292381,Não,
+254.863.701-80,Fernando Moraes,26,Masculino,fernando_moraes_254@cepedi.com,671,8.68835987651344,5.480866998570502,9.201765336380847,Não,
+673.902.541-06,Thiago Pereira,27,Masculino,thiago_pereira_673@cepedi.com,729,9.789406804354105,9.827045456586632,5.508956489867366,Não,
+279.135.408-50,Alícia Farias,28,Feminino,alícia_farias_279@cepedi.com,744,6.944828241558956,9.52144168657303,7.8063591408346795,Não,
+524.768.931-37,Lavínia Martins,22,Feminino,lavínia_martins_524@cepedi.com,759,8.509614089905412,8.034138287171263,7.364423839210553,Não,
+389.241.567-64,Sophie Pereira,26,Feminino,sophie_pereira_389@cepedi.com,773,6.410808611753577,7.9894330868858034,7.605047506821159,Não,
+607.392.154-34,Francisco Martins,24,Masculino,francisco_martins_607@cepedi.com,750,6.30633351311421,6.072898030622763,,Sim,6.0
+743.029.865-65,Paulo Farias,19,Masculino,paulo_farias_743@cepedi.com,659,5.865255415273641,,,Sim,3.0
+179.386.052-12,Eduarda Correia,26,Feminino,eduarda_correia_179@cepedi.com,733,7.9132748302844975,9.501843765286921,6.828590149357568,Não,
+268.419.350-98,Vinicius Teixeira,20,Masculino,vinicius_teixeira_268@cepedi.com,720,8.81130440788316,7.3693403544994425,5.255280849223737,Não,
+281.736.594-19,Enzo Gabriel da Conceição,18,Masculino,enzo_gabriel_da_conceição_281@cepedi.com,737,6.5959032740512615,7.944798456004191,7.552411123583609,Não,
+403.587.692-56,Emanuel da Luz,21,Masculino,emanuel_da_luz_403@cepedi.com,766,5.801882547433327,6.75564706814133,6.802149844317894,Sim,8.0
+054.187.962-67,Isaac Carvalho,22,Masculino,isaac_carvalho_054@cepedi.com,647,6.562363843889221,5.585279788719726,7.824929760647329,Não,
+041.597.286-85,Luiz Felipe Carvalho,19,Masculino,luiz_felipe_carvalho_041@cepedi.com,757,5.247700088523319,7.0374753482608,6.234872492423992,Sim,7.0
+417.236.809-31,Dr. Anthony Dias,23,Masculino,dr._anthony_dias_417@cepedi.com,648,8.253673261405272,8.528059842756893,7.901745041251351,Não,
+062.375.149-61,Yasmin Duarte,24,Feminino,yasmin_duarte_062@cepedi.com,760,6.426999428290143,5.746843239213466,5.1698037355263375,Não,
+071.423.986-04,Maitê Ramos,19,Feminino,maitê_ramos_071@cepedi.com,695,,,,Sim,1.0
+079.628.341-96,Maria Cecília Barros,28,Feminino,maria_cecília_barros_079@cepedi.com,662,,,,Sim,2.0
+305.186.942-24,Laura da Rocha,27,Feminino,laura_da_rocha_305@cepedi.com,657,6.578768221893217,8.239201017887979,8.415578302024894,Não,
+083.167.492-03,Maria Julia Monteiro,26,Feminino,maria_julia_monteiro_083@cepedi.com,797,5.362048489627096,5.040655957041429,5.963431742851093,Não,
+185.429.637-09,João Gonçalves,23,Masculino,joão_gonçalves_185@cepedi.com,743,5.075745560682362,7.216343730539197,8.93680808373775,Não,
+598.027.463-47,Emanuella Rocha,27,Feminino,emanuella_rocha_598@cepedi.com,646,5.797612347887678,6.488568096740511,5.1415120792667635,Não,
+150.369.482-89,Bernardo Viana,28,Masculino,bernardo_viana_150@cepedi.com,653,8.512650522281598,6.479113717970749,5.988224448222199,Não,
+975.436.801-57,Ana Vitória Campos,19,Feminino,ana_vitória_campos_975@cepedi.com,748,5.48879029645361,9.997087745453296,6.66034465833695,Sim,7.0
+430.861.975-01,Dr. Alexandre Costela,28,Masculino,dr._alexandre_costela_430@cepedi.com,768,7.649174813994899,8.802425689637719,9.961768328243057,Sim,8.0
+173.260.948-96,Kamilly Pires,25,Feminino,kamilly_pires_173@cepedi.com,655,9.775305836276294,,,Sim,3.0
+426.570.389-56,Gabrielly Dias,22,Feminino,gabrielly_dias_426@cepedi.com,720,6.388725811063039,7.440915529740234,,Sim,6.0
+807.963.412-22,Vitor Dias,25,Masculino,vitor_dias_807@cepedi.com,764,9.492752883519948,,,Sim,4.0
+457.932.018-23,Brenda Ferreira,25,Feminino,brenda_ferreira_457@cepedi.com,646,,,,Sim,2.0
+964.137.205-06,Ana Luiza Moreira,27,Feminino,ana_luiza_moreira_964@cepedi.com,730,8.62961231732729,5.999685553222185,5.848496055011573,Não,
+826.970.341-96,Dra. Ana Lívia Sales,28,Feminino,dra._ana_lívia_sales_826@cepedi.com,750,8.35151086132263,8.8350052523043,5.72749623616024,Não,
+568.421.739-73,Esther das Neves,20,Feminino,esther_das_neves_568@cepedi.com,749,7.037471630043973,6.886457679348378,9.483349389852359,Não,
+073.542.169-25,Vinicius Castro,21,Masculino,vinicius_castro_073@cepedi.com,773,9.247229535091577,8.803496142571085,9.586043582095732,Não,
+568.247.391-46,Emanuella Moraes,20,Feminino,emanuella_moraes_568@cepedi.com,700,5.267322257420187,8.418919522953834,7.968305515084496,Não,
+369.571.208-21,Eloah Alves,25,Feminino,eloah_alves_369@cepedi.com,780,9.50241531133425,5.505919660385642,6.149492772541275,Não,
+436.582.109-15,Ana Lívia Moura,28,Feminino,ana_lívia_moura_436@cepedi.com,765,7.1306335613931155,8.848828927102453,7.134452468424147,Não,
+726.803.514-44,Nathan Caldeira,28,Masculino,nathan_caldeira_726@cepedi.com,783,8.843841256609945,8.192972266790177,,Sim,5.0
+398.406.257-56,Stephany Jesus,28,Feminino,stephany_jesus_398@cepedi.com,776,6.0954010146657165,9.754284768849036,,Sim,5.0
+438.570.196-20,Marcelo Santos,22,Masculino,marcelo_santos_438@cepedi.com,758,9.69693078036497,5.595427944985024,,Sim,5.0
+817.054.963-93,Srta. Julia Carvalho,19,Feminino,srta._julia_carvalho_817@cepedi.com,710,5.48058901481277,6.530703371510008,8.954488646390969,Sim,7.0
+456.129.807-01,Leonardo Cunha,27,Masculino,leonardo_cunha_456@cepedi.com,721,7.659688009465258,6.228688439089568,8.447180536852144,Sim,7.0
+860.245.139-33,Vitória das Neves,25,Feminino,vitória_das_neves_860@cepedi.com,727,6.625362908751273,9.732962927138768,8.008828528160786,Não,
+195.678.034-39,Gabriel da Mata,26,Masculino,gabriel_da_mata_195@cepedi.com,769,8.763146023028964,8.198617760664506,7.7661940901836255,Não,
+375.490.268-74,Diego Freitas,21,Masculino,diego_freitas_375@cepedi.com,682,5.7166587370002455,6.193546426143225,,Sim,5.0
+091.273.645-34,Sr. Bruno da Cunha,27,Masculino,sr._bruno_da_cunha_091@cepedi.com,672,5.250530580123006,7.736352089815503,9.576152774258592,Não,
+081.542.673-90,Benício Rocha,26,Masculino,benício_rocha_081@cepedi.com,658,7.754582810828732,,,Sim,3.0
+741.620.958-76,Sra. Maria Eduarda da Costa,24,Feminino,sra._maria_eduarda_da_costa_741@cepedi.com,678,5.343308367532055,7.9880896077707195,,Sim,5.0
+862.934.075-47,João Pedro da Rosa,19,Masculino,joão_pedro_da_rosa_862@cepedi.com,795,8.663027514168366,6.958963485277461,,Sim,6.0
+086.915.342-06,Catarina Carvalho,27,Feminino,catarina_carvalho_086@cepedi.com,708,7.5726696282696215,6.975462016297733,8.878070312333405,Não,
+763.025.481-44,Ana Carolina Cavalcanti,27,Feminino,ana_carolina_cavalcanti_763@cepedi.com,672,5.280541545132956,6.76445967310851,,Sim,6.0
+083.524.971-97,Stephany Cunha,18,Feminino,stephany_cunha_083@cepedi.com,759,7.7417917649635015,,,Sim,4.0
+486.159.370-01,Mariane Fernandes,20,Feminino,mariane_fernandes_486@cepedi.com,660,7.2874546928609645,9.234576744688614,9.32311226794549,Não,
+359.061.482-05,João Felipe Pinto,19,Masculino,joão_felipe_pinto_359@cepedi.com,645,9.283300913525512,,,Sim,3.0
+615.028.934-60,Kevin Rodrigues,26,Masculino,kevin_rodrigues_615@cepedi.com,680,6.07972264005673,9.131142755003145,5.229567282452489,Não,
+401.825.367-26,Srta. Bianca Nogueira,19,Feminino,srta._bianca_nogueira_401@cepedi.com,654,8.112016250590246,7.067807616555163,8.165939047730191,Não,
+078.941.532-14,Miguel Pires,27,Masculino,miguel_pires_078@cepedi.com,729,6.247361333106821,7.058350400230699,8.233972295849583,Não,
+389.517.420-32,Ana Vitória da Cunha,22,Feminino,ana_vitória_da_cunha_389@cepedi.com,715,8.712195728688089,,,Sim,4.0
+860.217.543-44,Cauê Dias,22,Masculino,cauê_dias_860@cepedi.com,643,8.594919936044626,,,Sim,4.0
+369.841.570-48,Ana Carolina Nascimento,23,Feminino,ana_carolina_nascimento_369@cepedi.com,769,6.5489049042792065,9.010680993816798,8.982619327329886,Não,
+752.893.416-09,Cauã Carvalho,24,Masculino,cauã_carvalho_752@cepedi.com,732,5.131628791786367,9.310043165083222,,Sim,5.0
+152.396.480-42,Maria Vitória Costa,25,Feminino,maria_vitória_costa_152@cepedi.com,651,9.82792187870636,8.88892973005992,9.138310322086221,Não,
+506.783.142-17,Sra. Eloah Ribeiro,18,Feminino,sra._eloah_ribeiro_506@cepedi.com,655,6.653531540160218,7.152100046429548,9.679748487622522,Não,
+193.470.862-31,Yuri da Mota,19,Masculino,yuri_da_mota_193@cepedi.com,722,9.93741079780466,7.795375302031825,5.18899739786643,Não,
+847.035.169-93,Rafael Moura,20,Masculino,rafael_moura_847@cepedi.com,709,6.483746993782293,5.767939442134756,,Sim,6.0
+375.802.164-26,Ana Clara Dias,24,Feminino,ana_clara_dias_375@cepedi.com,686,6.890906701700202,8.291961775239521,8.125584133597407,Sim,8.0
+375.428.610-26,Srta. Sofia Viana,21,Feminino,srta._sofia_viana_375@cepedi.com,760,7.1535273749699195,6.759467243089173,9.460465726208723,Não,
+321.685.749-28,Paulo Martins,20,Masculino,paulo_martins_321@cepedi.com,744,9.785144730747469,7.457415631443105,5.265014388906155,Não,
+345.691.720-16,Camila Rocha,21,Feminino,camila_rocha_345@cepedi.com,645,8.885382562947036,7.1265780565097625,,Sim,6.0
+267.103.495-43,Sra. Giovanna Moraes,20,Feminino,sra._giovanna_moraes_267@cepedi.com,765,,,,Sim,2.0
+804.765.193-57,Calebe Moreira,18,Masculino,calebe_moreira_804@cepedi.com,653,9.873506763400457,7.595328692297395,9.032531212507134,Não,
+782.604.953-92,Rebeca Melo,25,Feminino,rebeca_melo_782@cepedi.com,642,7.849009607634796,,,Sim,4.0
+261.895.403-33,Agatha da Conceição,20,Feminino,agatha_da_conceição_261@cepedi.com,669,8.526210544677653,8.276079972890662,8.259124481398123,Não,
+041.638.257-62,Gabrielly Fernandes,18,Feminino,gabrielly_fernandes_041@cepedi.com,650,8.355559199633618,6.118594639185818,5.966143543893958,Não,
+265.048.397-00,Danilo Novaes,28,Masculino,danilo_novaes_265@cepedi.com,751,7.765959007547741,8.536317449171722,8.19325327041209,Não,
+284.765.301-53,Sra. Luiza Santos,24,Feminino,sra._luiza_santos_284@cepedi.com,752,8.830455591515836,5.291872613155561,7.850799828514829,Não,
+671.904.238-69,Davi Ribeiro,28,Masculino,davi_ribeiro_671@cepedi.com,731,,,,Sim,1.0
+120.986.534-33,Stella Melo,23,Feminino,stella_melo_120@cepedi.com,706,5.261794941537644,9.659286967093703,9.197988200868364,Não,
+502.914.376-99,Srta. Laís Lopes,23,Feminino,srta._laís_lopes_502@cepedi.com,650,9.550159534858002,,,Sim,4.0
+618.935.407-66,Pedro Henrique Moraes,26,Masculino,pedro_henrique_moraes_618@cepedi.com,704,6.650516968203004,6.121835548625003,6.606890452538558,Não,
+876.912.534-19,Marcelo Jesus,25,Masculino,marcelo_jesus_876@cepedi.com,645,,,,Sim,1.0
+685.402.317-35,Pedro Miguel Nogueira,22,Masculino,pedro_miguel_nogueira_685@cepedi.com,709,8.872051123288442,7.851829169726901,8.560463445288791,Não,
+203.917.654-34,Pedro Henrique Oliveira,18,Masculino,pedro_henrique_oliveira_203@cepedi.com,738,7.065854619166099,7.375811647063305,7.154376805542889,Não,
+305.798.241-79,Joaquim Jesus,25,Masculino,joaquim_jesus_305@cepedi.com,654,8.094892665355578,5.432624128163219,,Sim,6.0
+156.924.807-94,André Peixoto,21,Masculino,andré_peixoto_156@cepedi.com,686,5.5826973113060285,8.421655881878078,5.3400574715473414,Não,
+937.620.481-69,Leonardo Rodrigues,24,Masculino,leonardo_rodrigues_937@cepedi.com,682,8.499958577360529,9.925965206288625,9.275912064836017,Não,
+642.381.709-03,Davi Luiz Barros,20,Masculino,davi_luiz_barros_642@cepedi.com,723,9.782245086465252,7.939080579295414,9.783965723911141,Não,
+698.137.042-50,Rafaela Teixeira,18,Feminino,rafaela_teixeira_698@cepedi.com,648,9.85212170865649,6.435054690133829,,Sim,6.0
+639.124.578-91,João Lucas Monteiro,25,Masculino,joão_lucas_monteiro_639@cepedi.com,736,5.160815735522127,8.510218360375204,,Sim,6.0
+176.320.594-07,Ana Laura Pinto,26,Feminino,ana_laura_pinto_176@cepedi.com,760,8.92557282044465,5.956106994605863,9.161499154821495,Sim,7.0
+703.896.154-39,Júlia da Luz,23,Feminino,júlia_da_luz_703@cepedi.com,760,5.758067800798164,5.17388881051672,7.29861936868104,Não,
+548.276.319-64,João Pedro Aragão,19,Masculino,joão_pedro_aragão_548@cepedi.com,770,9.765992518272112,6.450541662726089,7.464620752314154,Não,
+186.732.405-90,Calebe da Cruz,23,Masculino,calebe_da_cruz_186@cepedi.com,709,5.279220845660529,9.509069092878002,6.454560737252057,Não,
+341.279.860-69,Erick Farias,25,Masculino,erick_farias_341@cepedi.com,789,,,,Sim,2.0
+836.974.502-47,Marcos Vinicius da Mota,25,Masculino,marcos_vinicius_da_mota_836@cepedi.com,666,5.444535959687925,9.6387504988203,9.806296651616762,Sim,7.0
+762.354.980-47,Srta. Maria Alice Ribeiro,28,Feminino,srta._maria_alice_ribeiro_762@cepedi.com,663,6.897146578081304,7.990179201557843,5.739900172073343,Não,
+612.830.547-44,Alexandre Pires,18,Masculino,alexandre_pires_612@cepedi.com,737,7.539844582314748,8.884985267136766,6.307244444947754,Não,
+456.970.138-84,Lívia Freitas,22,Feminino,lívia_freitas_456@cepedi.com,666,,,,Sim,2.0
+013.582.764-71,Davi Novaes,22,Masculino,davi_novaes_013@cepedi.com,720,5.387917952534949,9.639629047522615,9.589920046866292,Não,
+827.951.064-85,Vicente Almeida,23,Masculino,vicente_almeida_827@cepedi.com,789,5.230707028606353,6.96673116458882,8.566247549282844,Não,
+758.206.139-02,Ana Júlia Barros,22,Feminino,ana_júlia_barros_758@cepedi.com,706,5.200650662427812,6.115249817764774,6.326045632639756,Não,
+791.530.628-68,Lucca Nunes,18,Masculino,lucca_nunes_791@cepedi.com,646,8.977107718708375,,,Sim,4.0
+761.458.209-85,Maria Vitória Oliveira,18,Feminino,maria_vitória_oliveira_761@cepedi.com,730,7.764814717933433,6.77035061596394,6.958476547835929,Não,
+134.579.286-73,Lucas Gabriel Cardoso,26,Masculino,lucas_gabriel_cardoso_134@cepedi.com,758,6.395553729496662,9.590661781736358,9.245797471251707,Não,
+698.715.402-30,Lucas da Paz,25,Masculino,lucas_da_paz_698@cepedi.com,676,7.306171247079514,5.516242828455318,8.158624473145935,Não,
+283.471.596-37,Ana Lívia Farias,23,Feminino,ana_lívia_farias_283@cepedi.com,717,7.370104332889987,6.366411118030928,8.567155859702435,Não,
+104.653.987-66,Ana Beatriz Silveira,23,Feminino,ana_beatriz_silveira_104@cepedi.com,746,7.036754324329726,6.393856313521017,8.199465957948684,Não,
+230.891.746-69,Rebeca das Neves,21,Feminino,rebeca_das_neves_230@cepedi.com,698,9.922855859828546,7.508840806405486,,Sim,5.0
+725.930.461-80,Isaac Dias,22,Masculino,isaac_dias_725@cepedi.com,731,,,,Sim,1.0
+049.572.831-41,Anthony Monteiro,18,Masculino,anthony_monteiro_049@cepedi.com,687,8.403586526059541,7.435885415938296,5.770524245795471,Não,
+150.283.697-12,Maria Vitória Araújo,24,Feminino,maria_vitória_araújo_150@cepedi.com,782,7.759634875804017,9.059315110367784,8.670112937288156,Sim,7.0
+320.186.479-03,Juan Pereira,20,Masculino,juan_pereira_320@cepedi.com,700,9.908264524524819,,,Sim,4.0
+427.861.530-26,Sophie Moreira,20,Feminino,sophie_moreira_427@cepedi.com,662,,,,Sim,1.0
+681.345.709-84,Srta. Ana Sophia Santos,27,Feminino,srta._ana_sophia_santos_681@cepedi.com,679,,,,Sim,2.0
+016.798.425-01,João Vitor Lima,23,Masculino,joão_vitor_lima_016@cepedi.com,794,5.780991707429054,9.932171299692278,9.269857228384206,Não,
+127.594.380-23,Maitê Cardoso,27,Feminino,maitê_cardoso_127@cepedi.com,701,6.421072805399675,9.396768758321466,6.383819385038204,Não,
+689.071.245-58,Thomas Araújo,20,Masculino,thomas_araújo_689@cepedi.com,696,5.567200332670982,8.594881884538314,7.976081980722281,Não,
+480.135.967-10,Davi Lucca Ribeiro,18,Masculino,davi_lucca_ribeiro_480@cepedi.com,694,6.494385412989083,,,Sim,3.0
+935.268.014-60,Daniel Nascimento,24,Masculino,daniel_nascimento_935@cepedi.com,769,9.09896562548143,5.437881527110674,8.787933339875385,Não,
+354.890.712-14,Letícia Cardoso,20,Feminino,letícia_cardoso_354@cepedi.com,781,,,,Sim,1.0
+532.810.674-17,Alana Correia,19,Feminino,alana_correia_532@cepedi.com,693,9.476971882058765,7.615649224825416,5.802607524555099,Não,
+398.250.614-05,Lorenzo Jesus,20,Masculino,lorenzo_jesus_398@cepedi.com,688,7.696776172559181,9.56700482351534,6.396037650227401,Não,
+263.819.740-87,Gabriela Lopes,18,Feminino,gabriela_lopes_263@cepedi.com,796,5.866423977665694,5.73322504100727,5.709068146829352,Não,
+295.687.134-09,Lucas Fogaça,23,Masculino,lucas_fogaça_295@cepedi.com,799,,,,Sim,2.0
+851.974.063-48,Dr. Leandro Ribeiro,25,Masculino,dr._leandro_ribeiro_851@cepedi.com,758,6.421733602287389,6.649897071740093,6.8203143284084025,Não,
+398.175.246-55,Catarina Dias,24,Feminino,catarina_dias_398@cepedi.com,749,6.5590183914482285,,,Sim,4.0
+527.803.419-04,Ana Viana,26,Feminino,ana_viana_527@cepedi.com,729,7.507226032651991,5.889916928596153,9.093090486653283,Não,
+508.937.642-56,Henrique Sales,23,Masculino,henrique_sales_508@cepedi.com,758,8.026424590068203,5.401131366118742,9.734823921692456,Sim,8.0
+187.063.245-17,Felipe da Mota,27,Masculino,felipe_da_mota_187@cepedi.com,665,6.042459501129235,,,Sim,3.0
+952.734.608-83,Alícia Barros,27,Feminino,alícia_barros_952@cepedi.com,732,,,,Sim,1.0
+718.594.603-48,Luiz Otávio Cardoso,20,Masculino,luiz_otávio_cardoso_718@cepedi.com,694,,,,Sim,1.0
+649.051.837-66,Emanuella Costa,26,Feminino,emanuella_costa_649@cepedi.com,714,6.229074835380306,9.37518758080358,7.303910935065708,Não,
+953.180.624-15,Yasmin da Paz,18,Feminino,yasmin_da_paz_953@cepedi.com,715,6.544815616225983,6.62546916171436,6.577557814024567,Não,
+486.710.935-57,Yuri Ribeiro,28,Masculino,yuri_ribeiro_486@cepedi.com,676,,,,Sim,1.0
+157.039.426-16,Sra. Ana Laura Almeida,21,Feminino,sra._ana_laura_almeida_157@cepedi.com,755,,,,Sim,1.0
+817.936.452-64,Francisco Freitas,20,Masculino,francisco_freitas_817@cepedi.com,787,,,,Sim,1.0
+370.194.658-20,Dra. Luna da Rocha,24,Feminino,dra._luna_da_rocha_370@cepedi.com,697,8.84916761589885,7.677212713203906,7.019135346682635,Sim,7.0
+632.748.901-03,Dra. Stephany Nunes,27,Feminino,dra._stephany_nunes_632@cepedi.com,736,6.072883225391088,,,Sim,3.0
+425.738.691-64,João Guilherme Aragão,25,Masculino,joão_guilherme_aragão_425@cepedi.com,698,9.408809801004745,5.591443997832066,7.6946361758342,Não,
+978.062.154-76,Emanuel Porto,21,Masculino,emanuel_porto_978@cepedi.com,727,9.933512733559901,9.465861714055823,6.568068690691443,Sim,7.0
+150.796.483-84,Srta. Lara Viana,23,Feminino,srta._lara_viana_150@cepedi.com,645,6.572069766512019,7.956386008460852,5.222391761534311,Não,
+543.708.196-01,Sr. Benício da Rosa,19,Masculino,sr._benício_da_rosa_543@cepedi.com,650,7.696134943320814,,,Sim,3.0
+806.297.153-86,Dra. Camila Alves,26,Feminino,dra._camila_alves_806@cepedi.com,730,,,,Sim,1.0
+382.015.947-97,Ana Azevedo,18,Feminino,ana_azevedo_382@cepedi.com,759,,,,Sim,1.0
+218.376.509-77,Dr. Murilo Barbosa,20,Masculino,dr._murilo_barbosa_218@cepedi.com,675,8.596835491811717,5.954117258898214,5.696218167341652,Não,
+790.321.658-95,Isaac Gonçalves,22,Masculino,isaac_gonçalves_790@cepedi.com,731,5.538338003946751,5.874987539288842,,Sim,5.0
+624.950.187-85,Emanuelly Melo,27,Feminino,emanuelly_melo_624@cepedi.com,712,7.956963240172318,9.762618821495467,,Sim,6.0
+152.307.468-07,Clarice da Rosa,27,Feminino,clarice_da_rosa_152@cepedi.com,664,9.810716866355401,7.8072138984963,,Sim,6.0
+438.601.952-98,Dra. Sophia Azevedo,28,Feminino,dra._sophia_azevedo_438@cepedi.com,663,6.054239080501011,7.792213016676021,9.52748646469113,Não,
+453.827.690-10,Luiz Felipe Lima,21,Masculino,luiz_felipe_lima_453@cepedi.com,676,9.832094022339941,9.362688740851684,7.811523906758465,Não,
+192.360.547-06,Sra. Maysa Viana,23,Feminino,sra._maysa_viana_192@cepedi.com,776,5.908625044471253,9.3354858312462,,Sim,6.0
+591.468.723-37,Dr. Thales Fogaça,26,Masculino,dr._thales_fogaça_591@cepedi.com,705,8.292573414620808,8.65566506926955,,Sim,5.0
+135.807.462-35,Sra. Melissa Pinto,19,Feminino,sra._melissa_pinto_135@cepedi.com,745,7.499662400855435,5.349843524364647,7.825289656975569,Sim,7.0
+965.120.743-43,Olivia Viana,25,Feminino,olivia_viana_965@cepedi.com,726,5.852220038880941,5.963489546942629,9.14915148394287,Não,
+784.695.301-00,Catarina da Cruz,23,Feminino,catarina_da_cruz_784@cepedi.com,757,9.078796625178839,5.029073335918868,8.361502287084605,Não,
+504.617.293-34,Calebe Cardoso,21,Masculino,calebe_cardoso_504@cepedi.com,776,6.918396161004595,8.253116877145978,8.381705509507622,Não,
+536.980.421-42,Dr. Lucas Gabriel Moura,28,Masculino,dr._lucas_gabriel_moura_536@cepedi.com,700,8.1417039612566,5.338169851865735,8.478589081089059,Não,
+613.792.504-80,Ian Araújo,24,Masculino,ian_araújo_613@cepedi.com,707,9.76594855350024,6.787390947322335,7.297781589585968,Não,
+839.160.745-39,Pedro Miguel Melo,23,Masculino,pedro_miguel_melo_839@cepedi.com,698,8.702819374471984,6.756882347428321,8.648897248166456,Não,
+908.421.376-96,Elisa Novaes,27,Feminino,elisa_novaes_908@cepedi.com,707,9.772602554186735,7.641511147148076,5.211115210920986,Sim,7.0
+760.849.251-11,Vitor Cardoso,19,Masculino,vitor_cardoso_760@cepedi.com,691,6.154303882973019,,,Sim,3.0
+078.153.469-01,Heloísa Vieira,21,Feminino,heloísa_vieira_078@cepedi.com,713,8.745306495902184,8.49111714274865,,Sim,5.0
+526.043.987-29,Caio da Mota,21,Masculino,caio_da_mota_526@cepedi.com,705,9.485033810939745,6.333016757131459,9.17228227596171,Não,
+975.341.620-25,Calebe Cavalcanti,27,Masculino,calebe_cavalcanti_975@cepedi.com,640,9.989386507640234,8.508384711016948,7.211130886070162,Sim,8.0
+987.546.312-46,Sra. Caroline Pinto,26,Feminino,sra._caroline_pinto_987@cepedi.com,684,6.947709372882692,9.417315508013854,6.024266208511214,Não,
+864.950.723-92,Srta. Rebeca Teixeira,19,Feminino,srta._rebeca_teixeira_864@cepedi.com,674,,,,Sim,2.0
+746.392.805-56,Emilly Santos,28,Feminino,emilly_santos_746@cepedi.com,660,6.5447806643782735,7.93855902570942,5.512328899572752,Não,
+716.453.098-00,João Guilherme Peixoto,19,Masculino,joão_guilherme_peixoto_716@cepedi.com,763,,,,Sim,1.0
+904.328.617-69,Beatriz Nunes,19,Feminino,beatriz_nunes_904@cepedi.com,771,9.716840458293538,6.156519741037257,8.283376156414867,Sim,8.0
+675.284.309-00,Luna Rocha,25,Feminino,luna_rocha_675@cepedi.com,746,6.473949628738433,7.566599026513918,6.150014109206048,Não,
+521.934.706-34,Evelyn Souza,23,Feminino,evelyn_souza_521@cepedi.com,690,5.123722560801342,5.256377280149422,6.418182437926724,Não,
+712.458.360-80,Olivia Rodrigues,28,Feminino,olivia_rodrigues_712@cepedi.com,685,,,,Sim,1.0
+208.951.746-85,Vitor Gabriel Rocha,28,Masculino,vitor_gabriel_rocha_208@cepedi.com,750,6.895422216672726,8.551613099054087,,Sim,6.0
+896.015.247-11,Fernando Nogueira,19,Masculino,fernando_nogueira_896@cepedi.com,735,5.0326798990421775,9.066355238786667,8.965498434898647,Não,
+159.063.247-80,Lavínia Martins,21,Feminino,lavínia_martins_159@cepedi.com,660,7.49893167228455,9.108584706958318,7.281688301891927,Não,
+956.028.431-24,Joana Barbosa,26,Feminino,joana_barbosa_956@cepedi.com,739,,,,Sim,2.0
+638.045.219-24,Sr. Fernando Duarte,19,Masculino,sr._fernando_duarte_638@cepedi.com,694,6.092073944100053,8.720989016027435,7.399865158806078,Não,
+098.142.653-06,Rafael Gomes,24,Masculino,rafael_gomes_098@cepedi.com,670,6.094624413030704,5.776385165333572,8.611407788846368,Não,
+124.973.085-60,Emanuelly da Mata,22,Feminino,emanuelly_da_mata_124@cepedi.com,662,6.0813789198375625,9.293756106724075,,Sim,6.0
+452.061.839-89,Noah da Mata,19,Masculino,noah_da_mata_452@cepedi.com,735,9.703062695768683,9.327851495209021,6.256018908313736,Não,
+576.419.320-61,Ana Sophia Cunha,23,Feminino,ana_sophia_cunha_576@cepedi.com,709,,,,Sim,2.0
+741.092.865-49,João Felipe da Mata,26,Masculino,joão_felipe_da_mata_741@cepedi.com,720,6.205858148862693,9.082167867378626,7.920447866015689,Não,
+764.809.325-10,Alícia Cardoso,20,Feminino,alícia_cardoso_764@cepedi.com,709,8.939267410240866,6.265814885581193,5.584503201105445,Não,
+650.341.872-80,Luiz Fernando Souza,23,Masculino,luiz_fernando_souza_650@cepedi.com,648,6.529903782375381,8.311396232656572,6.093722899444787,Não,
+567.984.031-66,Lucas Rocha,23,Masculino,lucas_rocha_567@cepedi.com,764,9.345718027760437,8.970162290456253,7.387609458933052,Não,
+905.417.328-97,Luiz Otávio Nascimento,26,Masculino,luiz_otávio_nascimento_905@cepedi.com,785,8.84639205750862,5.780916614966644,8.899263345721675,Sim,8.0
+128.753.649-28,Luigi Gomes,19,Masculino,luigi_gomes_128@cepedi.com,753,,,,Sim,2.0
+720.356.419-34,Bryan da Cruz,24,Masculino,bryan_da_cruz_720@cepedi.com,736,9.83961118403953,,,Sim,4.0
+183.754.029-23,Ana Luiza Silva,23,Feminino,ana_luiza_silva_183@cepedi.com,689,9.331117167082638,7.66039674456113,6.959252836427317,Não,
+230.146.597-70,Arthur Ferreira,23,Masculino,arthur_ferreira_230@cepedi.com,724,6.117432927996443,,,Sim,3.0
+895.673.120-95,Vitor Gabriel Costela,25,Masculino,vitor_gabriel_costela_895@cepedi.com,778,6.644810139310584,5.530226543963387,,Sim,5.0
+129.387.506-68,Maria Sophia Nunes,18,Feminino,maria_sophia_nunes_129@cepedi.com,665,9.402299773944906,7.858319443187018,5.277126275899805,Sim,8.0
+273.681.945-46,Beatriz Cardoso,18,Feminino,beatriz_cardoso_273@cepedi.com,733,9.879191467890912,9.722471943403985,6.463496611398325,Não,
+076.382.491-78,Emanuella Melo,18,Feminino,emanuella_melo_076@cepedi.com,724,6.9177045558862424,9.26659860308689,,Sim,5.0
+581.369.704-75,Ana Júlia da Rosa,18,Feminino,ana_júlia_da_rosa_581@cepedi.com,758,9.269016493141475,9.819128694135646,7.506341724405905,Não,
+348.019.562-89,Valentina da Cunha,26,Feminino,valentina_da_cunha_348@cepedi.com,783,5.778629110129213,6.38662271381433,,Sim,6.0
+935.274.618-09,Sophia Nogueira,25,Feminino,sophia_nogueira_935@cepedi.com,738,6.148059356341932,,,Sim,4.0
+301.245.679-16,Daniel Sales,18,Masculino,daniel_sales_301@cepedi.com,766,7.599064118278137,6.030762753083407,7.654447020695343,Sim,8.0
+275.841.063-07,Valentina Vieira,25,Feminino,valentina_vieira_275@cepedi.com,714,5.163597010982576,7.719012606103352,9.829568448177305,Não,
+032.978.416-13,Guilherme Lima,21,Masculino,guilherme_lima_032@cepedi.com,692,6.671906123045381,,,Sim,4.0
+983.065.714-01,Emanuella Monteiro,27,Feminino,emanuella_monteiro_983@cepedi.com,754,9.341829327623966,9.626381685439316,,Sim,5.0
+375.914.082-32,Pietro Moreira,18,Masculino,pietro_moreira_375@cepedi.com,651,8.273740628346465,,,Sim,3.0
+521.483.706-26,Ana Clara da Mata,25,Feminino,ana_clara_da_mata_521@cepedi.com,732,8.868809413985854,,,Sim,4.0
+598.703.426-47,Bruno da Paz,18,Masculino,bruno_da_paz_598@cepedi.com,700,5.69630934299845,9.98878599114206,7.56053117598757,Não,
+160.324.897-87,Pedro Henrique Porto,25,Masculino,pedro_henrique_porto_160@cepedi.com,767,7.233090252801359,,,Sim,3.0
+789.642.310-31,Thales Rodrigues,24,Masculino,thales_rodrigues_789@cepedi.com,770,5.812245003781099,5.979547593023301,8.162364359124293,Não,
+694.871.023-96,Pedro Miguel Novaes,18,Masculino,pedro_miguel_novaes_694@cepedi.com,729,8.794771897699153,8.839367933583056,6.085044064503897,Não,
+326.489.715-64,Sr. Pedro Lopes,23,Masculino,sr._pedro_lopes_326@cepedi.com,734,7.41074092455772,,,Sim,3.0
+864.713.509-10,Theo Araújo,23,Masculino,theo_araújo_864@cepedi.com,693,7.188101077689453,6.037326285459994,5.068436741635967,Não,
+083.725.461-26,Alexia Silva,19,Feminino,alexia_silva_083@cepedi.com,729,,,,Sim,2.0
+764.103.289-31,Sophie Carvalho,25,Feminino,sophie_carvalho_764@cepedi.com,763,5.143173367473782,6.472407097612643,9.419036333558978,Não,
+536.810.724-26,Diogo Costa,21,Masculino,diogo_costa_536@cepedi.com,694,9.729221482432122,9.816903672894266,9.889766994405672,Não,
+395.624.187-82,Letícia Azevedo,26,Feminino,letícia_azevedo_395@cepedi.com,784,9.540155632851967,9.307685479814493,8.893689738887318,Não,
+920.853.761-77,Bárbara Martins,28,Feminino,bárbara_martins_920@cepedi.com,722,9.722443516878467,,,Sim,4.0
+194.276.830-31,Dra. Sarah Alves,26,Feminino,dra._sarah_alves_194@cepedi.com,746,7.080623333632119,8.551580347512989,6.753950170544391,Não,
+820.367.194-22,Nina Ferreira,18,Feminino,nina_ferreira_820@cepedi.com,726,9.038449910911691,7.948512076822641,6.799587299053764,Não,
+016.457.239-25,Maria Fernanda Novaes,24,Feminino,maria_fernanda_novaes_016@cepedi.com,708,6.080077869717215,9.586258272703017,7.020266949352484,Não,
+136.708.952-21,Ana Sophia Moreira,22,Feminino,ana_sophia_moreira_136@cepedi.com,654,6.99537541025336,6.141496090607185,7.428489884025147,Não,
+947.035.168-10,Samuel da Mota,21,Masculino,samuel_da_mota_947@cepedi.com,753,7.023172832794019,6.822743872459332,6.013511856873224,Não,
+852.967.140-67,Ana Clara Campos,23,Feminino,ana_clara_campos_852@cepedi.com,744,8.48101829454927,7.628615082109201,6.796937590779542,Sim,7.0
+472.958.103-23,João Gabriel Alves,27,Masculino,joão_gabriel_alves_472@cepedi.com,743,6.27305301422169,9.786791490250518,6.664799599418269,Não,
+203.549.687-00,Sr. Bryan Sales,28,Masculino,sr._bryan_sales_203@cepedi.com,711,,,,Sim,2.0
+679.512.380-40,Srta. Agatha Silveira,19,Feminino,srta._agatha_silveira_679@cepedi.com,731,7.815078343817441,5.6746875652010855,8.062298995481756,Sim,7.0
+804.691.537-84,Benício Ribeiro,21,Masculino,benício_ribeiro_804@cepedi.com,716,6.544380717443397,5.694610954801592,5.537266804274277,Não,
+583.614.270-07,Dr. Vitor Hugo da Luz,23,Masculino,dr._vitor_hugo_da_luz_583@cepedi.com,718,9.656670805719166,7.619805771154993,7.3364244964649,Não,
+256.140.978-30,Lucas Gabriel Costela,22,Masculino,lucas_gabriel_costela_256@cepedi.com,767,6.67599882241522,8.130063434593902,5.508182181115805,Não,
+379.624.051-80,Agatha da Mata,19,Feminino,agatha_da_mata_379@cepedi.com,661,8.902572568166196,6.417331566867643,8.281596738185106,Não,
+940.723.586-65,Sra. Heloísa da Cruz,26,Feminino,sra._heloísa_da_cruz_940@cepedi.com,697,6.879586479783079,6.6879179409365985,7.804502273149843,Não,
+793.425.086-00,Erick Santos,24,Masculino,erick_santos_793@cepedi.com,679,9.292560105584903,7.425467550852234,8.40579840286159,Sim,7.0
+296.410.785-85,Srta. Carolina Nunes,28,Feminino,srta._carolina_nunes_296@cepedi.com,647,8.112103491631144,9.20669331899003,6.844550634672819,Não,
+819.673.245-73,Srta. Maitê das Neves,21,Feminino,srta._maitê_das_neves_819@cepedi.com,671,8.666758899601628,8.67096646610521,7.37083444833686,Não,
+720.839.641-87,Ana Beatriz Caldeira,25,Feminino,ana_beatriz_caldeira_720@cepedi.com,670,7.88939632185995,,,Sim,3.0
+312.450.869-60,Maria Alice Cavalcanti,25,Feminino,maria_alice_cavalcanti_312@cepedi.com,747,5.111502248749059,,,Sim,4.0
+630.859.241-24,Carolina Farias,21,Feminino,carolina_farias_630@cepedi.com,736,9.099614556130456,7.868954010193624,6.9746808983909805,Não,
+073.926.185-12,Caio Melo,20,Masculino,caio_melo_073@cepedi.com,755,,,,Sim,1.0
+412.309.786-31,Gustavo da Costa,25,Masculino,gustavo_da_costa_412@cepedi.com,696,8.061603402955459,7.743506915992361,9.898480993320494,Não,
+630.259.478-29,Sr. Thiago Ribeiro,21,Masculino,sr._thiago_ribeiro_630@cepedi.com,748,,,,Sim,1.0
+610.394.285-33,Catarina Cardoso,26,Feminino,catarina_cardoso_610@cepedi.com,722,5.729059643590554,7.690313559261664,7.2994597030462405,Não,
+176.428.590-58,Natália Souza,28,Feminino,natália_souza_176@cepedi.com,740,5.961037055724566,8.441880252561774,,Sim,5.0
+096.214.738-96,Maria Eduarda Farias,24,Feminino,maria_eduarda_farias_096@cepedi.com,668,6.8232034052121,5.737155582908749,8.634143853025375,Não,
+298.567.031-40,Agatha Melo,18,Feminino,agatha_melo_298@cepedi.com,777,9.886563279652217,5.489126936336493,7.040805382974574,Não,
+762.319.408-96,Daniel Pereira,18,Masculino,daniel_pereira_762@cepedi.com,647,8.313489911396161,7.034816535011089,6.8431600459841055,Não,
+695.830.742-92,Dr. Lucca Cardoso,21,Masculino,dr._lucca_cardoso_695@cepedi.com,661,7.81480477660446,6.182301903313923,6.923604103345897,Não,
+713.295.680-95,Catarina Rocha,22,Feminino,catarina_rocha_713@cepedi.com,687,7.3586782960199315,8.12027584831083,8.646898805525675,Não,
+470.986.351-20,Alexia da Paz,18,Feminino,alexia_da_paz_470@cepedi.com,728,6.729052773257314,5.418056082762598,9.579824490410136,Não,
+374.692.158-91,Ana Sophia da Rocha,28,Feminino,ana_sophia_da_rocha_374@cepedi.com,643,8.401118217647737,8.81607098484576,7.325734339637185,Não,
+085.137.296-12,Camila Pereira,22,Feminino,camila_pereira_085@cepedi.com,644,8.236512863323503,8.704505110838433,9.22991759078884,Não,
+643.298.571-46,João Fernandes,25,Masculino,joão_fernandes_643@cepedi.com,642,,,,Sim,1.0
+029.138.645-89,Gabrielly Alves,25,Feminino,gabrielly_alves_029@cepedi.com,790,7.7466032233861615,8.23911369697909,9.964686717699937,Sim,8.0
+574.683.201-44,Cecília Moreira,24,Feminino,cecília_moreira_574@cepedi.com,703,9.981968587261678,7.823444357955219,,Sim,5.0
+428.037.691-31,Kamilly Dias,27,Feminino,kamilly_dias_428@cepedi.com,719,6.929462062173887,5.920519458186587,,Sim,5.0
+497.203.156-52,Kevin da Rocha,25,Masculino,kevin_da_rocha_497@cepedi.com,666,6.079377538755969,,,Sim,3.0
+321.980.647-31,Dr. Theo Peixoto,19,Masculino,dr._theo_peixoto_321@cepedi.com,735,,,,Sim,2.0
+548.172.603-35,Mariana Barros,28,Feminino,mariana_barros_548@cepedi.com,642,8.39029709785611,8.41563823815478,7.006535642602589,Sim,8.0
+602.913.785-95,Giovanna Pires,19,Feminino,giovanna_pires_602@cepedi.com,792,6.947379002035824,8.95149953097974,6.0641974578049,Não,
+504.928.761-85,Ana Lívia Moraes,18,Feminino,ana_lívia_moraes_504@cepedi.com,710,6.708616754266127,9.701919005502667,5.038740505598297,Sim,8.0
+685.913.207-86,Maitê Moraes,24,Feminino,maitê_moraes_685@cepedi.com,749,7.538423012234006,8.038612759706815,,Sim,6.0
+587.012.493-04,Augusto Dias,18,Masculino,augusto_dias_587@cepedi.com,642,6.833645249072744,9.342847638097387,7.04706490908349,Não,
+349.182.756-64,Ana Laura Sales,27,Feminino,ana_laura_sales_349@cepedi.com,740,,,,Sim,2.0
+809.672.451-76,Joaquim Moura,25,Masculino,joaquim_moura_809@cepedi.com,776,6.282830264331934,7.103084983215351,9.569933799557793,Não,
+570.216.384-26,Manuela Rodrigues,20,Feminino,manuela_rodrigues_570@cepedi.com,671,,,,Sim,2.0
+359.081.672-40,Benício da Costa,28,Masculino,benício_da_costa_359@cepedi.com,673,8.356730318543477,,,Sim,4.0
+827.364.095-74,Dr. Francisco Farias,25,Masculino,dr._francisco_farias_827@cepedi.com,673,8.937428368703703,6.01003406805816,7.187772069197695,Sim,7.0
+546.137.902-80,Lorena Ferreira,24,Feminino,lorena_ferreira_546@cepedi.com,740,8.528625104965657,7.753193641663234,5.144607942619425,Não,
+695.241.703-61,Sra. Maria Vitória da Paz,19,Feminino,sra._maria_vitória_da_paz_695@cepedi.com,771,6.353297420285475,,,Sim,3.0
+906.123.584-70,Calebe da Cruz,24,Masculino,calebe_da_cruz_906@cepedi.com,665,8.183949558294804,7.270271243826754,7.872130747719501,Não,
+194.732.568-09,Isabelly Cavalcanti,21,Feminino,isabelly_cavalcanti_194@cepedi.com,643,9.520030740996582,5.184882853496553,6.311518076356412,Não,
+659.438.102-42,Helena Campos,23,Feminino,helena_campos_659@cepedi.com,712,7.2658035137611225,,,Sim,3.0
+432.891.670-03,Otávio Moraes,26,Masculino,otávio_moraes_432@cepedi.com,768,9.120629153061602,9.342713608286461,5.68810049714121,Não,
+291.458.367-28,Vitor Caldeira,27,Masculino,vitor_caldeira_291@cepedi.com,793,5.769257998385221,7.941324830136303,7.080453066998985,Sim,7.0
+293.405.761-52,Vicente Lima,27,Masculino,vicente_lima_293@cepedi.com,795,7.361486014082413,9.476836872898225,6.413505505293349,Não,
+590.231.846-70,Sra. Maitê Vieira,27,Feminino,sra._maitê_vieira_590@cepedi.com,756,7.458911379321685,8.543529109739495,,Sim,5.0
+302.974.615-16,Caroline Barros,26,Feminino,caroline_barros_302@cepedi.com,722,9.831377457392946,6.863939913107661,9.523987569578678,Não,
+759.032.641-07,Esther Costa,24,Feminino,esther_costa_759@cepedi.com,753,8.65136926881977,5.763003294192956,7.014647163249292,Não,
+873.964.120-13,Catarina Ferreira,28,Feminino,catarina_ferreira_873@cepedi.com,723,5.969864232216517,,,Sim,4.0
+310.642.795-70,Luna Ramos,23,Feminino,luna_ramos_310@cepedi.com,676,6.884521733300526,7.870499007853542,8.874297277435529,Não,
+216.370.498-03,Emanuelly Fernandes,18,Feminino,emanuelly_fernandes_216@cepedi.com,736,6.2743475941989075,6.626221933932028,6.208390098640753,Não,
+879.240.153-88,Alexandre Peixoto,21,Masculino,alexandre_peixoto_879@cepedi.com,696,5.1805999095030195,,,Sim,3.0
+954.036.712-34,Ana Clara Rocha,20,Feminino,ana_clara_rocha_954@cepedi.com,733,6.7579233551089395,5.8595417439991895,6.132869818570142,Não,
+720.639.158-30,Davi Fernandes,28,Masculino,davi_fernandes_720@cepedi.com,737,6.042726007196711,,,Sim,3.0
+537.408.296-56,Srta. Sarah Peixoto,22,Feminino,srta._sarah_peixoto_537@cepedi.com,761,8.966792073380002,7.705289141068869,6.240647303025854,Não,
+819.342.576-64,Francisco Nascimento,21,Masculino,francisco_nascimento_819@cepedi.com,759,7.383275093898704,8.853315474476194,,Sim,6.0
+578.629.014-01,Juan Rocha,25,Masculino,juan_rocha_578@cepedi.com,642,9.56067523964525,7.84142992945253,6.433795461780063,Não,
+546.872.093-00,João Felipe Viana,26,Masculino,joão_felipe_viana_546@cepedi.com,782,5.456939132332233,7.744685825948786,8.233833122334744,Sim,8.0
+105.286.793-68,Maria Farias,24,Feminino,maria_farias_105@cepedi.com,707,9.057089825405617,5.384786602565216,6.363597443138569,Não,
+561.437.209-16,Lucas Caldeira,18,Masculino,lucas_caldeira_561@cepedi.com,739,6.561751099766276,5.759039900222109,,Sim,5.0
+413.769.285-82,Lara Castro,23,Feminino,lara_castro_413@cepedi.com,792,,,,Sim,1.0
+217.609.583-95,Benjamin Farias,26,Masculino,benjamin_farias_217@cepedi.com,681,5.4389040697777205,,,Sim,4.0
+514.076.238-26,Amanda Cardoso,24,Feminino,amanda_cardoso_514@cepedi.com,750,6.976619691280311,5.323587810110693,8.076049303039614,Não,
+107.246.985-58,Bárbara Nunes,26,Feminino,bárbara_nunes_107@cepedi.com,763,8.300709541169727,5.472792564714028,5.238912339598364,Não,
+703.591.826-40,Luiz Henrique Fernandes,21,Masculino,luiz_henrique_fernandes_703@cepedi.com,647,8.436280429059298,,,Sim,3.0
+562.793.410-70,Luiz Felipe da Paz,28,Masculino,luiz_felipe_da_paz_562@cepedi.com,779,9.921098674604554,5.07078548400589,7.446486350874018,Não,
+963.754.820-38,Calebe Nunes,24,Masculino,calebe_nunes_963@cepedi.com,712,6.036243703811042,5.994249148458893,5.530432062178365,Sim,8.0
+178.345.962-09,Ana Sophia Moraes,19,Feminino,ana_sophia_moraes_178@cepedi.com,768,,,,Sim,2.0
+029.573.861-86,Nicolas da Conceição,23,Masculino,nicolas_da_conceição_029@cepedi.com,648,5.341415267533473,6.006839576360976,,Sim,6.0
+425.761.893-00,Ana Sophia Martins,22,Feminino,ana_sophia_martins_425@cepedi.com,767,7.105443382759929,8.721317999027114,9.153147968651293,Não,
+634.908.125-06,Bianca Pereira,20,Feminino,bianca_pereira_634@cepedi.com,677,8.835983347049773,8.51524524702479,8.90109903469837,Não,
+978.524.016-94,Bryan Lima,18,Masculino,bryan_lima_978@cepedi.com,764,,,,Sim,2.0
+457.139.026-25,Calebe Pinto,18,Masculino,calebe_pinto_457@cepedi.com,649,6.316883466982463,7.557120068867696,,Sim,5.0
+590.384.721-88,Sr. Marcelo Novaes,28,Masculino,sr._marcelo_novaes_590@cepedi.com,660,7.9565958676954605,,,Sim,4.0
+410.968.257-67,Dra. Ana Lívia Nascimento,26,Feminino,dra._ana_lívia_nascimento_410@cepedi.com,733,7.836651503969017,7.864715971336725,7.243911081717551,Sim,7.0
+673.241.805-07,Dra. Laís da Conceição,24,Feminino,dra._laís_da_conceição_673@cepedi.com,674,8.487515595907862,,,Sim,3.0
+453.796.801-00,Bianca Lopes,22,Feminino,bianca_lopes_453@cepedi.com,674,,,,Sim,2.0
+746.059.238-29,Pedro Lucas Dias,22,Masculino,pedro_lucas_dias_746@cepedi.com,785,,,,Sim,1.0
+135.096.287-21,Mariane Cavalcanti,25,Feminino,mariane_cavalcanti_135@cepedi.com,794,7.93902797468364,7.477458739133394,6.297328869783399,Não,
+091.273.548-14,Nicolas Novaes,24,Masculino,nicolas_novaes_091@cepedi.com,727,8.363695142215597,6.925408259873837,9.144697427888099,Sim,8.0
+903.762.584-38,Marina Moraes,25,Feminino,marina_moraes_903@cepedi.com,786,7.744655001625144,9.36515872568909,7.362508194643594,Não,
+379.158.206-21,Mirella Farias,23,Feminino,mirella_farias_379@cepedi.com,702,5.948144513649002,,,Sim,3.0
+150.639.284-98,Sr. Joaquim da Cunha,24,Masculino,sr._joaquim_da_cunha_150@cepedi.com,779,5.526157683151199,9.145373841379124,7.5096305680056865,Não,
+357.890.462-74,Emanuel Novaes,24,Masculino,emanuel_novaes_357@cepedi.com,739,7.061065295388753,6.471181835666256,9.076085687553608,Sim,7.0
+794.038.512-79,Srta. Lara da Cruz,25,Feminino,srta._lara_da_cruz_794@cepedi.com,656,9.851867679416332,6.893375925659371,5.726380475488825,Não,
+597.632.801-68,Marina Vieira,28,Feminino,marina_vieira_597@cepedi.com,650,5.827507638900695,,,Sim,4.0
+145.276.803-07,Caroline Pereira,28,Feminino,caroline_pereira_145@cepedi.com,744,9.278109023149476,6.558946893221815,5.225814459200838,Não,
+689.041.257-58,João Rodrigues,18,Masculino,joão_rodrigues_689@cepedi.com,667,,,,Sim,2.0
+037.841.925-05,Natália Lopes,22,Feminino,natália_lopes_037@cepedi.com,686,6.4628541595247775,8.502282454940895,,Sim,5.0
+283.976.105-02,Maria Luiza Peixoto,25,Feminino,maria_luiza_peixoto_283@cepedi.com,643,8.985291663669335,8.590645966657345,7.9229159989788025,Sim,7.0
+571.904.328-41,Nathan Cardoso,23,Masculino,nathan_cardoso_571@cepedi.com,689,6.480140143551121,6.925096714763608,9.279127197312086,Não,
+830.214.756-71,Daniela Lopes,25,Feminino,daniela_lopes_830@cepedi.com,769,9.667452606912654,,,Sim,4.0
+856.947.320-65,Maria Sophia Oliveira,18,Feminino,maria_sophia_oliveira_856@cepedi.com,665,5.979474813614281,8.55778632586868,8.666225702452966,Não,
+910.625.784-49,Diego Ramos,26,Masculino,diego_ramos_910@cepedi.com,790,6.447875336728935,5.934093865840281,8.262580916439497,Não,
+537.198.460-75,Dra. Ana Beatriz Cardoso,28,Feminino,dra._ana_beatriz_cardoso_537@cepedi.com,799,8.222144176049555,5.215256283306774,,Sim,6.0
+891.425.760-67,Diogo Farias,20,Masculino,diogo_farias_891@cepedi.com,798,5.665072063254152,6.59493517198591,7.777086420295561,Não,
+753.904.862-00,Laís Carvalho,18,Feminino,laís_carvalho_753@cepedi.com,652,5.544257876436384,8.531943818425738,7.959312238240877,Não,
+203.415.869-51,Srta. Isabella Araújo,22,Feminino,srta._isabella_araújo_203@cepedi.com,705,9.37956451470043,9.73805456148024,9.276805292840422,Não,
+350.148.729-05,Gabrielly Jesus,21,Feminino,gabrielly_jesus_350@cepedi.com,710,8.93489429780843,,,Sim,4.0
+815.403.692-42,Sabrina Gonçalves,21,Feminino,sabrina_gonçalves_815@cepedi.com,719,,,,Sim,2.0
+592.438.076-92,Maria Sophia Costela,21,Feminino,maria_sophia_costela_592@cepedi.com,723,,,,Sim,1.0
+934.862.570-56,Caroline da Rocha,25,Feminino,caroline_da_rocha_934@cepedi.com,731,5.213556940193261,5.852645340696287,,Sim,6.0
+647.389.021-13,Lorena Ribeiro,23,Feminino,lorena_ribeiro_647@cepedi.com,800,6.187115754200121,6.378163490326046,9.759053346543265,Não,
+836.452.190-05,Clarice Costa,20,Feminino,clarice_costa_836@cepedi.com,765,9.249332200727359,8.908746013241233,6.837006361449234,Não,
+285.043.791-32,Dr. Vitor Gabriel Cardoso,24,Masculino,dr._vitor_gabriel_cardoso_285@cepedi.com,743,8.60275222122957,8.971492096703397,5.617855335116808,Não,
+740.256.931-43,Sr. Enrico Novaes,21,Masculino,sr._enrico_novaes_740@cepedi.com,745,5.4676111029784815,,,Sim,4.0
+893.072.516-30,Lorenzo Cardoso,21,Masculino,lorenzo_cardoso_893@cepedi.com,793,7.9099266543217,,,Sim,4.0
+106.498.375-84,Sr. Leandro da Luz,20,Masculino,sr._leandro_da_luz_106@cepedi.com,800,6.523799366299721,9.087770451979685,9.475421808310161,Sim,7.0
+802.691.475-94,Sabrina Cardoso,24,Feminino,sabrina_cardoso_802@cepedi.com,724,7.794552633627603,,,Sim,3.0
+369.412.587-64,Sr. Pedro Henrique Freitas,26,Masculino,sr._pedro_henrique_freitas_369@cepedi.com,726,9.388624800586072,,,Sim,4.0
+593.762.410-61,Erick da Paz,22,Masculino,erick_da_paz_593@cepedi.com,783,6.599327029253152,,,Sim,3.0
+921.307.846-31,Isis Oliveira,20,Feminino,isis_oliveira_921@cepedi.com,673,5.168414861900797,,,Sim,3.0
+036.259.714-61,Benjamin Gonçalves,20,Masculino,benjamin_gonçalves_036@cepedi.com,745,5.495088993596297,6.182783041933238,8.979254672449828,Sim,7.0
+932.046.185-60,Lucas Rezende,22,Masculino,lucas_rezende_932@cepedi.com,758,5.518108839849913,6.8225210497282776,5.880421902848857,Não,
+479.658.103-01,Lara da Rocha,19,Feminino,lara_da_rocha_479@cepedi.com,691,7.061896263814271,9.449438097010884,,Sim,6.0
+016.379.458-84,Noah Costela,26,Masculino,noah_costela_016@cepedi.com,780,5.945292072430835,,,Sim,3.0
+284.059.163-42,Nicolas Araújo,18,Masculino,nicolas_araújo_284@cepedi.com,735,8.170285132888724,6.760716831921583,8.126146882634853,Sim,8.0
+035.946.872-10,Cecília Jesus,24,Feminino,cecília_jesus_035@cepedi.com,660,6.903018827078192,9.470022782400978,8.851486405310308,Não,
+513.642.908-98,Heitor da Luz,28,Masculino,heitor_da_luz_513@cepedi.com,770,8.24946539468355,5.7556238931800605,6.729321497025316,Sim,8.0
+654.901.827-76,Marcelo Dias,28,Masculino,marcelo_dias_654@cepedi.com,794,6.025262837067385,,,Sim,3.0
+423.698.751-19,Carolina da Cunha,23,Feminino,carolina_da_cunha_423@cepedi.com,666,8.53248232654735,7.697200397458139,,Sim,5.0
+349.618.725-55,Maria Eduarda Teixeira,20,Feminino,maria_eduarda_teixeira_349@cepedi.com,650,,,,Sim,2.0
+185.309.476-57,Sra. Maria Clara Nunes,23,Feminino,sra._maria_clara_nunes_185@cepedi.com,780,,,,Sim,2.0
+235.167.809-59,Calebe da Rocha,26,Masculino,calebe_da_rocha_235@cepedi.com,791,5.499915173324704,9.880541489531062,9.897840445220107,Sim,7.0
+647.825.039-38,Ryan Souza,19,Masculino,ryan_souza_647@cepedi.com,684,8.442103138930396,5.5258664324629265,,Sim,5.0
+542.869.730-00,Lara Melo,19,Feminino,lara_melo_542@cepedi.com,714,6.602223999270471,5.882412372265257,6.803418027530013,Sim,8.0
+710.892.635-03,Sr. Lorenzo Carvalho,26,Masculino,sr._lorenzo_carvalho_710@cepedi.com,683,6.572165116050282,8.09715332340165,7.9676503012071604,Não,
+625.943.108-24,Emanuelly Gomes,24,Feminino,emanuelly_gomes_625@cepedi.com,711,9.166883009852544,6.009650452355556,,Sim,5.0
+751.863.402-35,Breno Caldeira,24,Masculino,breno_caldeira_751@cepedi.com,695,,,,Sim,1.0
+720.486.391-78,Miguel Moura,24,Masculino,miguel_moura_720@cepedi.com,789,6.658112495106243,8.634179408881835,9.869138380198727,Sim,8.0
+372.609.514-43,Cecília Monteiro,22,Feminino,cecília_monteiro_372@cepedi.com,785,9.099937323095684,9.165059130315544,6.411778780881149,Não,
+732.981.540-32,Fernanda da Conceição,22,Feminino,fernanda_da_conceição_732@cepedi.com,693,9.412346437290843,7.8815458518472195,,Sim,5.0
+301.485.269-42,Larissa Moraes,28,Feminino,larissa_moraes_301@cepedi.com,662,,,,Sim,1.0
+604.238.751-08,Laura da Mota,20,Feminino,laura_da_mota_604@cepedi.com,642,6.67408491706255,9.706429744220824,5.502863414806839,Não,
+654.382.170-17,Ana Luiza Pinto,18,Feminino,ana_luiza_pinto_654@cepedi.com,779,9.85881925455855,9.067333782529975,8.704804762092841,Sim,7.0
+241.873.650-44,Ana Carolina Santos,20,Feminino,ana_carolina_santos_241@cepedi.com,726,5.390171762475914,,,Sim,3.0
+270.318.645-26,Srta. Ana Carolina Sales,25,Feminino,srta._ana_carolina_sales_270@cepedi.com,798,5.265813919237034,5.526819585780419,9.75902468477246,Sim,7.0
+125.306.897-68,Laís Moraes,27,Feminino,laís_moraes_125@cepedi.com,704,,,,Sim,1.0
+026.458.731-62,Yago Alves,22,Masculino,yago_alves_026@cepedi.com,774,9.796383770098128,6.512399285707199,7.412391953027537,Não,
+078.456.239-38,Miguel Freitas,22,Masculino,miguel_freitas_078@cepedi.com,753,,,,Sim,2.0
+412.760.839-04,Davi Lucas Rodrigues,18,Masculino,davi_lucas_rodrigues_412@cepedi.com,752,9.462418045208494,8.555889531845477,7.737562334759059,Não,
+271.498.053-88,Ian Santos,20,Masculino,ian_santos_271@cepedi.com,723,5.565566851441765,9.104839057673916,5.321244855325404,Sim,8.0
+275.860.413-26,Clarice Silva,21,Feminino,clarice_silva_275@cepedi.com,780,7.7895837229665785,5.626034551130488,7.190159110385875,Não,
+207.358.416-08,Catarina Lima,22,Feminino,catarina_lima_207@cepedi.com,680,6.669365965933824,8.502143255289159,8.88625150814915,Sim,8.0
+268.950.317-40,Brenda Azevedo,19,Feminino,brenda_azevedo_268@cepedi.com,728,9.637355237050135,9.967848173650447,6.58767313701402,Não,
+126.038.975-86,Maria Julia Nascimento,25,Feminino,maria_julia_nascimento_126@cepedi.com,683,7.2049819769312,8.910529837358716,7.078680970572685,Não,
+478.019.532-23,Lavínia Mendes,24,Feminino,lavínia_mendes_478@cepedi.com,707,8.757782862624088,9.607903984518831,8.296601807732884,Não,
+758.214.039-79,Stella Cardoso,28,Feminino,stella_cardoso_758@cepedi.com,647,8.24044084801346,7.709155904596724,8.809334045530917,Não,
+735.164.892-19,Dr. Juan da Conceição,21,Masculino,dr._juan_da_conceição_735@cepedi.com,716,8.296481769141348,6.235925935722095,,Sim,6.0
+107.936.524-99,Maria Barbosa,27,Feminino,maria_barbosa_107@cepedi.com,744,8.1815330556643,6.204268073238186,7.631267895188872,Sim,8.0
+280.749.615-67,Levi Alves,23,Masculino,levi_alves_280@cepedi.com,687,8.151935139756482,6.2526030964358235,,Sim,6.0
+589.140.623-33,Juan Rodrigues,26,Masculino,juan_rodrigues_589@cepedi.com,643,,,,Sim,2.0
+536.204.781-71,Sarah Cardoso,21,Feminino,sarah_cardoso_536@cepedi.com,695,5.842959723382075,7.237150844122088,8.859762680802946,Não,
+728.591.034-14,Davi Fogaça,28,Masculino,davi_fogaça_728@cepedi.com,739,5.441103479507492,,,Sim,3.0
+528.901.763-12,Diogo Fernandes,19,Masculino,diogo_fernandes_528@cepedi.com,718,7.887770828692179,8.95340774070051,6.352148872525358,Não,
+410.672.358-17,João Pedro Cavalcanti,23,Masculino,joão_pedro_cavalcanti_410@cepedi.com,682,5.9162204447569575,6.787118734679938,,Sim,6.0
+578.639.201-59,Heitor Silva,25,Masculino,heitor_silva_578@cepedi.com,765,7.181098573741243,5.212082067490526,7.522865149820981,Não,
+756.932.108-12,Sofia Pinto,21,Feminino,sofia_pinto_756@cepedi.com,714,7.669588758895829,9.250980896608418,8.659619675977794,Não,
+836.754.921-09,Paulo Almeida,18,Masculino,paulo_almeida_836@cepedi.com,680,5.721458151181144,7.087258730478854,9.805540469942933,Não,
+623.815.904-98,Rodrigo Ramos,26,Masculino,rodrigo_ramos_623@cepedi.com,795,8.656884535255326,9.584196030175018,9.074702510831798,Não,
+179.026.845-11,Renan Gomes,23,Masculino,renan_gomes_179@cepedi.com,678,6.091188034860064,8.516827387800731,5.591318667147685,Não,
+041.936.875-20,Sr. Yago Gonçalves,24,Masculino,sr._yago_gonçalves_041@cepedi.com,752,9.150782998291497,8.336405742785523,5.7082600240417705,Não,
+894.073.521-88,Juliana da Rosa,24,Feminino,juliana_da_rosa_894@cepedi.com,712,5.345923514758449,5.00292782732212,8.303089573665005,Não,
+209.458.716-94,Lorena Carvalho,24,Feminino,lorena_carvalho_209@cepedi.com,788,6.0423018856220345,,,Sim,3.0
+503.472.691-25,Marcela Duarte,28,Feminino,marcela_duarte_503@cepedi.com,641,5.590183520463487,9.16892603584406,7.258567695272266,Não,
+194.385.762-82,Ana Sophia Castro,25,Feminino,ana_sophia_castro_194@cepedi.com,689,9.397019567033784,5.604126423573336,5.7944504499425395,Não,
+489.627.153-09,Thomas Santos,28,Masculino,thomas_santos_489@cepedi.com,793,,,,Sim,1.0
+516.972.034-34,Sarah Moura,27,Feminino,sarah_moura_516@cepedi.com,648,7.955795835248945,5.099923363169343,9.784144426983596,Não,
+416.739.520-70,Anthony Moreira,22,Masculino,anthony_moreira_416@cepedi.com,715,8.855585337998237,5.251594273564948,5.539416522290658,Não,
+956.701.328-40,Carlos Eduardo Moraes,19,Masculino,carlos_eduardo_moraes_956@cepedi.com,792,7.688353576341128,8.872205630735756,6.237734808439958,Não,
+187.250.963-03,Ana Clara Ferreira,28,Feminino,ana_clara_ferreira_187@cepedi.com,755,8.976466695341768,9.174048939133055,8.169318258873798,Não,
+849.270.156-02,Fernanda da Luz,20,Feminino,fernanda_da_luz_849@cepedi.com,685,5.031803938792779,6.372275804385349,5.063648387509036,Não,
+984.215.763-64,Dra. Caroline Almeida,20,Feminino,dra._caroline_almeida_984@cepedi.com,734,6.6141370303060345,8.669223832822398,,Sim,6.0
+792.058.314-41,Luigi Caldeira,27,Masculino,luigi_caldeira_792@cepedi.com,742,,,,Sim,1.0
+892.510.743-05,André das Neves,21,Masculino,andré_das_neves_892@cepedi.com,713,8.514961598269823,6.517890725885595,,Sim,6.0
+768.509.321-95,Sr. Theo Cunha,21,Masculino,sr._theo_cunha_768@cepedi.com,646,5.030072783852273,9.416677708523016,8.664481634566352,Não,
+087.213.649-31,Mariane Moura,22,Feminino,mariane_moura_087@cepedi.com,716,9.720895194356626,,,Sim,4.0
+957.860.312-68,Thales Gomes,23,Masculino,thales_gomes_957@cepedi.com,753,9.263041572605417,9.305100710062604,5.5546407990283235,Sim,8.0
+253.680.947-10,Gabrielly Pires,19,Feminino,gabrielly_pires_253@cepedi.com,757,9.899747370670756,8.649254584226252,9.507111564768248,Não,
+016.285.794-20,Luiz Miguel Castro,21,Masculino,luiz_miguel_castro_016@cepedi.com,647,9.152547237092639,7.737891747036866,9.250192347567522,Não,
+312.459.780-04,Luiz Otávio Cardoso,25,Masculino,luiz_otávio_cardoso_312@cepedi.com,791,5.509253823506671,8.0809398263734,8.445459305632756,Não,
+402.358.679-00,Carlos Eduardo Lopes,26,Masculino,carlos_eduardo_lopes_402@cepedi.com,732,7.6997685385102255,,,Sim,4.0
+309.218.574-97,Gustavo Pereira,24,Masculino,gustavo_pereira_309@cepedi.com,658,7.201534453328466,7.300888018415263,,Sim,5.0
+257.489.063-92,Juliana Jesus,19,Feminino,juliana_jesus_257@cepedi.com,671,9.331552825903167,,,Sim,3.0
+279.061.583-77,Leandro Costa,20,Masculino,leandro_costa_279@cepedi.com,696,7.22699954936561,8.043709110257806,5.530180269901999,Não,
+056.283.471-08,Diego Sales,27,Masculino,diego_sales_056@cepedi.com,720,5.2431530270226325,,,Sim,4.0
+481.350.279-23,Stephany Santos,28,Feminino,stephany_santos_481@cepedi.com,701,,,,Sim,2.0
+967.234.085-00,Maria Luiza Viana,22,Feminino,maria_luiza_viana_967@cepedi.com,755,6.026610011419404,8.42211628446875,5.61672538233249,Não,
+543.620.871-17,Stella Jesus,22,Feminino,stella_jesus_543@cepedi.com,791,6.425419286669879,9.796010464101773,5.786566105390608,Não,
+974.165.203-80,Vitória Jesus,23,Feminino,vitória_jesus_974@cepedi.com,763,7.967394392568895,9.586825058071465,9.486982249864056,Não,
+794.028.153-41,Theo Vieira,26,Masculino,theo_vieira_794@cepedi.com,652,6.868425310434321,8.018633802279936,7.427848465967578,Não,
+072.941.583-04,Luiz Fernando da Cruz,19,Masculino,luiz_fernando_da_cruz_072@cepedi.com,655,7.965395916701579,,,Sim,3.0
+479.521.830-79,Ana Sophia Porto,25,Feminino,ana_sophia_porto_479@cepedi.com,781,5.020845386518492,9.20150725088007,,Sim,5.0
+549.386.712-55,Dra. Cecília Fogaça,26,Feminino,dra._cecília_fogaça_549@cepedi.com,792,5.427348805030397,5.441062295846246,5.1062156780332115,Não,
+732.154.809-05,Srta. Stephany da Rocha,23,Feminino,srta._stephany_da_rocha_732@cepedi.com,678,5.157851092667609,7.650537486709423,8.310037141106152,Não,
+678.245.093-38,Francisco Ribeiro,27,Masculino,francisco_ribeiro_678@cepedi.com,668,6.45092744151074,8.762267067901194,,Sim,6.0
+197.826.035-03,Catarina Lopes,18,Feminino,catarina_lopes_197@cepedi.com,702,5.802812976420454,8.703815323089644,8.529357546341402,Não,
+635.748.012-62,Cauã Martins,27,Masculino,cauã_martins_635@cepedi.com,730,5.464053184033835,6.779784213438386,7.291270379154825,Não,
+631.520.749-99,Maitê das Neves,25,Feminino,maitê_das_neves_631@cepedi.com,766,5.507509301431393,9.57440497708572,6.8281738632180815,Não,
+328.164.790-13,Dr. Breno Souza,27,Masculino,dr._breno_souza_328@cepedi.com,764,7.445914039613701,9.790934644474081,9.612575215097843,Sim,8.0
+473.218.569-09,Dr. Luiz Otávio Cunha,19,Masculino,dr._luiz_otávio_cunha_473@cepedi.com,716,8.919617543147654,6.9319234418581726,5.464940587002435,Não,
+195.742.063-43,Luigi Nogueira,28,Masculino,luigi_nogueira_195@cepedi.com,702,6.146449531545523,,,Sim,4.0
+802.579.361-30,Anthony da Mota,27,Masculino,anthony_da_mota_802@cepedi.com,723,8.437037194542247,9.633964471619223,7.395171549765111,Não,
+120.476.389-50,Sarah Pires,19,Feminino,sarah_pires_120@cepedi.com,793,7.960285709885888,5.535677614854367,5.6470255566565815,Não,
+458.179.036-01,Srta. Bianca Campos,28,Feminino,srta._bianca_campos_458@cepedi.com,747,6.435615480735922,9.285003389941846,9.010318219874712,Não,
+127.965.048-67,Lívia Oliveira,21,Feminino,lívia_oliveira_127@cepedi.com,704,5.043683530194327,6.296056487420371,7.621053252849837,Não,
+549.713.628-19,Vitor Hugo Silveira,18,Masculino,vitor_hugo_silveira_549@cepedi.com,758,7.8329601238216275,,,Sim,4.0
+987.230.164-69,Felipe Teixeira,21,Masculino,felipe_teixeira_987@cepedi.com,774,5.043586190883443,8.240250314757468,5.671245109278919,Não,
+016.435.278-35,Luiz Fernando Ferreira,27,Masculino,luiz_fernando_ferreira_016@cepedi.com,649,7.660683329573641,7.645578139656702,6.8350655345039595,Não,
+976.380.514-75,Dr. Francisco Fogaça,26,Masculino,dr._francisco_fogaça_976@cepedi.com,725,5.940427118235291,5.712960629501731,5.286132940820297,Não,
+123.697.845-55,Vitor Hugo da Mota,22,Masculino,vitor_hugo_da_mota_123@cepedi.com,676,7.010601750462951,5.852753926732016,7.2110721839202885,Sim,8.0
+790.316.285-30,Enzo Gabriel Moreira,23,Masculino,enzo_gabriel_moreira_790@cepedi.com,780,7.778669655211832,7.903367812324506,8.818359053630834,Não,
+429.057.613-34,Luiza da Cunha,24,Feminino,luiza_da_cunha_429@cepedi.com,789,5.398355461566545,6.3866931203896495,7.488386063154288,Sim,7.0
+316.842.075-17,Murilo da Paz,27,Masculino,murilo_da_paz_316@cepedi.com,704,5.604544635671113,7.921632398078179,5.923620411439851,Não,
+426.935.817-37,Sabrina Farias,28,Feminino,sabrina_farias_426@cepedi.com,704,6.427918433393456,8.211013767693581,8.36356994328773,Não,
+840.632.157-17,Maria Fernanda Gonçalves,24,Feminino,maria_fernanda_gonçalves_840@cepedi.com,753,7.285081328681775,6.776562355007635,9.27427617518913,Não,
+419.357.086-00,Dr. Otávio Barbosa,28,Masculino,dr._otávio_barbosa_419@cepedi.com,749,5.72153184330186,5.741363080442589,,Sim,6.0
+795.324.018-14,Dra. Bárbara Lima,20,Feminino,dra._bárbara_lima_795@cepedi.com,695,8.557002750974863,7.482727776576446,5.908012525267654,Sim,8.0
+741.593.628-00,Pietra Rodrigues,18,Feminino,pietra_rodrigues_741@cepedi.com,753,9.33859501638477,5.992517354510999,,Sim,6.0
+508.142.637-71,Daniela Nunes,26,Feminino,daniela_nunes_508@cepedi.com,770,6.746549303114562,7.139545414550502,9.970045499053814,Sim,8.0
+216.754.390-52,Marcelo Nascimento,19,Masculino,marcelo_nascimento_216@cepedi.com,642,,,,Sim,1.0
+471.620.395-61,Elisa Pires,22,Feminino,elisa_pires_471@cepedi.com,717,9.118908898134235,7.393310228113739,9.671762159206086,Não,
+536.471.082-35,Sra. Agatha Lima,18,Feminino,sra._agatha_lima_536@cepedi.com,748,9.552036616897396,8.28366784984701,5.678523724858417,Não,
+368.294.015-42,Rafaela da Costa,19,Feminino,rafaela_da_costa_368@cepedi.com,741,9.061485061317304,8.73689961597187,9.520237689402077,Sim,8.0
+781.963.250-02,Sr. Luiz Fernando Cardoso,18,Masculino,sr._luiz_fernando_cardoso_781@cepedi.com,740,7.631492894782944,5.691452552483926,9.03066066542305,Não,
+825.369.407-56,Luiza da Mota,25,Feminino,luiza_da_mota_825@cepedi.com,657,5.724089605138733,6.271572521488899,5.108745559383003,Não,
+392.651.048-05,Catarina Lopes,18,Feminino,catarina_lopes_392@cepedi.com,717,,,,Sim,1.0
+837.265.049-74,Sra. Luana Souza,25,Feminino,sra._luana_souza_837@cepedi.com,682,7.800173138272737,5.102483917253595,7.273045528230245,Não,
+245.391.068-05,Miguel da Costa,26,Masculino,miguel_da_costa_245@cepedi.com,720,6.950783440173204,6.717073714519861,6.357680431490336,Não,
+024.835.179-60,Pedro Lucas Cavalcanti,21,Masculino,pedro_lucas_cavalcanti_024@cepedi.com,667,8.029179966032057,7.529441531381551,,Sim,6.0
+042.375.169-70,Thomas Lopes,20,Masculino,thomas_lopes_042@cepedi.com,767,7.024277151468654,9.54340013731486,7.80107195291583,Não,
+057.328.164-53,Lavínia Sales,18,Feminino,lavínia_sales_057@cepedi.com,733,8.804495275263037,5.091158082613953,9.269464996257813,Não,
+680.793.254-56,Luiz Gustavo Mendes,19,Masculino,luiz_gustavo_mendes_680@cepedi.com,715,7.591490960100465,9.625637573126646,8.811333588824375,Não,
+601.538.942-70,Luiz Gustavo Freitas,26,Masculino,luiz_gustavo_freitas_601@cepedi.com,677,8.173003930744017,6.206795185776878,6.812808763095184,Não,
+487.629.013-03,Sr. Vitor Gabriel Martins,19,Masculino,sr._vitor_gabriel_martins_487@cepedi.com,650,6.613143354928907,,,Sim,4.0
+739.056.824-00,Otávio Cunha,27,Masculino,otávio_cunha_739@cepedi.com,706,5.856823150168464,,,Sim,3.0
+052.478.631-35,Clarice Pinto,26,Feminino,clarice_pinto_052@cepedi.com,641,7.391084103857034,,,Sim,4.0
+842.036.591-24,Dr. Marcelo Costa,23,Masculino,dr._marcelo_costa_842@cepedi.com,674,,,,Sim,2.0
+147.963.850-10,Ryan da Cunha,25,Masculino,ryan_da_cunha_147@cepedi.com,654,,,,Sim,2.0
+678.912.530-21,Dra. Alice Porto,22,Feminino,dra._alice_porto_678@cepedi.com,787,5.960438604422742,7.66908058185045,8.740668291961,Não,
+204.158.673-71,Ana Lívia da Cunha,18,Feminino,ana_lívia_da_cunha_204@cepedi.com,725,8.953732377357563,8.4458441151292,9.151014617871471,Não,
+178.523.049-23,Maria Sophia Duarte,25,Feminino,maria_sophia_duarte_178@cepedi.com,783,7.6056141385659,,,Sim,3.0
+710.946.358-39,Olivia Dias,25,Feminino,olivia_dias_710@cepedi.com,740,6.826915335323394,9.650717813555552,,Sim,6.0
+067.852.341-07,Dr. Danilo Silveira,26,Masculino,dr._danilo_silveira_067@cepedi.com,670,7.854796928745708,6.111952166721252,7.824293177603998,Não,
+153.987.620-95,Vicente da Mata,26,Masculino,vicente_da_mata_153@cepedi.com,795,6.055391524422529,8.343313509607349,,Sim,6.0
+381.954.627-82,Kevin Melo,28,Masculino,kevin_melo_381@cepedi.com,725,5.441693701057565,5.637575600433365,9.998556886683547,Não,
+725.614.809-76,Maria Luiza Cunha,19,Feminino,maria_luiza_cunha_725@cepedi.com,713,8.106816219489476,9.12939898386677,9.487198926467313,Não,
+907.325.648-83,Isadora Silva,21,Feminino,isadora_silva_907@cepedi.com,696,5.552864581583155,5.899933080737948,9.418107727483598,Sim,8.0
+297.856.341-91,Ana Luiza Cardoso,23,Feminino,ana_luiza_cardoso_297@cepedi.com,665,,,,Sim,2.0
+974.856.012-02,Maria Eduarda Pinto,24,Feminino,maria_eduarda_pinto_974@cepedi.com,651,,,,Sim,2.0
+065.432.718-17,Marcos Vinicius Melo,19,Masculino,marcos_vinicius_melo_065@cepedi.com,796,7.5309204523200375,5.9987907464135874,,Sim,6.0
+203.416.798-87,Luiz Henrique da Mota,18,Masculino,luiz_henrique_da_mota_203@cepedi.com,651,7.029962821013777,6.994290516259513,8.578257418673171,Não,
+187.435.902-41,João Guilherme Cavalcanti,23,Masculino,joão_guilherme_cavalcanti_187@cepedi.com,780,7.8279572994282205,6.398962824831954,8.441502623445121,Não,
+284.610.973-78,Catarina Ribeiro,26,Feminino,catarina_ribeiro_284@cepedi.com,700,6.807684136735117,,,Sim,3.0
+029.687.145-11,Sr. Pedro Miguel Ferreira,19,Masculino,sr._pedro_miguel_ferreira_029@cepedi.com,677,8.766295662258235,7.630279900579918,9.456060243283712,Não,
+823.415.906-24,Sra. Lorena Cunha,27,Feminino,sra._lorena_cunha_823@cepedi.com,665,8.846064353059646,7.266810548202508,7.6969431861710085,Não,
+713.980.654-39,Sra. Heloísa Moreira,21,Feminino,sra._heloísa_moreira_713@cepedi.com,668,,,,Sim,1.0
+637.014.285-90,Pedro Miguel Moraes,26,Masculino,pedro_miguel_moraes_637@cepedi.com,704,8.483121681315025,5.623229222546978,7.590538602787072,Sim,8.0
+534.720.186-07,Stephany Jesus,19,Feminino,stephany_jesus_534@cepedi.com,788,5.307891495443002,,,Sim,3.0
+813.907.546-93,Vicente Ferreira,22,Masculino,vicente_ferreira_813@cepedi.com,747,9.31715360412566,5.613304442833365,8.359622718229307,Sim,7.0
+146.753.982-19,Ana Carolina da Conceição,26,Feminino,ana_carolina_da_conceição_146@cepedi.com,751,6.818313721003236,9.316770089345798,6.78057509096063,Não,
+451.798.203-32,Sra. Maria Clara da Rosa,28,Feminino,sra._maria_clara_da_rosa_451@cepedi.com,712,9.733157749002428,9.503003159909795,7.487090361490223,Não,
+572.983.461-64,Sophie da Mata,18,Feminino,sophie_da_mata_572@cepedi.com,748,7.173411568838574,9.7767666632435,,Sim,6.0
+924.581.370-32,João Guilherme Gonçalves,25,Masculino,joão_guilherme_gonçalves_924@cepedi.com,725,7.543684886336495,6.351865957063465,6.598684985729304,Não,
+349.876.210-96,Sra. Maria Vieira,25,Feminino,sra._maria_vieira_349@cepedi.com,778,5.208706220136639,6.800352280353085,7.04795941859452,Não,
+728.905.641-85,Luiz Otávio Teixeira,22,Masculino,luiz_otávio_teixeira_728@cepedi.com,665,8.865613753008754,,,Sim,3.0
+845.796.320-10,Sr. João Miguel Mendes,21,Masculino,sr._joão_miguel_mendes_845@cepedi.com,650,,,,Sim,1.0
+521.679.430-16,João Felipe Porto,24,Masculino,joão_felipe_porto_521@cepedi.com,649,,,,Sim,2.0
+928.301.647-50,Alice Pires,25,Feminino,alice_pires_928@cepedi.com,771,7.880312948218496,7.2320420190253305,,Sim,5.0
+347.698.052-92,Eduarda Monteiro,28,Feminino,eduarda_monteiro_347@cepedi.com,663,6.700409410244479,7.509203518452115,6.711416178258799,Não,
+892.537.041-79,Pietro da Cruz,19,Masculino,pietro_da_cruz_892@cepedi.com,729,7.572309916281569,,,Sim,4.0
+521.043.879-14,Dra. Julia Teixeira,21,Feminino,dra._julia_teixeira_521@cepedi.com,709,6.8501652162304705,5.7412725498695325,,Sim,6.0
+918.246.057-49,Luiz Otávio Ferreira,25,Masculino,luiz_otávio_ferreira_918@cepedi.com,656,7.028828364190858,8.517981255255997,5.037930329900333,Não,
+508.793.426-92,Camila Duarte,25,Feminino,camila_duarte_508@cepedi.com,775,9.484409087528473,8.328860165158426,5.970961680317953,Não,
+578.904.361-57,Sabrina Novaes,22,Feminino,sabrina_novaes_578@cepedi.com,718,9.089420678896342,9.486367399544363,9.168556816579365,Não,
+891.526.470-30,Pedro Lucas Castro,18,Masculino,pedro_lucas_castro_891@cepedi.com,756,7.132339434653,5.006510351174675,7.409226799884301,Não,
+647.082.391-22,Maria Fernanda Barros,19,Feminino,maria_fernanda_barros_647@cepedi.com,722,8.920417455100814,,,Sim,3.0
+862.713.950-40,Srta. Laura Barros,23,Feminino,srta._laura_barros_862@cepedi.com,662,5.338279323323581,6.058708189740016,,Sim,6.0
+793.215.684-09,Pedro Henrique Rocha,28,Masculino,pedro_henrique_rocha_793@cepedi.com,670,6.873395017203424,9.701820125545199,5.443522334279717,Não,
+892.534.016-05,Ana Barbosa,25,Feminino,ana_barbosa_892@cepedi.com,672,9.483366445130862,6.318364255932827,,Sim,5.0
+718.562.304-90,Eloah Ribeiro,21,Feminino,eloah_ribeiro_718@cepedi.com,693,6.013300549677292,5.7924063235694785,6.222859081615522,Sim,8.0
+064.583.279-00,Rebeca Aragão,28,Feminino,rebeca_aragão_064@cepedi.com,769,,,,Sim,2.0
+917.264.350-16,Sabrina da Paz,24,Feminino,sabrina_da_paz_917@cepedi.com,784,,,,Sim,2.0
+326.150.798-59,Isadora Peixoto,27,Feminino,isadora_peixoto_326@cepedi.com,787,7.016576436613439,,,Sim,3.0
+371.546.890-48,Antônio Ribeiro,28,Masculino,antônio_ribeiro_371@cepedi.com,749,7.149157688130215,8.006458329491421,6.743649060332042,Não,
+496.720.853-38,Valentina Santos,28,Feminino,valentina_santos_496@cepedi.com,779,6.1866315565923085,5.884212388545331,6.852343484977721,Não,
+183.945.076-20,Pedro Henrique Barros,22,Masculino,pedro_henrique_barros_183@cepedi.com,781,,,,Sim,2.0
+257.806.413-07,Luna Carvalho,20,Feminino,luna_carvalho_257@cepedi.com,772,7.310736438073773,6.9100355852165745,8.37374151572657,Não,
+315.467.829-82,Maitê da Conceição,23,Feminino,maitê_da_conceição_315@cepedi.com,766,,,,Sim,1.0
+314.275.906-99,Paulo da Mota,20,Masculino,paulo_da_mota_314@cepedi.com,690,8.47838713060068,5.705268003533067,,Sim,6.0
+905.718.362-59,Marcos Vinicius Gomes,27,Masculino,marcos_vinicius_gomes_905@cepedi.com,718,6.371403517273305,8.947647905965427,6.458705001143532,Não,
+765.194.038-57,Gabriela Nogueira,26,Feminino,gabriela_nogueira_765@cepedi.com,652,7.904814530992181,5.7000558895859275,9.16145713024142,Não,
+915.634.280-24,Emanuella Ribeiro,24,Feminino,emanuella_ribeiro_915@cepedi.com,741,6.419151501033957,9.800220075571685,,Sim,6.0
+341.697.205-80,Bruno Martins,28,Masculino,bruno_martins_341@cepedi.com,719,6.8794687033139095,,,Sim,3.0
+952.104.368-70,Theo Moura,25,Masculino,theo_moura_952@cepedi.com,732,5.128359662191929,8.51112721146615,6.5764350712131705,Não,
+812.735.649-28,Sr. Davi Luiz Fernandes,18,Masculino,sr._davi_luiz_fernandes_812@cepedi.com,697,7.213628975148915,9.541625597954162,9.442973026017189,Não,
+829.136.450-89,Sophia Alves,22,Feminino,sophia_alves_829@cepedi.com,667,7.1801236088548865,,,Sim,4.0
+426.980.137-96,Dr. Bernardo Mendes,27,Masculino,dr._bernardo_mendes_426@cepedi.com,788,8.567249229077389,,,Sim,4.0
+018.759.624-76,Agatha da Mota,22,Feminino,agatha_da_mota_018@cepedi.com,693,9.950393574772002,7.148705047731916,9.836325752193808,Não,
+506.834.972-00,Srta. Heloísa Oliveira,22,Feminino,srta._heloísa_oliveira_506@cepedi.com,712,9.763024700348996,6.975635780213134,,Sim,6.0
+934.582.160-06,Sra. Bárbara Vieira,22,Feminino,sra._bárbara_vieira_934@cepedi.com,787,6.739858650791678,,,Sim,3.0
+856.701.249-01,Luiz Fernando Moraes,23,Masculino,luiz_fernando_moraes_856@cepedi.com,657,7.00541999880206,6.02474345476313,6.00985674886557,Não,
+468.513.907-01,Mirella das Neves,25,Feminino,mirella_das_neves_468@cepedi.com,668,7.755974473320496,9.852983987857197,9.753501828885682,Não,
+179.624.038-96,Gustavo Porto,19,Masculino,gustavo_porto_179@cepedi.com,663,6.95714452513604,6.530557178526109,,Sim,5.0
+396.840.725-38,Joana Nogueira,25,Feminino,joana_nogueira_396@cepedi.com,698,5.63424043155623,8.764005938813204,6.766364049957989,Sim,7.0
+597.026.813-59,Guilherme Novaes,20,Masculino,guilherme_novaes_597@cepedi.com,788,9.640895364170255,9.961205394519428,5.627516804477542,Sim,8.0
+125.896.074-58,Amanda Barbosa,20,Feminino,amanda_barbosa_125@cepedi.com,650,7.4072541266141005,9.978631401483309,,Sim,6.0
+280.396.754-56,Laura Cardoso,18,Feminino,laura_cardoso_280@cepedi.com,730,6.241211369676893,9.093423500342016,6.272535298135189,Não,
+938.027.614-13,Antônio Rodrigues,24,Masculino,antônio_rodrigues_938@cepedi.com,767,8.778943572600857,6.756564155487817,5.774753833261277,Não,
+918.235.704-88,Sra. Ana Mendes,26,Feminino,sra._ana_mendes_918@cepedi.com,730,9.724557911108356,7.547691309560437,6.745315570732783,Não,
+861.359.704-10,Melissa Ribeiro,22,Feminino,melissa_ribeiro_861@cepedi.com,689,5.47797791925667,6.388719761578255,6.049702419167097,Não,
+041.296.853-33,Gabriel Martins,22,Masculino,gabriel_martins_041@cepedi.com,646,9.551101012678224,7.3953581217586795,9.078911879218083,Não,
+058.496.132-42,Srta. Ana Vitória Cavalcanti,20,Feminino,srta._ana_vitória_cavalcanti_058@cepedi.com,651,8.665129971704726,7.433571558280347,9.98492227318852,Não,
+723.560.419-07,Marcos Vinicius da Costa,26,Masculino,marcos_vinicius_da_costa_723@cepedi.com,701,7.07049294935182,6.813484987176912,7.430846565453238,Não,
+196.520.347-70,Nathan da Conceição,25,Masculino,nathan_da_conceição_196@cepedi.com,755,,,,Sim,2.0
+149.758.230-04,Manuela Souza,22,Feminino,manuela_souza_149@cepedi.com,693,9.664568390260182,6.608737550538876,9.732514932282932,Sim,8.0
+425.689.710-02,Carolina Cunha,24,Feminino,carolina_cunha_425@cepedi.com,753,8.746402125763838,,,Sim,4.0
+650.871.243-80,Sr. Vitor Santos,19,Masculino,sr._vitor_santos_650@cepedi.com,734,8.169907223375215,,,Sim,3.0
+214.598.670-76,Sra. Alícia Fernandes,22,Feminino,sra._alícia_fernandes_214@cepedi.com,651,7.247360957765239,8.211369310344471,7.981798711210586,Não,
+719.582.340-79,Calebe Costela,19,Masculino,calebe_costela_719@cepedi.com,693,8.743153992259955,6.9525439104005065,6.962993867396312,Sim,7.0
+845.037.216-07,Sr. Leonardo Dias,20,Masculino,sr._leonardo_dias_845@cepedi.com,756,8.037978942638972,8.285675253851833,8.14314741013022,Não,
+852.934.670-00,Lara Monteiro,26,Feminino,lara_monteiro_852@cepedi.com,791,5.945040277057879,6.185416326688444,8.806574903044245,Sim,8.0
+412.638.957-19,Gabriela Ribeiro,20,Feminino,gabriela_ribeiro_412@cepedi.com,746,9.409870777680798,7.618539922000956,9.065947871358901,Não,
+327.916.580-68,Lucas Gabriel Moraes,20,Masculino,lucas_gabriel_moraes_327@cepedi.com,684,6.426302094365034,,,Sim,4.0
+438.261.907-69,Heloísa Rodrigues,18,Feminino,heloísa_rodrigues_438@cepedi.com,753,6.04395514562066,8.944238790542169,6.906569643587167,Não,
+956.238.071-86,Noah Fernandes,24,Masculino,noah_fernandes_956@cepedi.com,682,9.627815307620374,6.9079897413714875,5.029061067500807,Não,
+849.632.071-50,Milena da Rocha,22,Feminino,milena_da_rocha_849@cepedi.com,667,6.464231754450364,6.2778304804152985,6.910155131138761,Não,
+908.531.246-98,Bruno Gonçalves,23,Masculino,bruno_gonçalves_908@cepedi.com,756,8.60127392648674,9.3575306002902,8.659057648628899,Não,
+098.653.124-33,Sarah Moura,23,Feminino,sarah_moura_098@cepedi.com,780,6.620488165994314,9.015302100483234,6.5802438182255845,Não,
+031.675.982-12,Ryan Melo,18,Masculino,ryan_melo_031@cepedi.com,746,,,,Sim,2.0
+063.597.214-06,Raul da Cruz,18,Masculino,raul_da_cruz_063@cepedi.com,731,8.71940355859773,9.010181242513868,,Sim,5.0
+078.125.349-79,Sra. Giovanna Rodrigues,20,Feminino,sra._giovanna_rodrigues_078@cepedi.com,746,8.944957404515293,,,Sim,4.0
+936.815.402-33,Ana Laura Nascimento,23,Feminino,ana_laura_nascimento_936@cepedi.com,669,7.2527072657860305,5.38510015661842,6.281461818995778,Não,
+538.624.910-05,Letícia Pinto,26,Feminino,letícia_pinto_538@cepedi.com,728,9.415023234055168,9.765909794653355,5.327121533448887,Não,
+702.516.493-34,Luiz Fernando Vieira,19,Masculino,luiz_fernando_vieira_702@cepedi.com,792,8.315521497461793,8.98613285821525,8.757966509434176,Não,
+084.921.376-22,Srta. Luiza Costela,20,Feminino,srta._luiza_costela_084@cepedi.com,697,5.163345243825937,8.458965300090385,8.14513544587335,Não,
+879.031.426-31,Rafaela Almeida,27,Feminino,rafaela_almeida_879@cepedi.com,791,6.598556106721122,,,Sim,3.0
+319.746.802-31,Maria Luiza da Mata,25,Feminino,maria_luiza_da_mata_319@cepedi.com,771,5.5915780528121495,5.61696118965482,7.99138529177065,Não,
+541.673.082-07,Felipe Lima,19,Masculino,felipe_lima_541@cepedi.com,771,5.446515890248251,,,Sim,4.0
+320.854.796-00,Henrique Duarte,27,Masculino,henrique_duarte_320@cepedi.com,690,,,,Sim,2.0
+836.190.274-04,Luiz Miguel Castro,23,Masculino,luiz_miguel_castro_836@cepedi.com,703,9.95739794762801,8.800460212034823,8.81339333702741,Não,
+546.820.173-90,Beatriz Oliveira,24,Feminino,beatriz_oliveira_546@cepedi.com,688,,,,Sim,2.0
+986.017.543-84,Davi Lucas Mendes,19,Masculino,davi_lucas_mendes_986@cepedi.com,666,9.275291670864842,5.020070070070154,7.023218963896439,Não,
+289.743.156-37,Thales Carvalho,26,Masculino,thales_carvalho_289@cepedi.com,771,8.786988881478495,5.267605071262659,,Sim,5.0
+529.476.301-06,Pedro Vieira,22,Masculino,pedro_vieira_529@cepedi.com,703,7.701900971224795,,,Sim,4.0
+950.734.861-10,Dra. Julia Gomes,18,Feminino,dra._julia_gomes_950@cepedi.com,677,9.67008560742049,9.625139757790873,8.639773388268885,Sim,8.0
+048.952.367-65,Luiza Cunha,27,Feminino,luiza_cunha_048@cepedi.com,739,5.167587481805612,5.673917173595677,8.343070889352493,Não,
+015.249.376-06,Dr. Luiz Miguel Viana,25,Masculino,dr._luiz_miguel_viana_015@cepedi.com,773,9.940623839127412,,,Sim,3.0
+683.205.194-89,Raquel Pinto,28,Feminino,raquel_pinto_683@cepedi.com,655,5.21986346029403,7.321081813659202,7.794016267592458,Não,
+061.495.387-10,Sr. Marcos Vinicius Moraes,24,Masculino,sr._marcos_vinicius_moraes_061@cepedi.com,696,,,,Sim,1.0
+157.432.096-34,Mirella Melo,20,Feminino,mirella_melo_157@cepedi.com,752,9.729063495624573,6.576719035715453,9.530242369500339,Não,
+706.918.352-68,Vicente Ribeiro,27,Masculino,vicente_ribeiro_706@cepedi.com,739,9.395517675741818,9.995093998376285,9.770804024775757,Não,
+658.729.014-02,Henrique Correia,25,Masculino,henrique_correia_658@cepedi.com,703,,,,Sim,1.0
+517.968.342-46,Sra. Marina Barbosa,22,Feminino,sra._marina_barbosa_517@cepedi.com,667,,,,Sim,2.0
+387.614.250-44,Ana Carolina Almeida,22,Feminino,ana_carolina_almeida_387@cepedi.com,676,7.124670381469549,9.442450626668524,8.206190552235888,Sim,8.0
+534.671.892-37,Mariane Nascimento,19,Feminino,mariane_nascimento_534@cepedi.com,772,7.0199447223781135,8.701552460173037,8.627922844939997,Não,
+928.015.734-50,Daniela Nascimento,22,Feminino,daniela_nascimento_928@cepedi.com,663,8.254613639821187,8.294098020200408,7.025926872672698,Não,
+024.973.158-41,Ana Julia Castro,26,Feminino,ana_julia_castro_024@cepedi.com,735,5.044067758035147,8.939376646467899,,Sim,6.0
+387.491.526-37,Luiz Gustavo da Mota,23,Masculino,luiz_gustavo_da_mota_387@cepedi.com,713,6.34038066443641,7.815534766884186,9.233686073670036,Não,
+823.041.795-41,Alexia Nogueira,25,Feminino,alexia_nogueira_823@cepedi.com,733,6.2009315744618565,7.317989165433295,,Sim,5.0
+841.965.270-94,Dr. Levi da Rosa,18,Masculino,dr._levi_da_rosa_841@cepedi.com,695,7.069463652283558,8.209370483569852,5.984338747037221,Não,
+517.364.028-62,Sra. Bárbara Sales,21,Feminino,sra._bárbara_sales_517@cepedi.com,737,5.58911793425327,5.595594539345913,,Sim,5.0
+740.136.582-08,Sra. Nina Moura,25,Feminino,sra._nina_moura_740@cepedi.com,664,8.680109464513041,9.788611139488296,,Sim,5.0
+791.856.240-20,Davi Cunha,23,Masculino,davi_cunha_791@cepedi.com,783,5.627725642182375,5.41996141141859,9.38893433245197,Não,
+859.264.730-47,Ana Laura Dias,23,Feminino,ana_laura_dias_859@cepedi.com,777,8.620641454499514,8.872976903976353,7.2495446105666765,Não,
+269.431.087-78,Rebeca Sales,18,Feminino,rebeca_sales_269@cepedi.com,668,6.977297724823804,9.55331578059369,5.568610986876177,Não,
+840.275.913-05,Sr. Yago da Mota,21,Masculino,sr._yago_da_mota_840@cepedi.com,658,6.796773528932743,7.421403141313946,5.7496184408816235,Não,
+467.592.138-82,Nina da Rosa,24,Feminino,nina_da_rosa_467@cepedi.com,661,6.466889555196285,7.915439827760015,8.228705461731925,Não,
+281.936.705-40,Lara Moreira,26,Feminino,lara_moreira_281@cepedi.com,712,7.680274367956568,7.6735151746805075,6.444532932692983,Sim,7.0
+028.536.471-53,Yago Fernandes,25,Masculino,yago_fernandes_028@cepedi.com,746,8.185835898624795,5.3273991572145185,,Sim,6.0
+854.621.039-05,Cauê da Mota,26,Masculino,cauê_da_mota_854@cepedi.com,747,,,,Sim,2.0
+410.862.759-85,Julia Pereira,22,Feminino,julia_pereira_410@cepedi.com,669,,,,Sim,1.0
+098.135.476-93,Luigi Vieira,28,Masculino,luigi_vieira_098@cepedi.com,671,9.785069078740435,8.658869202232019,8.4877911782871,Não,
+182.359.704-14,Gustavo Lopes,24,Masculino,gustavo_lopes_182@cepedi.com,648,,,,Sim,1.0
+850.934.671-20,Yuri Martins,26,Masculino,yuri_martins_850@cepedi.com,696,,,,Sim,2.0
+987.056.312-03,Laura Pereira,26,Feminino,laura_pereira_987@cepedi.com,688,5.939097050336027,8.887443041616748,9.020777467466823,Não,
