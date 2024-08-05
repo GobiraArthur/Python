@@ -1,0 +1,84 @@
+{% extends 'base.html' %}
+
+{% block style %}
+    * {
+        padding: 0 !important;
+        margin: 0 !important;
+        box-sizing: border-box;
+        cursor: default;
+    }
+    p.descricao {
+        font-size: .85rem;
+    }
+    nav{
+        background-color: #ddd5;
+    }
+    nav a {
+        color: #fff;
+        mix-blend-mode: multiply;
+    }
+
+{% endblock style %}
+
+{% block nav %}
+    {% for cardapio in cardapios %}
+        <li class="nav-item">
+            <a class="btn mx-3" aria-current="page" href="#{{cardapio.nome|slugify}}">{{cardapio.nome}}</a>
+        </li>
+    {% endfor %}
+{% endblock nav %}
+
+{% block header %}
+    <header class="vh-100 position-relative">
+        {% load static %}
+        <img src="{% static 'tacho.jpg' %}" alt="Imagem de fundo. Um tacho de ferro." class="w-100 h-100 position-absolute object-fit-cover">
+        <div class="position-absolute top-50 start-50 translate-middle text-light">
+            <h1>Conecta Sertão</h1>
+            <p class="text-center"> Um restaurante simples, <br> mas que prioriza qualidade.</p>
+        </div>
+    </header>
+{% endblock header %}
+
+{% block main %}
+    {% load static %}
+    {% for cardapio in cardapios %}
+    <section id="{{cardapio.nome|slugify}}" class="min-vh-100 row align-content-center align-items-center py-5 {% cycle 'bg-secondary' 'bg-primary' %}">
+        <h2 class="h-100 col-12 col-sm-3 col-xl-2 text-center text-light border-light my-5
+                    {% cycle 'border-end text-secondary' 'order-sm-1 border-start text-primary' %}">
+            {{cardapio.nome}}
+        </h2>
+        <div class="col-12 col-sm-9 col-xl-10">
+            {% regroup cardapio.itemcardapio_set.all by item.categoria as categorias %}
+            {% for categoria in categorias %}
+                <div class="mb-3 mx-5">
+                    {{categoria.grouper}}
+                    <hr>
+                </div>
+                {% for assoc in categoria.list %}
+                    <div class="row px-5 mb-4 align-items-center">
+                        <div class="row align-items-center  col-md-4 col-xl-2 {% cycle 'order-0' 'order-md-1' %} {% cycle 'pe-5' 'ps-5' %}">
+                            <img src="{% static assoc.item.imagem %}" alt="Imagem de {{assoc.item.nome}}" class="rounded col-6 col-md-12">
+                            <p class="text-center text-tertiary col-6 col-md-12">{{assoc.item.nome}}</p>
+                        </div>
+                        <p class="my-3 col-12 col-md-8 col-xl-10 descricao {% cycle 'text-start' 'text-end' %}">
+                            {{assoc.item.descricao}}
+                            <br>
+                            <strong>Tempo de Preparo: </strong>{{assoc.item.tempo_preparo}}
+                            <br>
+                            <strong>Preço: </strong>R$ {{assoc.item.preco}}
+                        </p>
+                    </div>
+                {% empty %}
+                    <p> Sem produtos nessa categoria </p>
+                {% endfor %}
+            {% empty %}
+                <p> Ainda não há produtos neste cardápio. </p>
+            {% endfor %}
+        </div>
+    </section>
+    {% empty %}
+    <section class="min-vh-100 d-flex justify-content-center align-items-center">
+        <h1>Ainda não há cardapios disponíveis</h1>
+    </section>
+    {% endfor %}
+{% endblock main %}

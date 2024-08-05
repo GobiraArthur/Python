@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Conecta Sertão</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <style>
+        :root {
+            --bs-primary:#DBB99E;
+            --bs-primary-rgb:219,185,158;
+            --bs-secondary:#FFDDBD;
+            --bs-secondary-rgb:255,221,189;
+        }
+        nav {
+            min-height: 80px;
+        }
+        .nav-item {
+            position: relative;
+        }
+        .nav-item::after{
+            content: "";
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            bottom: 0;
+            border-bottom: 1px solid black;
+            width: 0%;
+        }
+        .nav-item:hover::after{
+            width: 90%;
+            transition: all .5s .1s;
+        }
+        img {
+            opacity: .5;
+            animation: fade-img forwards;
+            animation-timeline: view();
+            animation-range: 250px 500px;
+        }
+        @keyframes fade-img {
+            to {
+                opacity: 1;
+            }
+        }
+
+        {% block style %}
+        {% endblock style %}
+    </style>
+  </head>
+  <body class="container-fluid">
+    <nav class="navbar align-items-stretch navbar-expand-md position-fixed top-0 z-1 w-100">
+        <div class="container-fluid row align-items-center">
+          <a class="navbar-brand col-auto ms-3" href="#">Conecta Sertão</a>
+          <button class="navbar-toggler col-auto my-3 me-3" type="button" data-bs-toggle="collapse" data-bs-target="#navegacao" aria-controls="navegacao" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse col-auto row align-self-stretch" id="navegacao">
+            <ul class="navbar-nav col justify-content-center">
+                {% block nav %}
+                {% endblock nav %}
+            </ul>
+            {% if user.is_authenticated %}
+                <div class="dropdown col-auto me-3 h-100">
+                    <button class="btn btn-secondary h-100 px-3 py-2 dropdown-toggle rounded-0" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person" viewBox="0 0 16 16">
+                            <path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6m2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0m4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4m-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10s-3.516.68-4.168 1.332c-.678.678-.83 1.418-.832 1.664z"/>
+                        </svg>
+                        {{user.username}}
+                    </button>
+                    <ul class="dropdown-menu border-0">
+                        <li><a href="#"  data-bs-toggle="modal" data-bs-target="#modal-perfil" class="rounded-0 d-block btn btn-secondary"> Perfil </a></li>
+                        <li><a href="{% url 'logout' %}" class="rounded-0 d-block btn btn-secondary"> Logout </a></li>
+                    </ul>
+                </div>
+            {% else %}
+                <a href="#" class="btn col-auto px-3 py-2 my-3 me-3" data-bs-toggle="modal" data-bs-target="#modal-login"> Login </a>
+                <a href="#" class="btn col-auto px-3 py-2 my-3 me-3" data-bs-toggle="modal" data-bs-target="#modal-cadastro"> Novo Usuário </a>
+            {% endif %}
+          </div>
+        </div>
+    </nav>
+    {% block header %}
+    {% endblock header %}
+    <main>
+        {% if not user.is_authenticated %}
+        <section id="modal-login" class="modal top-0 row align-content-center">
+            <div class="modal-dialog col-10 col-lg-6 mx-auto bg-light rounded">
+                <div class="modal-content p-4">
+                    <h2 class="text-center text-dark my-4"> Login </h2>
+                    <form method="post" action="{% url 'login' %}" class="row flex-column align-items-end">
+                        {% csrf_token %}
+                        {{loginform.username}}
+                        {{loginform.password}}                        
+                        <div class="col-auto">
+                            <a type="button" class="btn my-3 btn-secondary px-3 py-2" data-bs-dismiss="modal"> Cancelar </a>
+                            <button type="submit" class="btn my-3 btn-success px-3 py-2"> Login </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </section>
+        <section id="modal-cadastro" class="modal top-0 row align-content-center">
+            <div class="modal-dialog col-10 col-lg-6 mx-auto bg-light rounded">
+                <div class="modal-content p-4">
+                    <h2 class="text-center text-dark my-4"> Cadastro </h2>
+                    <form method="post" action="{% url 'newuser' %}" class="row flex-column align-items-end">
+                        {% csrf_token %}
+                        <div class="text-danger">
+                            {{userform.errors.first_name}}
+                            {{userform.errors.last_name}}
+                            {{userform.errors.email}}
+                            {{userform.errors.username}}
+                            {{userform.errors.password}}
+                        </div>
+                        <div class="d-flex gap-2">
+                            {{userform.first_name}}
+                            {{userform.last_name}}
+                        </div>
+                        {{userform.email}}
+                        {{userform.username}}
+                        {{userform.password}}
+                        <input name="confirmacao" type="password" placeholder="Confirmação" class="col form-control my-2 p-2">
+                        <div class="col-auto">
+                            <a type="button" class="btn my-3 btn-secondary px-3 py-2" data-bs-dismiss="modal"> Cancelar </a>
+                            <button type="submit" class="btn my-3 btn-success px-3 py-2"> Cadastro </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </section>
+        {% else %}
+        <section id="modal-perfil" class="modal top-0 row align-content-center">
+            <div class="modal-dialog col-10 col-lg-6 mx-auto bg-light rounded">
+                <div class="modal-content p-4">
+                    <h2 class="text-center text-dark my-4"> Perfil </h2>
+                    <form method="post" action="{% url 'editperfil' %}" class="row flex-column align-items-end">
+                        {% csrf_token %}
+                        <p>Usuário:</p>
+                        <input type="text" readonly class="form-control-plaintext my-2" value="{{user.username}}">
+
+                        <p>Nome:</p>
+                        <div class="d-flex gap-2">
+                            {{userform.first_name}}
+                            {{userform.last_name}}
+                        </div>
+                        <p>Email:</p>
+                        {{userform.email}}
+                        <div class="col-auto">
+                            <a href='{% url 'deluser' user.id %}' type="button" class="my-3 text-danger px-3 py-2 link text-decoration-none"> Encerrar Conta </a>
+                            <a type="button" class="btn my-3 btn-secondary px-3 py-2" data-bs-dismiss="modal"> Cancelar </a>
+                            <button type="submit" class="btn my-3 btn-success px-3 py-2"> Atualizar </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </section>        
+        {% endif %}
+        {% block main %}
+        {% endblock main %}
+    </main>
+    <footer class="text-light py-5 text-center bg-primary fs-2">
+        Copyright &copy; 2024
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+  </body>
+</html>
